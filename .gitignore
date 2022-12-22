@@ -285,6 +285,11 @@ TSWLatexianTemp*
 .idea/**/dictionaries
 .idea/**/shelf
 
+# IDE all settings
+.idea/**/*.xml
+.idea/**/*.iml
+.idea/.gitignore
+
 # AWS User-specific
 .idea/**/aws.xml
 
