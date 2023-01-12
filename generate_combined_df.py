@@ -66,15 +66,16 @@ def combine_dataframes(ranks_df, rates_df, qdf, all_user_queries):
 def main():
     ranks_df_file = 'data/ranks_df_long.csv'
     ratings_df_file = 'data/ratings_df_long.csv'
+    ndcg_df_path = 'data/user_queries/PL2.DFR.SD.ndcg@10'
+    all_user_queries_path = 'data/user_queries/all_normalized_user_queries.csv'
+    unique_user_queries_path = 'data/user_queries/unique_normalized_user_queries.csv'
+
     ranks_df, rates_df = read_survey_data(ranks_df_file, ratings_df_file)
-    ndcg_df = pd.read_csv(f'data/PL2.DFR.SD-survey.ndcg@10', sep='\t', header=None, names=['qid', f'nDCG@10'],
-                          index_col='qid')
+    ndcg_df = pd.read_csv(ndcg_df_path, sep='\t', header=None, names=['qid', f'nDCG@10'], index_col='qid')
     ranks_sr = ranks_df.groupby(['query'])['value'].mean()
     rates_sr = rates_df.groupby(['query'])['value'].mean()
     qdf = read_queries_df(ndcg_df, ranks_sr, rates_sr)
-    all_user_queries_path = 'data/user_queries/all_normalized_user_queries.csv'
-    unique_user_queries_path = 'data/user_queries/unique_normalized_user_queries.csv'
-    ndcg_df_path = 'data/user_queries/PL2.DFR.SD.ndcg@10'
+
     unique_user_queries_df = read_unique_users_queries(unique_user_queries_path)
     users_ndcg_df = read_ndcg_df(ndcg_df_path)
     all_user_queries = read_all_users_queries(all_user_queries_path, unique_user_queries_df, users_ndcg_df)
