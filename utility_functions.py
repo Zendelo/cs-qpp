@@ -67,3 +67,16 @@ def calc_ndcg(qrels_file, results_file, k, base=2, gdeval=True):
     print(res_df.to_string(float_format='%.5f'))
     print(f'Mean: {res_df.mean()[0]:.5f}')
     return res_df
+
+
+def read_survey_data(ranks_df_path, ratings_df_path):
+    col_names = ['rid', 'topic', 'query', 'value', 'wid', 'batch', 'duration', 'EndDate', 'query_mean']
+    dtypes = {'rid': str, 'topic': str, 'query': str, 'value': int, 'wid': str, 'batch': str, 'duration': int,
+              'query_mean': float}
+    ranks_df = pd.read_csv(ranks_df_path, index_col='rid', names=col_names, dtype=dtypes, header=0,
+                           parse_dates=['EndDate'])
+    rates_df = pd.read_csv(ratings_df_path, index_col='rid', names=col_names, dtype=dtypes, header=0,
+                           parse_dates=['EndDate'])
+    ranks_df['value'] = ranks_df['value'].max() - ranks_df['value'] + 1
+
+    return ranks_df, rates_df

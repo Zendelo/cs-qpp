@@ -1,4 +1,8 @@
+import os.path
+
 import pandas as pd
+
+from utility_functions import read_survey_data
 
 
 def read_queries_df(ndcg_df, ranks_sr, rates_sr):
@@ -9,19 +13,6 @@ def read_queries_df(ndcg_df, ranks_sr, rates_sr):
     qdf['topic'] = qdf.index.str.split('-').str[0]
     qdf = qdf.assign(avg_rate=qdf['query'].map(rates_sr), avg_rank=qdf['query'].map(ranks_sr))
     return qdf
-
-
-def read_survey_data(ranks_df_path, ratings_df_path):
-    col_names = ['rid', 'topic', 'query', 'value', 'wid', 'batch', 'duration', 'EndDate', 'query_mean']
-    dtypes = {'rid': str, 'topic': str, 'query': str, 'value': int, 'wid': str, 'batch': str, 'duration': int,
-              'query_mean': float}
-    ranks_df = pd.read_csv(ranks_df_path, index_col='rid', names=col_names, dtype=dtypes, header=0,
-                           parse_dates=['EndDate'])
-    rates_df = pd.read_csv(ratings_df_path, index_col='rid', names=col_names, dtype=dtypes, header=0,
-                           parse_dates=['EndDate'])
-    ranks_df['value'] = ranks_df['value'].max() - ranks_df['value'] + 1
-
-    return ranks_df, rates_df
 
 
 def read_unique_users_queries(unique_user_queries_path):
@@ -82,7 +73,8 @@ def main():
     comb_df = combine_dataframes(ranks_df, rates_df, qdf, all_user_queries)
     print(comb_df.head())
     print(comb_df.info())
-    comb_df.to_parquet('comb_df.parquet.zstd', compression='zstd')
+    comb_df.to_parquet('data/comb_df.parquet.zstd', compression='zstd')
+    print(f'combined df written to {os.path.abspath("data/comb_df.parquet.zstd")}')
     # filter only the accepted queries
     # all_user_queries = all_user_queries.loc[all_user_queries['rid'].isin(comb_df.index)]
 
