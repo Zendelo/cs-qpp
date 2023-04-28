@@ -4,6 +4,20 @@ import pandas as pd
 
 from utility_functions import read_survey_data
 
+# This topics classification was done with ChatGPT
+TOPICS_CLASSIFICATION = {'259': 'Understand',
+                         '223': 'Remember',
+                         '238': 'Remember',
+                         '297': 'Understand',
+                         '213': 'Understand',
+                         '266': 'Remember',
+                         '234': 'Understand',
+                         '253': 'Analyze',
+                         '286': 'Analyze',
+                         '261': 'Analyze',
+                         '283': 'Remember',
+                         '244': 'Understand'}
+
 
 def read_queries_df(ndcg_df, ranks_sr, rates_sr):
     qdf = pd.read_csv('data/QueriesSurvey.csv', header=None, names=['qid', 'query'], index_col='qid').applymap(
@@ -71,6 +85,8 @@ def main():
     users_ndcg_df = read_ndcg_df(ndcg_df_path)
     all_user_queries = read_all_users_queries(all_user_queries_path, unique_user_queries_df, users_ndcg_df)
     comb_df = combine_dataframes(ranks_df, rates_df, qdf, all_user_queries)
+    # add column with topic classification
+    comb_df['topic_class'] = comb_df['topic'].map(TOPICS_CLASSIFICATION)
     print(comb_df.head())
     print(comb_df.info())
     comb_df.to_parquet('data/comb_df.parquet.zstd', compression='zstd')
