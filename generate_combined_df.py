@@ -71,7 +71,8 @@ def combine_dataframes(ranks_df, rates_df, qdf, all_user_queries):
 def main():
     ranks_df_file = 'data/ranks_df_long.csv'
     ratings_df_file = 'data/ratings_df_long.csv'
-    ndcg_df_path = 'data/user_queries/PL2.DFR.SD.ndcg@10'
+    user_ndcg_df_path = 'data/user_queries/PL2.DFR.SD.ndcg@10'
+    ndcg_df_path = 'data/PL2.DFR.SD-survey.ndcg@10'
     all_user_queries_path = 'data/user_queries/all_normalized_user_queries.csv'
     unique_user_queries_path = 'data/user_queries/unique_normalized_user_queries.csv'
 
@@ -82,7 +83,7 @@ def main():
     qdf = read_queries_df(ndcg_df, ranks_sr, rates_sr)
 
     unique_user_queries_df = read_unique_users_queries(unique_user_queries_path)
-    users_ndcg_df = read_ndcg_df(ndcg_df_path)
+    users_ndcg_df = read_ndcg_df(user_ndcg_df_path)
     all_user_queries = read_all_users_queries(all_user_queries_path, unique_user_queries_df, users_ndcg_df)
     comb_df = combine_dataframes(ranks_df, rates_df, qdf, all_user_queries)
     # add column with topic classification
