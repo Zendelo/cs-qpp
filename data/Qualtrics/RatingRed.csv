@@ -1,0 +1,427 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q_RelevantIDDuplicate,Q_RelevantIDDuplicateScore,Q_RelevantIDFraudScore,Q_RelevantIDLastStartDate,213 - personal_1,213 - personal_2,213 - personal_3,213 - user query,213 - rating_12,213 - rating_13,213 - rating_14,213 - rating_15,213 - rating_16,213 - rating_17,253 - personal_1,253 - personal_2,253 - personal_3,253 - user query,253 - rating_1,253 - rating_2,253 - rating_3,253 - rating_4,253 - rating_5,253 - rating_12,234 - personal_1,234 - personal_2,234 - personal_3,234 - user query,234 - rating_12,234 - rating_13,234 - rating_14,234 - rating_15,234 - rating_16,234 - rating_17,283 - personal_1,283 - personal_2,283 - personal_3,283 - user query,283 - rating_1,283 - rating_2,283 - rating_3,283 - rating_4,283 - rating_5,283 - rating_12,Random ID,mistakes
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,Q_RelevantIDDuplicate,Q_RelevantIDDuplicateScore,Q_RelevantIDFraudScore,Q_RelevantIDLastStartDate,"Please read the backstory carefully and answer the following questions.
+Backstory:Your elderly aunt has recently complained about pain in her hands. Having recently heard of carpal tunnel syndrome, you wonder if this might be what she's suffering from, and decide to find more information on the symptoms of this syndrome. - I am familiar with this topic","Please read the backstory carefully and answer the following questions.
+Backstory:Your elderly aunt has recently complained about pain in her hands. Having recently heard of carpal tunnel syndrome, you wonder if this might be what she's suffering from, and decide to find more information on the symptoms of this syndrome. - This topic is interesting to me","Please read the backstory carefully and answer the following questions.
+Backstory:Your elderly aunt has recently complained about pain in her hands. Having recently heard of carpal tunnel syndrome, you wonder if this might be what she's suffering from, and decide to find more information on the symptoms of this syndrome. - It should be easy to find relevant information for this topic",Write a query that you would use to search for information on this topic.,"Backstory:
+
+Your elderly aunt has recently complained about pain in her hands. Having recently heard of carpal tunnel syndrome, you wonder if this might be what she's suffering from, and decide to find more information on the symptoms of this syndrome.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - carpal tunnel syndrome","Backstory:
+
+Your elderly aunt has recently complained about pain in her hands. Having recently heard of carpal tunnel syndrome, you wonder if this might be what she's suffering from, and decide to find more information on the symptoms of this syndrome.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - cts syndrome","Backstory:
+
+Your elderly aunt has recently complained about pain in her hands. Having recently heard of carpal tunnel syndrome, you wonder if this might be what she's suffering from, and decide to find more information on the symptoms of this syndrome.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - carpal tunnel syndrome wiki","Backstory:
+
+Your elderly aunt has recently complained about pain in her hands. Having recently heard of carpal tunnel syndrome, you wonder if this might be what she's suffering from, and decide to find more information on the symptoms of this syndrome.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - what is carpal tunnel syndrome","Backstory:
+
+Your elderly aunt has recently complained about pain in her hands. Having recently heard of carpal tunnel syndrome, you wonder if this might be what she's suffering from, and decide to find more information on the symptoms of this syndrome.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - carpal tunnel","Backstory:
+
+Your elderly aunt has recently complained about pain in her hands. Having recently heard of carpal tunnel syndrome, you wonder if this might be what she's suffering from, and decide to find more information on the symptoms of this syndrome.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - carpool tunnel","Please read the backstory carefully and answer the following questions.
+Backstory:A tooth at the back of your jaw is giving you a lot of pain - you think it might be an abscess. What treatments are available for it? - I am familiar with this topic","Please read the backstory carefully and answer the following questions.
+Backstory:A tooth at the back of your jaw is giving you a lot of pain - you think it might be an abscess. What treatments are available for it? - This topic is interesting to me","Please read the backstory carefully and answer the following questions.
+Backstory:A tooth at the back of your jaw is giving you a lot of pain - you think it might be an abscess. What treatments are available for it? - It should be easy to find relevant information for this topic",Write a query that you would use to search for information on this topic.,"Backstory:
+
+A tooth at the back of your jaw is giving you a lot of pain - you think it might be an abscess. What treatments are available for it?
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - tooth abscess treatment","Backstory:
+
+A tooth at the back of your jaw is giving you a lot of pain - you think it might be an abscess. What treatments are available for it?
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - abscess treatment","Backstory:
+
+A tooth at the back of your jaw is giving you a lot of pain - you think it might be an abscess. What treatments are available for it?
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - treatment for tooth abscess","Backstory:
+
+A tooth at the back of your jaw is giving you a lot of pain - you think it might be an abscess. What treatments are available for it?
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - tooth pain treatment","Backstory:
+
+A tooth at the back of your jaw is giving you a lot of pain - you think it might be an abscess. What treatments are available for it?
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - treatment for jaw pain","Backstory:
+
+A tooth at the back of your jaw is giving you a lot of pain - you think it might be an abscess. What treatments are available for it?
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - will tooth fairy help with pain","Please read the backstory carefully and answer the following questions.
+Backstory:A magazine article mentioned dark chocolate as a ""healthy"" food. This has got you wondering what the health benefits of dark chocolate might actually be. - I am familiar with this topic","Please read the backstory carefully and answer the following questions.
+Backstory:A magazine article mentioned dark chocolate as a ""healthy"" food. This has got you wondering what the health benefits of dark chocolate might actually be. - This topic is interesting to me","Please read the backstory carefully and answer the following questions.
+Backstory:A magazine article mentioned dark chocolate as a ""healthy"" food. This has got you wondering what the health benefits of dark chocolate might actually be. - It should be easy to find relevant information for this topic",Write a query that you would use to search for information on this topic.,"Backstory:
+
+A magazine article mentioned dark chocolate as a ""healthy"" food. This has got you wondering what the health benefits of dark chocolate might actually be.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - healthy food","Backstory:
+
+A magazine article mentioned dark chocolate as a ""healthy"" food. This has got you wondering what the health benefits of dark chocolate might actually be.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - healthy dark chocolate","Backstory:
+
+A magazine article mentioned dark chocolate as a ""healthy"" food. This has got you wondering what the health benefits of dark chocolate might actually be.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - dark chocolate health","Backstory:
+
+A magazine article mentioned dark chocolate as a ""healthy"" food. This has got you wondering what the health benefits of dark chocolate might actually be.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - how healthy is dark chocolate to the human body","Backstory:
+
+A magazine article mentioned dark chocolate as a ""healthy"" food. This has got you wondering what the health benefits of dark chocolate might actually be.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - health impact of dark chocolate","Backstory:
+
+A magazine article mentioned dark chocolate as a ""healthy"" food. This has got you wondering what the health benefits of dark chocolate might actually be.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - benefits of darkness on health","Please read the backstory carefully and answer the following questions.
+Backstory:You are planning a holiday in Pennsylvania USA, and have always dreamed of going on a hay ride. Find out where in Pennsylvania you can go on such a ride. - I am familiar with this topic","Please read the backstory carefully and answer the following questions.
+Backstory:You are planning a holiday in Pennsylvania USA, and have always dreamed of going on a hay ride. Find out where in Pennsylvania you can go on such a ride. - This topic is interesting to me","Please read the backstory carefully and answer the following questions.
+Backstory:You are planning a holiday in Pennsylvania USA, and have always dreamed of going on a hay ride. Find out where in Pennsylvania you can go on such a ride. - It should be easy to find relevant information for this topic",Write a query that you would use to search for information on this topic.,"Backstory:
+
+You are planning a holiday in Pennsylvania USA, and have always dreamed of going on a hay ride. Find out where in Pennsylvania you can go on such a ride.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - ride in pennsylvania","Backstory:
+
+You are planning a holiday in Pennsylvania USA, and have always dreamed of going on a hay ride. Find out where in Pennsylvania you can go on such a ride.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - hayride in pennsylvania","Backstory:
+
+You are planning a holiday in Pennsylvania USA, and have always dreamed of going on a hay ride. Find out where in Pennsylvania you can go on such a ride.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - where in pennsylvania you can go on a hayride","Backstory:
+
+You are planning a holiday in Pennsylvania USA, and have always dreamed of going on a hay ride. Find out where in Pennsylvania you can go on such a ride.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - pennsylvania usa hayride","Backstory:
+
+You are planning a holiday in Pennsylvania USA, and have always dreamed of going on a hay ride. Find out where in Pennsylvania you can go on such a ride.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - hayride pennsylvania","Backstory:
+
+You are planning a holiday in Pennsylvania USA, and have always dreamed of going on a hay ride. Find out where in Pennsylvania you can go on such a ride.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - pennsylvania high road",Random ID,mistakes
+"{""ImportId"":""startDate"",""timeZone"":""Australia/Canberra""}","{""ImportId"":""endDate"",""timeZone"":""Australia/Canberra""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Australia/Canberra""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""Q_RelevantIDDuplicate""}","{""ImportId"":""Q_RelevantIDDuplicateScore""}","{""ImportId"":""Q_RelevantIDFraudScore""}","{""ImportId"":""Q_RelevantIDLastStartDate"",""timeZone"":""UTC""}","{""ImportId"":""QID27_9""}","{""ImportId"":""QID27_2""}","{""ImportId"":""QID27_3""}","{""ImportId"":""QID28_TEXT""}","{""ImportId"":""QID29_12""}","{""ImportId"":""QID29_13""}","{""ImportId"":""QID29_14""}","{""ImportId"":""QID29_15""}","{""ImportId"":""QID29_16""}","{""ImportId"":""QID29_17""}","{""ImportId"":""QID30_9""}","{""ImportId"":""QID30_2""}","{""ImportId"":""QID30_3""}","{""ImportId"":""QID31_TEXT""}","{""ImportId"":""QID32_1""}","{""ImportId"":""QID32_2""}","{""ImportId"":""QID32_3""}","{""ImportId"":""QID32_4""}","{""ImportId"":""QID32_5""}","{""ImportId"":""QID32_12""}","{""ImportId"":""QID33_9""}","{""ImportId"":""QID33_2""}","{""ImportId"":""QID33_3""}","{""ImportId"":""QID34_TEXT""}","{""ImportId"":""QID35_12""}","{""ImportId"":""QID35_13""}","{""ImportId"":""QID35_14""}","{""ImportId"":""QID35_15""}","{""ImportId"":""QID35_16""}","{""ImportId"":""QID35_17""}","{""ImportId"":""QID36_9""}","{""ImportId"":""QID36_2""}","{""ImportId"":""QID36_3""}","{""ImportId"":""QID37_TEXT""}","{""ImportId"":""QID38_1""}","{""ImportId"":""QID38_2""}","{""ImportId"":""QID38_3""}","{""ImportId"":""QID38_4""}","{""ImportId"":""QID38_5""}","{""ImportId"":""QID38_12""}","{""ImportId"":""Random ID""}","{""ImportId"":""mistakes""}"
+2022-02-09 12:05:02,2022-02-09 12:06:49,0,98.212.187.205,100,106,1,2022-02-09 12:06:49,R_2WD3eNZJdyaByJM,,,,,42.0753936767578125,-87.82219696044921875,anonymous,EN,0.699999988079071044921875,,,,,1,1,5,carpal tunnel symptoms,3,2,4,2,2,1,1,1,5,tooth abscess treatments,5,4,5,2,2,1,1,1,5,health benefits of dark chocolate,1,2,2,4,3,1,1,1,5,Pennsylvania hay ride,1,5,5,3,4,1,679304572986,0
+2022-02-09 12:28:45,2022-02-09 12:31:40,0,162.196.176.250,100,174,1,2022-02-09 12:31:42,R_xFuoBrWtsDoeJxf,,,,,34.235992431640625,-118.52349853515625,anonymous,EN,0.699999988079071044921875,,,,,5,5,5,carpal tunnel syndrome symptoms and treatment,3,1,2,2,2,2,3,3,4,Abscess tooth treatments,5,3,5,3,2,1,5,5,5,Dark chocolate health benefits,1,3,4,4,4,1,1,1,3,Hay rides in Pennsylvania,1,4,5,4,4,1,711289959284,1
+2022-02-09 12:51:59,2022-02-09 12:54:15,0,73.247.81.157,100,135,1,2022-02-09 12:54:15,R_27264tLkSN8Dqnd,,,,,41.902496337890625,-87.67259979248046875,anonymous,EN,1,,0,0,,3,4,4,Carpal tunnel symptoms,4,4,4,4,4,1,3,4,4,Tooth abscess treatment,5,3,5,4,3,1,4,5,4,Dark chocolate health benefits,1,3,4,4,4,5,1,3,3,Pennsylvania Hay Rides,1,5,4,5,5,1,951910395454,1
+2022-02-09 14:13:04,2022-02-09 14:13:31,0,73.157.41.91,8,26,0,2022-02-09 15:13:08,R_1ps6W3cM5484jNi,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,779271625936,0
+2022-02-10 04:55:48,2022-02-10 04:57:48,0,104.169.163.46,100,119,1,2022-02-10 04:57:48,R_DBGi91AqCjQNvO1,,,,,35.042205810546875,-83.78299713134765625,anonymous,EN,1,,0,0,,4,4,5,carpel tunnel symptoms,4,2,4,4,4,1,3,4,4,tooth abcess treatment,5,3,5,4,3,1,4,4,5,how healthy is dark chocolate,1,4,4,5,5,1,2,3,4,hay rides in pennsylvania,2,5,5,5,5,1,116076109744,0
+2022-02-10 07:42:54,2022-02-10 07:47:29,0,72.221.95.3,100,274,1,2022-02-10 07:47:30,R_2zC5ECZRLTrbSWQ,,,,,41.5316925048828125,-72.79489898681640625,anonymous,EN,1,,0,0,,5,4,5,carpal tunnel syndrome symptoms,3,1,4,4,3,1,2,4,4,back tooth abscess treatment options,5,2,5,2,2,1,3,4,4,what are the real health benefits of dark chocolate,1,3,3,5,5,1,1,3,4,"where can I go on a hayride in Pennsylvania ",1,4,5,4,3,1,569535048143,0
+2022-02-10 13:16:04,2022-02-10 13:19:28,0,69.245.176.179,100,204,1,2022-02-10 13:19:28,R_269kMkXOvRj0a9p,,,,,41.9459991455078125,-87.70330047607421875,anonymous,EN,0.89999997615814208984375,,,,,2,2,4,carpal tunnel symptoms,4,2,3,3,4,2,3,3,4,tooth abscess,5,3,4,5,1,1,4,4,2,dark chocolate health benefits,1,3,5,3,3,1,4,3,3,pennsylvania hay ride,1,4,3,4,5,1,194448169227,1
+2022-02-10 23:07:22,2022-02-10 23:10:48,0,74.128.24.2,100,205,1,2022-02-10 23:10:48,R_1PRbcQWEER57zXv,,,,,40.2738037109375,-81.86620330810546875,anonymous,EN,1,,0,0,,4,4,5,Carpel Tunnel Syndrome symptoms,4,4,5,4,4,1,5,2,5,tooth pain abscess treatments,5,5,5,5,3,1,4,2,5,Health benefits dark chocolate,1,1,2,5,5,1,5,2,5,"Seasonal hay ride locations Pennsylvania ",1,5,5,5,4,1,867447125213,0
+2022-02-11 00:27:01,2022-02-11 00:37:47,0,108.161.151.123,100,645,1,2022-02-11 00:37:47,R_3kzbVZ8IbrMC1Np,,,,,32.653900146484375,-116.977294921875,anonymous,EN,1,,0,75,,3,2,4,Carpal tunnel syndrome symptoms,5,3,5,5,4,1,5,4,4,How to treat an abscess in a tooth at the back of your jaw,5,3,5,3,2,1,5,5,5,Health benefits of dark chocolate,1,4,4,5,5,5,4,4,4,where can I go for a hay ride in Pennsylvania,1,5,5,5,5,1,819046582235,1
+2022-02-11 11:58:52,2022-02-11 12:07:48,0,67.189.85.120,100,535,1,2022-02-11 12:07:48,R_27paJhIlbynsjIH,,,,,46.147796630859375,-122.971099853515625,anonymous,EN,1,,0,0,,5,4,4,carpal tunnel syndrome symptoms,5,4,5,5,5,2,4,1,4,tooth ache remedies,4,4,5,4,3,1,4,4,4,dark chocolate health benefits,2,4,3,4,4,5,4,3,4,hay ride pennsylvania,4,5,4,5,5,3,144220893341,3
+2022-02-11 13:51:56,2022-02-11 14:04:26,0,76.115.1.182,100,750,1,2022-02-11 14:04:27,R_1dbFogwuHPVSQqx,,,,,45.5471954345703125,-122.64170074462890625,anonymous,EN,1,,0,5,,4,3,4,carpal tunnel symptoms,5,1,2,5,3,1,4,4,4,Natural home remedies for tooth abscess,5,3,5,5,4,1,5,4,5,dark chocolate health benefits,1,4,1,3,4,1,2,2,4,PA hay ride,1,4,5,4,2,1,751472408929,0
+2022-02-14 00:41:13,2022-02-14 00:45:39,0,73.37.246.213,100,265,1,2022-02-14 00:45:39,R_2ffFiE9rRXoKTbA,,,,,44.78179931640625,-93.51650238037109375,anonymous,EN,1,,0,0,,4,4,4,"Symptoms of carpal tunnel ",3,3,2,4,1,1,4,4,4,"Top treatments for abscess tooth  ",3,4,4,4,4,4,4,4,4,"Health benefits of dark chocolate ",4,5,4,4,5,3,2,2,2,"Hayrides in Pennsylvania ",1,4,4,4,4,2,449636769690,3
+2022-02-14 02:29:00,2022-02-14 02:32:27,0,71.234.226.108,100,207,1,2022-02-14 02:32:28,R_2V8yGr3wUjPCt9H,,,,,42.456695556640625,-71.37470245361328125,anonymous,EN,1,,0,0,,2,2,4,"what are symptoms of carpal tunnel ",4,3,3,4,3,1,1,3,4,what is a treatment for abscess in jaw,5,4,5,4,3,1,4,3,4,does dark chocolate have any health benefits,2,3,4,5,4,1,1,3,3,"where are the best hayrides in Pennsylvania ",1,3,5,2,2,1,309528383682,0
+2022-02-14 03:39:32,2022-02-14 03:44:15,0,99.12.77.50,100,283,1,2022-02-14 03:44:15,R_1FS0TiwDnyyTRbA,,,,,34.84930419921875,-82.4040985107421875,anonymous,EN,1,,0,0,,4,3,5,carpel tunnel symptoms,5,2,4,5,5,1,3,3,5,tooth abscess treatment,5,3,5,3,3,1,4,3,5,What nutrients does dark chocolate have?,2,3,4,5,5,1,4,3,4,pennsylvania hay rides,1,5,5,4,5,1,766419729660,0
+2022-02-14 06:39:15,2022-02-14 06:47:18,0,109.81.209.92,100,482,1,2022-02-14 06:47:18,R_6D9wuJljVcNf4iJ,,,,,49.8491058349609375,18.2696075439453125,anonymous,EN,1,,0,0,,3,4,4,hand pain carpal tunnel symptoms,5,2,5,5,3,1,4,5,3,toothache abscesses pain how long it last,5,1,5,4,3,1,2,4,4,Scientific benefits of dark chocolate,1,4,4,5,5,1,1,3,4,Pennsylvania where to go hayride tourist,1,4,5,4,4,1,942842658772,0
+2022-02-14 08:31:13,2022-02-14 08:42:52,0,96.61.18.143,100,698,1,2022-02-14 08:42:52,R_3Eu2ePJA4KqLrmj,,,,,30.7303924560546875,-81.54620361328125,anonymous,EN,1,,0,0,,4,4,4,symptoms of Carpal Tunnel Syndrome,4,1,3,5,3,1,4,4,4,How to treat an abscess tooth?,5,5,5,3,1,1,4,4,4,What are the health benefits of dark chocolate?,1,2,3,5,5,1,2,2,2,Hay ride near Pennsylvania?,1,5,5,4,4,1,173628813400,0
+2022-02-14 10:55:37,2022-02-14 11:00:32,0,72.79.120.187,100,295,1,2022-02-14 11:00:32,R_31LRKvJhlp3YMEB,,,,,40.76409912109375,-74.16539764404296875,anonymous,EN,0.800000011920928955078125,,0,0,,5,5,5,symptoms of carpel tunnel syndrome,3,3,4,3,2,1,5,2,5,treatments for an abscessed tooth,5,1,5,2,1,1,5,5,5,what are the health benefits of dark chocolate,1,1,2,5,4,1,5,5,4,what places offer hay rides in PA,1,3,5,3,3,1,432526610116,4
+2022-02-14 11:19:44,2022-02-14 11:26:21,0,73.225.165.65,100,396,1,2022-02-14 11:26:21,R_3fJdJrcff9pZadJ,,,,,47.7346038818359375,-122.347900390625,anonymous,EN,0.89999997615814208984375,,0,0,,4,4,4,What are the symptoms of carpal tunnel syndrome?,5,4,3,5,3,1,4,4,5,How do I treat a tooth abscess?,5,5,5,3,2,1,5,5,5,What are the health benefits of dark chocolate?,2,5,5,5,5,1,2,3,4,"Where can I find a hay ride in Pennsylvania? ",2,5,5,5,5,1,927907855575,0
+2022-02-14 11:23:33,2022-02-14 11:26:54,0,173.59.41.233,100,201,1,2022-02-14 11:26:54,R_0kv9A7yxSmsuSHv,,,,,39.92059326171875,-75.1826019287109375,anonymous,EN,1,,0,0,,1,2,5,symptoms and treatment carpal tunnel syndrome CPS,3,1,3,2,2,2,1,2,5,treatments for abscess molar pain,4,4,5,4,1,1,5,5,5,dark chocolate health benefits,1,3,5,2,3,1,2,2,4,hay rides in PA,1,5,4,1,3,1,493578315572,1
+2022-02-14 11:23:59,2022-02-14 11:27:41,0,71.71.214.155,100,222,1,2022-02-14 11:27:42,R_3PNdcuZ1kIfXnkx,,,,,35.2227020263671875,-80.79380035400390625,anonymous,EN,1,,0,0,,1,1,4,Information on the symptoms of carpal tunnel syndrome?,4,1,3,4,3,1,4,5,4,What treatments are available for a possible abscess.,5,4,5,2,1,1,3,5,5,What are the health benefits to eating dark chocolate?,1,1,1,5,5,1,1,1,5,What locations in Pennsylvania can you experience hayrides?,1,3,5,1,1,1,617820806615,0
+2022-02-14 11:25:32,2022-02-14 11:28:56,0,70.171.9.199,100,204,1,2022-02-14 11:28:57,R_2rAraKSwTcB98qk,,,,,29.613800048828125,-82.3860015869140625,anonymous,EN,1,,0,0,,5,5,5,carpel tunnel syndrome symptoms,5,1,4,5,2,1,1,3,5,abscess treatments,5,5,5,1,1,1,5,5,5,dark chocolate health benefits,1,1,5,5,5,5,3,5,5,hay ride pennsylvania,1,5,5,5,5,1,189923704648,1
+2022-02-14 11:24:41,2022-02-14 11:29:02,0,173.47.178.180,100,261,1,2022-02-14 11:29:03,R_ulgLdoD1u4z29Ut,,,,,35.027496337890625,-99.08489990234375,anonymous,EN,1,,0,20,,5,5,5,Please list the best Dr. for carpel tunnel treatment.,4,3,3,5,3,1,5,5,5,A good dentist for abscess treatment.,4,4,4,4,5,2,5,4,5,Is dark chocolate actually healthy?,3,4,4,5,5,5,5,5,5,How to book a Pennsylvania hayride.,2,5,5,5,4,2,904937979159,3
+2022-02-14 11:26:12,2022-02-14 11:29:31,0,65.25.90.80,100,199,1,2022-02-14 11:29:32,R_32VfWcsQfBJ37ec,,,,,41.3721923828125,-82.10870361328125,anonymous,EN,0.89999997615814208984375,,0,0,,4,3,5,"Carpel tunnel symptoms ",5,5,4,4,5,1,5,5,5,Treatments for tooth abscess,5,4,5,5,4,1,3,5,4,"Health benefits of dark chocolate ",3,3,3,5,5,1,2,2,5,"Hayrides in Pennsylvania ",1,5,5,5,5,1,650935897859,0
+2022-02-14 11:26:58,2022-02-14 11:30:12,0,99.2.65.40,100,194,1,2022-02-14 11:30:13,R_Y5C8Atk5Z7q5zY5,,,,,30.2754974365234375,-81.5814971923828125,anonymous,EN,1,,0,0,,3,3,4,Common symptoms of carpal tunnel syndrome?,4,1,4,4,4,4,3,3,4,Home treatments for abscess in jaw?,5,4,5,4,4,1,3,3,4,Nutrition facts and benefits of dark chocolate?,1,5,5,5,5,1,3,3,4,Where can you find hay rides in Pennsylvania?,1,5,5,5,5,1,275083848834,1
+2022-02-14 11:27:29,2022-02-14 11:30:27,0,66.190.98.245,100,178,1,2022-02-14 11:30:27,R_9ozmjxcHiy6bQwp,,,,,32.782196044921875,-97.4969024658203125,anonymous,EN,1,,0,0,,4,2,4,carpal tunnel symptoms,3,3,4,5,3,1,2,2,4,available treatments for abscess tooth,5,5,5,4,1,,1,4,5,what are the health benefits of dark chocolate?,1,2,3,4,4,1,1,1,5,find hayrides in pennsylvania,1,5,5,3,4,1,716514250123,1
+2022-02-14 11:25:01,2022-02-14 11:30:40,0,24.95.181.46,100,338,1,2022-02-14 11:30:40,R_20TMZaXYoJOau6f,,,,,38.473602294921875,-82.64129638671875,anonymous,EN,1,,0,0,,4,4,4,What are the symptoms of carpal tunnel syndrome,4,3,5,5,4,2,5,4,4,treatment for jaw pain caused by tooth abscess,5,4,5,4,3,1,4,5,5,What are the health benefits of eating dark chocolate,2,4,4,5,5,1,4,4,4,Pennsylvania tourist hay rides,1,4,5,4,4,1,639329347037,1
+2022-02-14 11:27:48,2022-02-14 11:31:03,0,173.80.212.22,100,194,1,2022-02-14 11:31:03,R_2t6dsRQYpv1k214,,,,,37.847900390625,-81.99610137939453125,anonymous,EN,1,,0,0,,4,5,4,what are symptoms of carpel tunnel,5,1,5,5,5,5,4,3,3,what are symptoms of a tooth abscess,5,5,5,5,4,1,4,4,4,is dark chocolate healthy,0,5,5,5,5,5,3,4,4,best place to go on a hay ride in pennsylvania,1,5,5,5,5,1,128320171358,2
+2022-02-14 11:22:17,2022-02-14 11:31:49,0,80.7.185.114,100,572,1,2022-02-14 11:31:50,R_1luCVp37QjqhnpS,,,,,52.193206787109375,0.1425933837890625,anonymous,EN,1,,0,0,,4,5,5,carpal tunnel syndrome symptoms,5,2,4,4,3,1,4,4,4,tooth abscess symptoms and treatment,5,4,5,3,3,1,4,4,5,dark chocolate health benefits,1,2,4,4,5,1,1,3,4,hay rides in Pennsylvania,1,4,3,5,4,1,597752541396,0
+2022-02-14 11:27:47,2022-02-14 11:32:31,0,67.253.21.12,100,284,1,2022-02-14 11:32:32,R_1l9W4wQ9BEYx7pt,,,,,44.2115020751953125,-69.0735015869140625,anonymous,EN,0.89999997615814208984375,,0,0,,4,4,5,carpal tunnel syndrome symptoms,4,2,3,5,3,1,4,5,5,remedies treatment for tooth abscess,5,1,5,3,2,1,5,5,5,health benefits dark chocolate,1,2,3,2,3,5,2,5,5,Hay rides in Pennsylvania,1,5,4,4,5,1,381111854501,1
+2022-02-14 11:29:33,2022-02-14 11:33:09,0,207.180.15.34,100,216,1,2022-02-14 11:33:11,R_3NSowSbkJhQfYvn,,,,,40.9185943603515625,-73.86190032958984375,anonymous,EN,1,,0,0,,5,4,3,google,5,4,4,4,4,5,5,4,5,I thought,4,4,4,3,4,5,3,4,5,Healthy foods,4,5,4,4,4,4,4,5,4,CNN News,4,3,5,4,4,5,539906344981,4
+2022-02-14 11:29:59,2022-02-14 11:33:17,0,76.216.170.247,100,198,1,2022-02-14 11:33:17,R_bm7NVoULm3flARz,,,,,33.19549560546875,-117.28620147705078125,anonymous,EN,1,,0,0,,4,4,5,signs and symptoms of carpal tunnel syndrome,5,1,5,4,3,1,2,4,3,"toothache treatments  ",5,3,5,5,1,1,5,5,5,dark chocolate health benefits,1,3,3,5,5,5,1,4,3,Pennsylvania hay ride locations,1,5,5,5,5,1,322365612466,1
+2022-02-14 11:31:00,2022-02-14 11:33:25,0,174.67.203.139,100,144,1,2022-02-14 11:33:25,R_cwhAGsQgLvaJ80V,,,,,33.4600982666015625,-117.6381988525390625,anonymous,EN,1,,0,20,,2,1,4,carpal tunnel symptoms,4,1,4,4,4,1,5,1,5,tooth abscess treatment,5,4,5,3,3,1,5,1,5,Dark chocolate benefits,1,2,5,5,5,1,1,1,4,Pennsylvania hay ride locations,1,4,5,4,4,1,942621998884,0
+2022-02-14 11:31:21,2022-02-14 11:34:07,0,173.24.227.204,100,166,1,2022-02-14 11:34:07,R_qUCBrJd7VXpzwpb,,,,,37.167999267578125,-93.30390167236328125,anonymous,EN,1,,0,0,,4,3,4,carpal tunnel symptoms,4,2,3,4,3,2,4,4,4,treatments for tooth abscess,5,4,5,3,1,1,5,5,5,is dark chocolate healthy,1,4,5,5,4,1,3,2,4,pennsylvania hay rides,2,4,5,5,4,1,625604760111,1
+2022-02-14 11:30:58,2022-02-14 11:34:37,0,172.58.159.249,100,219,1,2022-02-14 11:34:38,R_0APMgyfTPF4dGo1,,,,,35.231597900390625,-80.84279632568359375,anonymous,EN,0.89999997615814208984375,,0,0,,5,5,5,What are the symptoms of carpal tunnel?,5,1,3,5,5,1,4,5,4,Symptoms of a tooth abscess?,5,5,5,2,3,1,1,5,3,Is dark chocolate healthy food?,1,2,1,4,5,1,4,4,4,Where in Pennsylvania can I go on a hay ride?,1,5,5,5,5,1,676019776589,0
+2022-02-14 11:29:13,2022-02-14 11:34:39,0,24.163.27.166,100,326,1,2022-02-14 11:34:39,R_2c8imODLI9Oeryw,,,,,36.0330047607421875,-80.3916015625,anonymous,EN,0.89999997615814208984375,,0,0,,2,3,4,Carpal Tunnel symptoms,2,1,2,3,2,1,4,3,4,Treatment for tooth abscess,5,3,5,3,2,1,4,4,4,Dark chocolate health benefits,1,3,3,5,4,1,2,2,4,Hay ride bookings in Pennsylvania,1,3,4,3,3,1,988950577517,0
+2022-02-14 11:33:32,2022-02-14 11:35:49,0,172.82.147.190,100,137,1,2022-02-14 11:35:49,R_3Lj6fPFVeScYMIu,,,,,37.751007080078125,-97.82199859619140625,anonymous,EN,0.89999997615814208984375,,0,35,,4,4,4,GOOD,5,5,5,5,5,5,4,4,4,GOOD,5,5,5,5,5,5,4,4,4,GOOD,5,5,5,5,5,5,4,4,4,GOOD,5,5,5,5,5,5,986792560783,4
+2022-02-14 11:32:50,2022-02-14 11:36:13,0,98.235.49.7,100,202,1,2022-02-14 11:36:13,R_2pSNa6kSyZbaVUR,,,,,40.2743988037109375,-76.70619964599609375,anonymous,EN,1,,0,0,,5,4,4,carpal tunnel symptoms,5,3,4,4,3,1,5,4,4,tooth abscess treatments at home,4,3,4,3,3,1,2,2,3,dark chocolate benefits,1,3,2,4,5,1,2,3,3,hay rides in PA,1,5,5,5,5,1,184421828016,0
+2022-02-14 11:34:26,2022-02-14 11:37:30,0,68.248.147.9,100,184,1,2022-02-14 11:37:31,R_22y6XzBddsYb2ja,,,,,38.2689971923828125,-85.49340057373046875,anonymous,EN,0.699999988079071044921875,,,,,4,4,5,symptoms of carpal tunnel syndrome,3,3,3,3,3,1,4,4,4,symptoms of abscessed tooth,5,4,5,4,3,1,4,4,4,how is dark chocolate healthy,1,3,4,4,5,5,2,2,4,hayrides in Pennsylvania,1,5,5,4,4,1,669006662722,1
+2022-02-14 11:35:49,2022-02-14 11:38:06,0,73.123.179.39,100,136,1,2022-02-14 11:38:07,R_1LCHq83PKcaVFAR,,,,,42.460906982421875,-71.0074005126953125,anonymous,EN,1,,0,0,,3,3,5,carpal tunnel syndrome symptoms,3,2,3,3,2,1,1,3,4,tooth abscess treatments,4,2,5,2,3,1,3,5,4,dark chocolate health benefits,1,4,3,5,3,5,1,1,3,places for a hay ride in pennsylvania,1,3,5,3,3,1,802334465831,1
+2022-02-14 11:36:44,2022-02-14 11:39:37,0,67.48.187.219,100,173,1,2022-02-14 11:39:38,R_3IXLUKN0TgMXAuR,,,,,26.181304931640625,-97.74829864501953125,anonymous,EN,0.89999997615814208984375,,0,20,,5,5,5,carpal tunnel symptom list,5,1,5,3,5,1,2,5,5,what are the treatments for an abscess in mouth,5,5,5,1,2,1,5,5,5,dark chocolate health benefits,1,5,5,5,5,5,2,4,5,"hay ride in Pennsylvania ",1,5,5,5,5,1,612159188510,1
+2022-02-14 11:36:04,2022-02-14 11:39:40,0,98.223.1.30,100,216,1,2022-02-14 11:39:41,R_25ttj8FsEiobH8X,,,,,42.0048065185546875,-87.99539947509765625,anonymous,EN,1,,0,0,,1,1,4,pain in the hands,5,3,4,4,4,1,1,1,4,abscess treatment,5,4,5,3,4,1,4,4,5,dark chocolate benefits,2,4,4,5,4,1,1,4,5,pennsylvania hay rides,1,5,5,5,5,1,190305459895,0
+2022-02-14 11:34:35,2022-02-14 11:39:42,0,68.11.25.137,100,306,1,2022-02-14 11:39:42,R_sXVKorTRX6ei9ix,,,,,29.93170166015625,-90.10260009765625,anonymous,EN,1,,0,0,,4,4,5,carpal tunnel sundrome symptoms,5,4,5,5,4,1,5,4,5,treatments for tooth abscess,5,5,5,4,3,1,4,4,5,heath benefits of dark chocolate,1,3,4,5,5,1,4,2,5,locations of hayrides in Pennsylvania,1,4,5,4,4,1,382116238889,0
+2022-02-14 11:38:09,2022-02-14 11:40:23,0,107.77.229.92,100,134,1,2022-02-14 11:40:23,R_1E09peicLblrXM0,,,,,33.948394775390625,-118.249298095703125,anonymous,EN,0.89999997615814208984375,,0,0,,4,4,4,carpal tunnel syndrome symptoms,5,3,5,5,5,1,4,2,4,tooth abscess,5,5,5,4,2,1,4,4,4,dark chocolate health benefits,2,3,5,5,5,1,1,1,4,pennsylvania hay ride location,1,5,5,5,5,1,418493978609,0
+2022-02-14 11:34:09,2022-02-14 11:41:18,0,208.203.220.176,100,429,1,2022-02-14 11:41:18,R_qC0njjC0BGvOkfv,,,,,40.947601318359375,-73.862396240234375,anonymous,EN,1,,0,0,,4,5,4,amitriptyline,3,4,4,5,4,5,4,3,4,Rinse your mouth with warm salt water.,5,4,3,4,4,2,4,3,4,Foods That Can Trigger A Stroke,3,4,3,4,3,4,5,4,3,Christmas Magic in pennsylvania,4,5,5,4,4,4,148339543468,4
+2022-02-14 11:33:46,2022-02-14 11:42:09,0,208.218.227.46,100,503,1,2022-02-14 11:42:10,R_xzMDY2H7hvWvH57,,,,,40.5175018310546875,-74.39910125732421875,anonymous,EN,1,,0,0,,1,3,3,"good ",4,4,5,5,4,4,4,3,3,what is the purpose of this research ?,2,5,5,4,5,3,2,5,2,"good ",4,4,4,5,5,4,3,3,3,good,3,3,3,3,5,3,498669673618,4
+2022-02-14 11:39:25,2022-02-14 11:43:27,0,73.128.50.27,100,242,1,2022-02-14 11:43:27,R_1lfqoVdcbhjxWbj,,,,,39.289093017578125,-76.55829620361328125,anonymous,EN,,,,,,4,4,4,carpal tunnel pain in hands,4,2,3,4,4,1,2,2,4,tooth abscess treatment,5,4,5,4,2,1,2,2,4,health benefits dark chocolate,1,4,5,4,5,1,1,1,4,pennsylvania hayrides,1,5,5,5,5,1,211885713576,0
+2022-02-14 11:39:29,2022-02-14 11:43:56,0,71.196.105.158,100,266,1,2022-02-14 11:43:56,R_2VpY87xylPPxJWg,,,,,26.0070037841796875,-80.1219024658203125,anonymous,EN,1,,0,0,,5,5,4,Symptoms for Carpal tunnel syndrome,4,1,5,5,2,1,4,5,5,treatment for abscess,5,5,5,4,4,1,5,4,5,Health benefits of dark chocolate,1,2,4,5,5,1,5,5,4,Hay ride in Pennsylvania,1,5,5,5,4,1,971344247204,0
+2022-02-14 11:42:53,2022-02-14 11:46:11,0,174.48.158.33,100,198,1,2022-02-14 11:46:12,R_3JejIpkWDjav0Ov,,,,,26.0702972412109375,-80.22480010986328125,anonymous,EN,0.89999997615814208984375,,0,0,,4,3,4,List of symptoms for carpal tunnel syndrome,1,2,5,2,1,1,5,4,5,Treatments related to abscess jaw pain,4,3,5,2,5,1,5,5,4,Benefits and risks of dark chocolate,1,2,1,4,4,5,2,1,4,Hay Rides located near Pennsylvania,1,4,5,2,4,1,419131372892,1
+2022-02-14 11:45:00,2022-02-14 11:46:15,0,104.37.172.151,100,75,1,2022-02-14 11:46:15,R_1IxXdcs7tcLl9ci,,,,,32.776702880859375,-96.80500030517578125,anonymous,EN,1,,0,25,,4,3,5,GOOD,2,5,4,5,3,4,4,5,4,GOOD,3,3,5,2,4,5,4,5,4,GOOD,4,4,2,3,5,5,4,3,4,GOOD,3,4,4,2,5,5,716739223548,4
+2022-02-14 11:44:56,2022-02-14 11:47:55,0,73.187.219.99,100,179,1,2022-02-14 11:47:56,R_2aJLse54RfUS26s,,,,,40.7957000732421875,-77.8618011474609375,anonymous,EN,1,,0,10,,2,3,3,carpal tunnel syndrome symptoms,5,2,3,5,3,1,2,3,3,treatment for abscess tooth,4,3,5,3,1,1,4,4,5,health benefits of dark chocolates,1,3,3,5,4,5,2,4,3,hay ride of PA,4,4,5,3,2,2,570338244223,2
+2022-02-14 11:46:23,2022-02-14 11:49:32,0,192.159.179.82,100,188,1,2022-02-14 11:49:34,R_1CJDYSb918x8Tlc,,,,,42.997894287109375,-81.26020050048828125,anonymous,EN,0.89999997615814208984375,,0,20,,4,4,4,What are the symptoms of carpal tunnel syndrome?,3,3,4,4,2,1,4,3,4,What treatments are available for jaw pain induced by tooth abscess?,4,3,4,3,3,2,4,4,4,what are the health benefits of dark chocolate?,1,2,2,5,4,5,4,4,5,Where in Pennsylvania can I go on a hay ride?,1,3,5,3,3,1,488226930354,2
+2022-02-14 11:48:37,2022-02-14 11:51:29,0,108.24.137.132,100,172,1,2022-02-14 11:51:30,R_1pu7ECPyNroGOhA,,,,,39.884002685546875,-74.97209930419921875,anonymous,EN,0.89999997615814208984375,,,,,4,3,5,Medical Issue,3,4,5,4,4,4,5,4,5,Walmart Store,5,3,5,4,4,4,3,4,4,Dominoze,3,3,4,4,4,5,5,4,3,CNN News,4,4,5,4,3,4,379131162166,4
+2022-02-14 11:50:34,2022-02-14 11:57:21,0,68.12.250.235,100,406,1,2022-02-14 11:57:21,R_3noynt8K7XubyZd,,,,,35.53759765625,-97.96379852294921875,anonymous,EN,0.800000011920928955078125,,0,0,,4,2,3,Rinse your mouth with warm salt water.,3,3,5,3,3,2,5,4,5,it can cause vomiting skills,3,2,2,3,4,2,5,5,5,healthy,5,2,2,3,4,4,4,5,5,Check out a Ballet Performance of 'The Nutcracker' ...,2,1,2,2,3,2,321045205811,4
+2022-02-14 11:52:42,2022-02-14 11:58:02,0,45.184.251.249,100,320,1,2022-02-14 11:58:02,R_2V29Eggx9v69KDx,,,,,10.62860107421875,-71.6421966552734375,anonymous,EN,1,,0,0,,4,4,5,"trauma sites, youtube",5,3,5,5,3,2,4,5,5,"dental clinics, youtube",5,4,5,3,3,1,4,5,4,nutrition and diet websites,3,5,3,5,4,1,3,2,2,tourism sites,5,3,5,3,2,2,667924003931,3
+2022-02-14 11:53:13,2022-02-14 11:59:05,0,72.196.147.216,100,351,1,2022-02-14 11:59:05,R_3pr349o0SLpBtQL,,,,,41.4402008056640625,-81.852996826171875,anonymous,EN,1,,0,5,,5,4,5,carpal tunnel syndrome doctors diagnose,4,3,3,4,3,2,2,2,3,abscess tooth what is it,5,5,5,3,3,1,5,5,4,dark chocolate where to buy,3,5,5,5,4,5,4,5,4,Pennsylvania hayrides,1,4,5,4,4,2,265890943934,3
+2022-02-14 11:54:58,2022-02-14 11:59:23,0,45.35.97.203,100,264,1,2022-02-14 11:59:23,R_3LaIHMVMGsF6HnW,,,,,34.0493927001953125,-118.2660980224609375,anonymous,EN,1,,0,25,,4,4,5,SYNDROME,5,4,4,4,4,5,4,5,4,TOOTH PAIN,4,4,4,5,5,4,5,4,4,HEALTHY,5,4,4,5,4,3,4,5,4,PLANNING FOR HOLIDAY,5,3,4,4,4,4,729238914768,4
+2022-02-14 11:56:36,2022-02-14 12:02:30,0,45.144.80.95,100,354,1,2022-02-14 12:02:30,R_27Hj5eDda3iEPoM,,,,,34.0543975830078125,-118.2440032958984375,anonymous,EN,0.89999997615814208984375,,0,75,,1,4,4,Carpal tunnel symptoms diagnosis geriatric,4,1,5,4,4,1,2,3,3,Abscessed molar treatment options jaw pain,5,3,5,4,3,1,4,4,5,Dark chocolate benefits healthy food,1,3,5,5,5,1,1,5,2,Pennsylvania hay ride tour booking,1,5,5,4,5,1,800316371768,0
+2022-02-14 11:53:26,2022-02-14 12:03:07,0,70.176.79.62,100,580,1,2022-02-14 12:03:08,R_2zu5h1gjQ2yND8W,,,,,32.2129974365234375,-110.82790374755859375,anonymous,EN,1,,0,0,,4,5,5,symptoms of carpal tunnel syndrome,4,2,4,4,4,1,4,5,5,treatments for abscess in mouth,5,4,5,3,2,1,4,5,5,health benefits of dark chocolate,1,4,5,5,5,1,1,4,5,where in Pennsylvania can you go on a hayride?,1,4,5,4,4,1,201123755378,0
+2022-02-14 11:59:37,2022-02-14 12:04:54,0,173.63.61.15,100,316,1,2022-02-14 12:04:56,R_2OPEnIIYiPDFJTT,,,,,40.9456939697265625,-74.1826019287109375,anonymous,EN,1,,0,0,,4,4,5,Carpal tunnel pain in hands,5,3,4,5,5,1,5,4,5,tooth and jaw pain treatment,4,4,3,5,3,1,5,5,4,Dark chocolate benefits for health,2,3,4,5,5,1,3,4,4,hay rides in Pennsylvania USA,2,4,5,5,4,1,265427616843,0
+2022-02-14 11:52:40,2022-02-14 12:04:57,0,74.71.225.26,100,736,1,2022-02-14 12:04:57,R_2ebghmpnqqxeQBC,,,,,40.8000030517578125,-73.9763031005859375,anonymous,EN,1,,0,0,,4,5,4,GOOD,4,5,5,5,4,4,3,4,5,PAIN IF BACK TREATMENTS,4,5,4,4,5,4,5,4,5,MENTION ABOUT A HEALTHY FOOD AND WONDERING A HEALT BEEFITS,4,5,5,4,5,4,4,5,4,HOLIDAY VACATION TO RIDE OUR FAV PLACE TO FIND A GET HAPPINESS,4,4,5,4,5,5,471671736170,4
+2022-02-14 11:58:45,2022-02-14 12:05:46,0,172.220.244.5,100,420,1,2022-02-14 12:05:48,R_3QMDSEpo7jchT9l,,,,,35.583099365234375,-78.7881011962890625,anonymous,EN,1,,0,0,,4,4,4,carpal tunnel symptoms,3,3,2,5,3,1,3,3,5,Tooth abscess treatments,5,3,5,1,1,1,4,5,4,What are the health benefits of eating dark chocolate?,1,1,3,5,5,1,4,3,4,"Hay rides Pennsylvania ",1,5,5,5,5,1,317757184267,0
+2022-02-14 12:01:59,2022-02-14 12:06:56,0,74.79.209.255,100,297,1,2022-02-14 12:06:57,R_2ZODfoTFStY4Wrj,,,,,42.928497314453125,-76.5590972900390625,anonymous,EN,1,,0,0,,5,4,4,carpal tunnel symptoms,4,3,3,5,4,1,2,3,4,jaw abscess symptoms,4,4,5,2,4,1,4,5,4,dark chocolate health benefits,2,3,3,4,5,1,2,2,3,hay rides Pennsylvania,1,4,5,4,4,1,505616888962,0
+2022-02-14 12:06:51,2022-02-14 12:08:58,0,64.121.102.112,100,126,1,2022-02-14 12:08:58,R_zYJbtiqGHqSG07L,,,,,40.5995025634765625,-75.3762969970703125,anonymous,EN,0.89999997615814208984375,,0,0,,3,2,5,carpal tunnel syndrome in the elderly,5,2,3,5,4,1,1,2,2,abscess treatments,5,4,5,5,2,1,4,5,5,health benefits of dark chocolate,2,5,4,3,5,1,2,2,4,hay rides in Pennsylvania,1,4,4,4,3,1,753089417400,0
+2022-02-14 11:59:21,2022-02-14 12:09:02,0,154.16.89.169,100,581,1,2022-02-14 12:09:03,R_2sdUIoy1xDugoJw,,,,,35.514404296875,-97.5865020751953125,anonymous,EN,1,,0,25,,4,5,5,symptoms of carpel tunnel syndrome,5,2,2,5,5,3,5,4,5,Treatment for tooth jaw,3,5,5,3,5,2,4,5,5,Healthy food articles,3,5,4,5,4,5,4,5,5,Hay ride in Pennsylvania.,5,5,3,5,3,4,202258622739,4
+2022-02-14 12:00:54,2022-02-14 12:09:13,0,99.23.146.214,100,498,1,2022-02-14 12:09:13,R_1plEvIgQL7GcY5u,,,,,29.646697998046875,-82.328399658203125,anonymous,EN,1,,0,0,,2,4,4,carpal tunnel syndrome symptoms,4,1,4,4,3,1,2,2,4,tooth abscess treatments,5,3,5,3,2,1,4,4,4,dark chocolate health benefits,1,2,3,5,5,1,2,2,3,pennsylvania hay rides,1,4,5,4,4,1,878803006000,0
+2022-02-14 12:03:58,2022-02-14 12:09:22,0,66.91.211.85,100,323,1,2022-02-14 12:09:22,R_AgFqPSQ40EAeY2R,,,,,21.2816925048828125,-157.8249969482421875,anonymous,EN,0.89999997615814208984375,,0,5,,1,1,5,"Carpal tunnel symptoms ",5,3,4,5,4,1,1,1,5,"Tooth abcess treatments ",5,3,5,3,3,1,4,5,5,"Dark chocolate health benefits ",1,4,4,5,5,1,1,3,4,"Pennsylvania hay ride ",2,5,5,5,5,1,313703889725,4
+2022-02-14 12:07:11,2022-02-14 12:09:56,0,71.63.47.189,100,164,1,2022-02-14 12:09:56,R_3JqGkrRVY8JcrQd,,,,,37.339202880859375,-77.41750335693359375,anonymous,EN,1,,0,0,,2,3,4,carpel tunnel symptoms,3,2,3,4,3,1,1,1,3,abscess pain,5,4,5,4,3,1,3,4,4,dark chocolate benefits,1,3,4,4,5,5,1,2,4,hay ride Pennsylvania,2,4,5,4,4,1,490424392744,1
+2022-02-14 12:05:49,2022-02-14 12:09:59,0,104.5.21.103,100,249,1,2022-02-14 12:10:00,R_2SHzDZVfMjMSkx1,,,,,41.6226959228515625,-86.24520111083984375,anonymous,EN,1,,0,0,,4,3,4,carpal tunnel syndrome symptoms,5,3,4,5,3,1,5,4,4,abscess tooth treatments,5,4,5,3,2,1,4,2,4,dark chocolate health benefits,1,4,3,4,5,1,2,2,3,pennsylvania hay ride locations,1,4,5,4,4,1,790853952011,0
+2022-02-14 12:06:02,2022-02-14 12:10:06,0,198.14.22.227,100,244,1,2022-02-14 12:10:07,R_1ilBdGgL4y00574,,,,,40.7487945556640625,-73.9882965087890625,anonymous,EN,0.89999997615814208984375,,0,35,,4,4,5,CROME,4,4,5,4,5,3,4,4,4,GOOGLE,4,3,4,4,5,4,3,4,5,GOOGLE,4,5,4,4,4,4,4,4,5,GOOGLE,4,5,3,4,4,4,591147169610,4
+2022-02-14 12:02:40,2022-02-14 12:11:41,0,107.77.201.225,100,541,1,2022-02-14 12:11:41,R_2aCZUtglhmGEdB4,,,,,32.779693603515625,-96.8022003173828125,anonymous,EN,0.89999997615814208984375,,0,0,,4,2,4,symptoms of carpal tunnel syndrome,2,3,3,4,3,1,4,4,4,home treatments for abscess tooth,5,3,4,3,2,1,2,1,4,is dark chocolate healthy for you,2,2,3,5,5,1,2,4,4,hay rides in Pennsylvania,1,5,5,4,4,2,506562046403,1
+2022-02-14 12:10:12,2022-02-14 12:14:45,0,98.208.235.102,100,273,1,2022-02-14 12:14:46,R_2alsid2ncueFcHM,,,,,26.266204833984375,-81.716400146484375,anonymous,EN,1,,0,5,,5,4,5,Symptoms of carpal tunnel syndrome,4,1,3,5,2,2,4,3,5,Treatments for a tooth abscess,5,5,5,4,2,1,5,4,5,Health benefits of eating dark chocolate,1,2,2,5,5,1,3,3,5,Best hay rides in Pennsylvania,1,3,5,3,5,1,755804346222,1
+2022-02-14 11:49:01,2022-02-14 12:16:23,0,67.191.249.71,100,1642,1,2022-02-14 12:16:23,R_R2APHB6HFuzNJp7,,,,,34.203704833984375,-84.1031036376953125,anonymous,EN,1,,0,0,,2,3,2,Carpal tunnel syndrome simptons,4,2,4,5,3,1,2,4,4,"abscess pain and syntoms ",4,4,2,4,4,4,2,4,2,Is chocolar healthy?,1,4,4,4,5,2,1,2,1,Hay rides in PA,1,3,5,5,3,4,566862696665,3
+2022-02-14 12:13:07,2022-02-14 12:17:55,0,68.54.214.71,100,287,1,2022-02-14 12:17:56,R_6X1OtpvO5N75ZNT,,,,,39.2050933837890625,-85.932403564453125,anonymous,EN,1,,0,0,,2,2,3,carpal tunnel syndrome,4,3,3,4,3,2,2,2,3,tooth pain - can it be abscess,2,2,2,1,3,1,4,5,5,Is dark chocolate healthy?,1,3,3,5,3,1,4,5,4,Pennsylvania Hay Ride Locations,1,3,5,3,3,1,938165669329,1
+2022-02-14 12:15:24,2022-02-14 12:18:37,0,63.131.212.20,100,192,1,2022-02-14 12:18:37,R_9GBQ2U3DlychqhP,,,,,38.2281036376953125,-84.86969757080078125,anonymous,EN,1,,0,0,,5,5,5,Symptoms of carpal tunnel,5,4,5,4,5,1,4,4,5,abscessed tooth treatment options,5,2,5,3,1,1,4,4,5,benefits of eating dark chocolate,1,4,5,5,5,1,2,2,5,hayride locations pennsylvania,1,5,5,5,5,1,458510000118,0
+2022-02-14 12:11:30,2022-02-14 12:19:13,0,68.84.193.232,100,463,1,2022-02-14 12:19:13,R_3KJ7as6uBfXUOpt,,,,,32.4062957763671875,-111.06330108642578125,anonymous,EN,0.89999997615814208984375,,0,0,,5,5,5,parents are a significant factor in developing the condition.,2,4,3,4,5,3,4,4,5,Rinse your mouth with warm salt water.,5,4,5,5,5,4,3,4,5,Vegan Chocolate Bars. amazon,5,5,2,2,4,3,5,4,5,Protect your holiday. Take out travel insurance.,4,5,5,3,5,4,506100877653,4
+2022-02-14 12:16:43,2022-02-14 12:19:26,0,67.163.230.27,100,162,1,2022-02-14 12:19:26,R_1i8PI7ZZmfkeluu,,,,,40.1587982177734375,-79.81220245361328125,anonymous,EN,1,,0,0,,2,3,5,carpal tunnel symptoms,5,3,4,4,3,4,4,3,5,tooth pain treatments,4,4,4,5,1,1,2,4,4,health benefits dark chocolate,1,4,4,4,4,5,4,2,4,Hayrides in Pennsylvania,1,5,5,5,5,1,905741951405,2
+2022-02-14 12:13:52,2022-02-14 12:20:17,0,24.240.71.71,100,385,1,2022-02-14 12:20:18,R_27JAXhsiEzVhPZ9,,,,,44.04840087890625,-92.4947967529296875,anonymous,EN,1,,0,10,,2,4,3,"carpal tunnel syndrome, old woman",5,3,4,5,3,0,3,4,3,"pain in a tooth, abscess",4,1,4,4,5,0,2,4,3,"dark chocolate, health food",0,4,4,5,5,0,1,4,4,"hay ride, Pennsylvania",2,4,5,5,4,0,932112779794,4
+2022-02-14 12:18:17,2022-02-14 12:21:32,0,71.126.164.42,100,195,1,2022-02-14 12:21:33,R_3nOcGwoWbFrGB8X,,,,,39.082794189453125,-77.16739654541015625,anonymous,EN,1,,0,0,,2,4,4,Carpal tunnel syndrome in older adults,4,3,3,2,3,1,1,4,4,What treatments are available for abscess?,5,4,5,3,2,1,4,5,5,What are the health benefits of dark chocolate?,1,3,2,4,5,1,1,1,2,Where can you find a hay ride in Pennsylvania?,1,4,5,3,4,1,119309254968,0
+2022-02-14 12:20:00,2022-02-14 12:21:57,0,97.91.84.46,100,116,1,2022-02-14 12:21:57,R_1rHqhDlbwEOKqdH,,,,,44.1551971435546875,-93.99610137939453125,anonymous,EN,0.89999997615814208984375,,0,0,,3,2,5,carpal tunnel symptoms,5,2,2,3,5,1,3,2,5,toot abscess treatment,5,3,4,3,2,1,4,4,5,dark chocolate healthy,1,5,5,2,3,1,1,2,4,Pennsylvania hay rides,1,5,3,5,5,1,380028901086,0
+2022-02-14 11:22:22,2022-02-14 11:23:29,0,208.203.223.26,8,66,0,2022-02-14 12:22:27,R_1g5Q3BhAcDIVnVH,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,823998858104,0
+2022-02-14 12:23:26,2022-02-14 12:25:58,0,108.35.27.17,100,151,1,2022-02-14 12:25:58,R_6P4JsoAGczIFjcB,,,,,40.9734954833984375,-73.96070098876953125,anonymous,EN,1,,0,0,,4,5,5,carpal tunnel,5,2,2,4,5,1,4,4,4,tooth abscess treatment,5,3,4,4,3,1,4,4,5,health benefits dark chocolate,2,3,4,3,4,1,2,4,3,hay ride pennsylvania,2,5,5,4,4,2,988373623881,1
+2022-02-14 12:22:05,2022-02-14 12:27:29,0,98.216.194.248,100,324,1,2022-02-14 12:27:29,R_12DUNaXMNZTUBBM,,,,,43.0583953857421875,-71.45780181884765625,anonymous,EN,0.89999997615814208984375,,0,0,,2,3,5,carpal tunnel syndrome symptoms,4,4,4,4,4,2,3,4,5,abscess tooth treatments,5,5,5,4,3,1,4,5,5,dark chocolate health benefits,2,3,3,5,5,1,1,2,4,Hay rides in Pennsylvania,2,5,5,5,5,2,574492564378,2
+2022-02-14 11:28:01,2022-02-14 11:28:42,0,73.63.7.110,8,41,0,2022-02-14 12:28:06,R_3k6YLssn7bfkeks,,,,,,,anonymous,EN,0.89999997615814208984375,,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,639824832975,0
+2022-02-14 12:25:07,2022-02-14 12:28:12,0,97.88.148.37,100,184,1,2022-02-14 12:28:12,R_1gOSOvayyXPpuUm,,,,,43.801300048828125,-91.21340179443359375,anonymous,EN,0.89999997615814208984375,,0,0,,4,4,5,symptoms of carpal tunnel syndrome,5,2,4,4,3,1,4,4,5,treatments for tooth abscess,5,4,5,3,1,1,4,5,5,health benefits of dark chocolate,1,3,4,3,5,1,5,5,5,hay ride Pennsylvania,1,5,5,4,5,1,276433286000,0
+2022-02-14 12:26:46,2022-02-14 12:29:13,0,174.106.38.152,100,146,1,2022-02-14 12:29:13,R_1GuWMMTABYTYYN4,,,,,34.228302001953125,-77.95189666748046875,anonymous,EN,1,,0,0,,4,4,5,carpal tunnel symptoms,5,1,5,3,4,1,2,2,4,tooth pain abscess treatments,5,1,5,4,2,1,4,5,5,dark chocolate health benefits,2,3,5,4,4,1,1,2,4,hay rides in pennsylvania,1,5,5,5,5,1,797340451437,0
+2022-02-14 12:26:15,2022-02-14 12:29:27,0,76.85.22.73,100,191,1,2022-02-14 12:29:27,R_2pQu7Ih4YCnH43O,,,,,26.2140045166015625,-98.32669830322265625,anonymous,EN,1,,0,0,,5,3,4,"what are the symptoms of carpel tunnel ",5,1,3,5,4,1,4,2,3,"what is a tooth abscess ",5,3,4,4,4,1,4,3,5,what health benefits does dark chocolate have,3,4,4,5,4,4,4,3,4,"hayrides in Pennsylvania ",1,5,5,5,4,1,695835081627,1
+2022-02-14 12:25:43,2022-02-14 12:30:49,0,208.102.160.173,100,306,1,2022-02-14 12:30:49,R_2EgW3lKn0mGUTp4,,,,,39.141693115234375,-84.5171966552734375,anonymous,EN,1,,0,0,,2,4,3,carpal tunnel treatment,5,3,5,5,4,2,4,4,4,tooth abcess,5,3,5,3,2,2,4,5,4,health benefits of dark chocolate,4,5,5,4,5,1,3,5,4,hayride pennsylvania,2,5,5,5,5,1,751343194767,2
+2022-02-14 12:29:19,2022-02-14 12:32:21,0,104.7.224.89,100,182,1,2022-02-14 12:32:22,R_1jd3qF6E6TC1NLl,,,,,28.57269287109375,-80.8206024169921875,anonymous,EN,1,,0,0,,1,5,5,carpal tunnel syndrome symptoms,3,4,4,4,1,1,5,5,5,Tooth abcess treatment,5,3,4,2,2,1,1,5,4,dark chocolate health benefits,1,4,4,4,5,4,1,5,4,Pensylvania hay ride,1,4,5,1,4,1,141580570582,1
+2022-02-14 12:20:24,2022-02-14 12:33:49,0,162.40.215.168,100,804,1,2022-02-14 12:33:50,R_acaJVpHDZV9UL17,,,,,29.8096923828125,-82.467498779296875,anonymous,EN,0.89999997615814208984375,,0,5,,5,4,5,carpal tunnel pain in elderly hands,5,3,4,4,4,1,5,5,4,what is an abscess on a back tooth,4,3,3,2,2,1,4,5,5,health benefits of dark chocolate,2,3,2,4,5,1,2,3,5,hay rides in Pennsylvania,2,5,5,4,4,1,690392653224,0
+2022-02-14 12:29:38,2022-02-14 12:34:10,0,71.59.79.119,100,271,1,2022-02-14 12:34:10,R_3JrNHce2eCEiUiS,,,,,40.2660064697265625,-74.521697998046875,anonymous,EN,1,,0,0,,1,1,1,carpal tunnel syndrome,5,3,5,5,4,5,5,5,5,Pain on back teeth treatment,1,3,5,5,1,5,5,5,5,Dark chocolate healthy or not,1,5,5,5,5,5,5,5,5,Hay ride near Pennsylvania,1,5,5,2,3,1,583175556617,3
+2022-02-14 12:30:31,2022-02-14 12:34:10,0,45.42.190.76,100,218,1,2022-02-14 12:34:10,R_12LI6KEnObPXcuW,,,,,38.886505126953125,-77.09110260009765625,anonymous,EN,1,,0,75,,4,3,4,what is carpal tunnel syndrome,3,4,4,5,4,5,4,3,4,what treatment available for tooth pain?,4,4,4,5,5,3,4,3,4,is chocolate as a health food?,4,3,3,3,4,4,4,4,3,what are the tourist places in PA?,4,5,4,4,3,4,383769018808,4
+2022-02-14 12:31:42,2022-02-14 12:35:22,0,204.191.189.222,100,219,1,2022-02-14 12:35:23,R_3TY1zKfpHS5PLqN,,,,,53.54840087890625,-113.43779754638671875,anonymous,EN,1,,0,0,,2,2,4,"Symptoms of carpal tunnel syndrome ",4,1,4,4,2,3,2,3,4,"Treatment of abscess ",5,4,5,2,2,1,3,5,4,"Health benefits of dark chocolate ",1,3,4,5,5,1,2,4,4,"hay ride in Pennsylvania ",2,5,5,5,5,1,931347306468,1
+2022-02-14 12:33:16,2022-02-14 12:35:33,0,75.141.194.130,100,136,1,2022-02-14 12:35:33,R_1LOL54SpJYthaxG,,,,,39.52490234375,-119.8130950927734375,anonymous,EN,0.800000011920928955078125,,0,0,,5,5,5,symptoms of carpal tunnel,5,5,5,5,5,5,5,5,5,symptoms of tooth abcess,3,1,3,3,3,1,5,5,5,how healthy is dark chocolate,3,5,5,5,5,5,5,5,5,hayrides in Pensylvania,1,5,5,5,5,1,959614476538,2
+2022-02-14 11:42:32,2022-02-14 11:43:26,0,192.180.12.203,8,53,0,2022-02-14 12:42:41,R_zd3i6ldrnZjOic1,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,702743680705,0
+2022-02-14 12:37:19,2022-02-14 12:43:01,0,104.182.73.53,100,341,1,2022-02-14 12:43:01,R_yOR4Kame2bAVZ3H,,,,,38.7987060546875,-90.5034027099609375,anonymous,EN,1,,0,0,,5,4,4,how to treat carparal tunnel,4,2,3,5,4,2,5,4,4,cause of tooth pain in molar,3,3,4,2,2,1,4,4,4,health benefits of dark chocolate,2,3,4,5,4,4,4,2,4,"Hayrides in Pennsylvania, followed by the appropriate city",1,4,5,3,3,1,954086482943,2
+2022-02-14 11:43:20,2022-02-14 11:43:33,0,208.203.223.182,8,12,0,2022-02-14 12:43:26,R_3kgNKRB4fmMkvuz,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,772652999428,0
+2022-02-14 12:40:01,2022-02-14 12:44:33,0,24.151.250.162,100,272,1,2022-02-14 12:44:34,R_pxC2jB8Efk4FR5L,,,,,36.2239990234375,-83.317901611328125,anonymous,EN,1,,0,0,,4,3,5,carpal tunnel syndrome symptoms,3,2,2,3,3,1,3,2,4,tooth abscess symptoms and treatment,5,2,4,1,2,0,4,3,5,dark chocolate health benefits,0,3,3,4,4,0,2,3,4,holiday hayrides Pennsylvania,1,5,3,5,5,0,202555512264,3
+2022-02-14 11:45:53,2022-02-14 11:47:21,0,208.203.220.44,31,87,0,2022-02-14 12:45:54,R_3qUP7pImNeOuuA0,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,,,,,,,,,,,4,5,5,healthy,4,5,4,5,5,3,,,,,,,,,,,657581183430,1
+2022-02-14 12:43:49,2022-02-14 12:47:16,0,72.181.143.114,100,206,1,2022-02-14 12:47:16,R_bPWVwauHIktB8DT,,,,,32.8242034912109375,-96.750701904296875,anonymous,EN,1,,0,5,,1,4,5,What are the symptoms of carpal tunnel syndrome?,5,2,4,5,4,1,1,2,5,"What are treatments fora tooth abscess. ",5,5,5,4,1,1,4,5,4,What are the health benefits of dark chocolate?,1,2,3,5,4,1,1,4,4,"Hay rides in Pennsylvania ",1,4,5,5,4,1,585730107151,0
+2022-02-14 11:48:10,2022-02-14 11:50:52,0,24.243.102.169,69,162,0,2022-02-14 12:48:11,R_1JQnv2CtOEMOSz6,,,,,,,anonymous,EN,1,,0,0,,4,4,5,Carpal tunnel syndrome symptoms,5,1,5,5,5,1,4,3,5,How to treat a tooth abscess,,,,,,,,,,,,,,,,,1,3,5,Where to find hay rides in Pennsylvania,1,5,5,5,4,1,879040129622,0
+2022-02-14 12:46:19,2022-02-14 12:48:46,0,174.45.168.171,100,146,1,2022-02-14 12:48:46,R_3EPQoUxeTaxvfc3,,,,,39.0760955810546875,-108.54509735107421875,anonymous,EN,1,,0,5,,4,4,5,carpal tunnel symptoms,5,3,5,5,3,1,4,4,3,treatments for abscessed tooth,5,3,5,3,1,1,4,4,5,dark chocolate healthy,2,5,5,4,5,1,2,3,3,hay rides in pennsylvania,1,5,5,5,4,1,887431879644,0
+2022-02-14 11:50:52,2022-02-14 11:51:07,0,73.116.238.35,8,15,0,2022-02-14 12:50:53,R_23fztWRIylrYew7,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,867469488759,0
+2022-02-14 11:54:16,2022-02-14 11:54:39,0,98.209.177.25,8,23,0,2022-02-14 12:54:18,R_3hndhHfKbmbA8ee,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,414139207755,0
+2022-02-14 12:56:44,2022-02-14 12:59:51,0,47.203.92.56,100,186,1,2022-02-14 12:59:51,R_3DpdKVzqjPCvRyF,,,,,28.35260009765625,-82.630096435546875,anonymous,EN,1,,0,20,,3,3,4,symptoms of carpal tunnel syndrome,4,1,5,3,3,1,2,3,4,abscess tooth treatments,4,3,5,2,2,1,3,4,4,health benefits of dark chocolate,1,2,3,3,5,1,1,3,3,"hay rides in Pennsylvania ",1,4,4,5,4,1,683046185830,0
+2022-02-14 12:58:03,2022-02-14 13:00:47,0,50.106.235.11,100,163,1,2022-02-14 13:00:47,R_2RNPuTOYD8ZaE0x,,,,,40.47979736328125,-88.9922027587890625,anonymous,EN,1,,0,20,,4,4,4,carpal tunnel elderly,4,2,5,3,3,3,4,5,4,tooth abscess photos and treatment options,5,5,5,3,2,1,4,5,5,dark chocolate health benefits,1,4,5,5,5,1,1,2,2,hay ride PA,2,4,5,4,5,1,619234352558,1
+2022-02-14 12:08:21,2022-02-14 12:08:35,0,66.74.75.152,8,14,0,2022-02-14 13:08:23,R_DcuADNcT9jlor8B,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,339269002014,0
+2022-02-14 13:07:50,2022-02-14 13:14:43,0,99.97.27.108,100,413,1,2022-02-14 13:14:44,R_1NgoBfIOiVQMFOp,,,,,33.1909027099609375,-96.6197967529296875,anonymous,EN,1,,0,30,,2,3,5,Symptom of carpel tunnel syndrome,5,2,3,5,3,4,4,4,4,Treatment for tooth pain at back of jaw,4,1,4,5,5,3,5,5,5,Dark chocolate health benefits,1,3,3,5,5,1,2,4,4,best hay ride in Pennsylvania,1,5,5,4,4,3,482898970460,3
+2022-02-14 13:11:09,2022-02-14 13:15:12,0,207.180.15.42,100,242,1,2022-02-14 13:15:12,R_xbfEMq1vCUFs9DH,,,,,40.9185943603515625,-73.86190032958984375,anonymous,EN,1,,0,0,,4,5,5,pain,5,3,5,4,4,4,4,5,4,tooth back,4,4,4,5,5,4,4,5,4,Healthy food,5,4,4,3,5,4,4,5,4,Holiday plan,5,4,5,4,3,4,204716109577,4
+2022-02-14 13:05:59,2022-02-14 13:19:24,0,45.42.190.75,100,804,1,2022-02-14 13:19:25,R_2q7MFoUcWtw76kU,,,,,38.886505126953125,-77.09110260009765625,anonymous,EN,1,,0,75,,4,3,3,what is the symptoms of carpal tunnel syndrome?,4,4,4,4,5,4,4,3,4,what treatments are available for tooth pain?,4,4,4,4,5,5,3,4,3,chocolate is a healthy food?,3,4,3,4,4,3,4,3,4,hay ride in pennsylvania?,5,4,4,4,4,4,474289332656,4
+2022-02-14 12:40:09,2022-02-14 12:41:34,0,63.75.245.191,69,84,0,2022-02-14 13:40:13,R_2c0oboRZelUhzrn,,,,,,,anonymous,EN,1,,0,10,,4,4,3,Super,4,4,4,4,4,4,4,3,3,Good,,,,,,,4,4,4,good,4,4,4,4,4,4,,,,,,,,,,,738675489765,2
+2022-02-15 21:05:08,2022-02-15 21:12:26,0,116.240.168.151,23,437,0,2022-02-15 22:05:16,R_Owjg5Ko3RLq50NX,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,1,1,1,test,,,,,,,,,,,,,,,,,,,,,,,,,,,592130136978,0
+2022-02-16 13:24:33,2022-02-16 13:25:31,0,116.240.168.151,100,58,1,2022-02-16 13:25:31,R_cAPHgnhTSUDenNT,,,,,-37.8159027099609375,144.966888427734375,anonymous,EN,1,,0,0,,1,1,1,test,5,4,3,0,2,1,1,1,1,test,3,5,1,4,2,0,1,1,1,test,4,0,2,1,3,5,1,1,1,test,5,4,2,3,0,1,247294367616,2

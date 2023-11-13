@@ -4,17 +4,17 @@ import pandas as pd
 
 from utility_functions import read_survey_data
 
-# This topics classification was done with ChatGPT
-TOPICS_CLASSIFICATION = {'259': 'Understand',
+# This topics classification was done with GPT-4
+TOPICS_CLASSIFICATION = {'259': 'Analyze',
                          '223': 'Remember',
                          '238': 'Remember',
                          '297': 'Understand',
                          '213': 'Understand',
-                         '266': 'Remember',
+                         '266': 'Understand',
                          '234': 'Understand',
-                         '253': 'Analyze',
-                         '286': 'Analyze',
-                         '261': 'Analyze',
+                         '253': 'Understand',
+                         '286': 'Understand',
+                         '261': 'Understand',
                          '283': 'Remember',
                          '244': 'Understand'}
 
@@ -31,7 +31,7 @@ def read_queries_df(ndcg_df, ranks_sr, rates_sr):
 
 def read_unique_users_queries(unique_user_queries_path):
     unique_user_queries = pd.read_csv(unique_user_queries_path, header=None, names=['qid', 'query'], index_col='query')
-    return unique_user_queries.assign(rid=unique_user_queries.qid.str.rsplit('-', 1).str[1])
+    return unique_user_queries.assign(rid=unique_user_queries.qid.str.rsplit('-', n=1).str[1])
 
 
 def read_ndcg_df(ndcg_df_path):
@@ -42,7 +42,7 @@ def read_all_users_queries(all_user_queries_path, unique_user_queries_df, users_
     all_user_queries = pd.read_csv(all_user_queries_path, header=None,
                                    names=['qid', 'user_query']).assign(
         topic=lambda x: x.qid.apply(lambda y: y.split('-')[0])).sort_values('qid')
-    all_user_queries = all_user_queries.assign(rid=all_user_queries.qid.str.rsplit('-', 1).str[1])
+    all_user_queries = all_user_queries.assign(rid=all_user_queries.qid.str.rsplit('-', n=1).str[1])
     all_user_queries = all_user_queries.assign(method=all_user_queries.qid.str.split('-').str[1].str.capitalize())
     all_user_queries = all_user_queries.assign(topic=all_user_queries.qid.str.split('-').str[0])
 

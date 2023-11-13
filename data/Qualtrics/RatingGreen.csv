@@ -1,0 +1,419 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q_RelevantIDDuplicate,Q_RelevantIDDuplicateScore,Q_RelevantIDFraudScore,Q_RelevantIDLastStartDate,259 - personal_1,259 - personal_2,259 - personal_3,259 - user query,259 - rating_12,259 - rating_13,259 - rating_14,259 - rating_15,259 - rating_16,259 - rating_17,266 - personal_1,266 - personal_2,266 - personal_3,266 - user query,266 - rating_1,266 - rating_2,266 - rating_3,266 - rating_4,266 - rating_5,266 - rating_12,223 - personal_1,223 - personal_2,223 - personal_3,223 - user query,223 - rating_12,223 - rating_13,223 - rating_14,223 - rating_15,223 - rating_16,223 - rating_17,286 - personal_1,286 - personal_2,286 - personal_3,286 - user query,286 - rating_1,286 - rating_2,286 - rating_3,286 - rating_4,286 - rating_5,286 - rating_12,Random ID,mistakes
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,Q_RelevantIDDuplicate,Q_RelevantIDDuplicateScore,Q_RelevantIDFraudScore,Q_RelevantIDLastStartDate,"Please read the backstory carefully and answer the following questions.
+Backstory:Oh no, you just noticed that there are carpenter bees flying in and out of a hole in the siding of your house. There may be an infestation, and you have heard they can do a lot of damage. How can you remove them? - I am familiar with this topic","Please read the backstory carefully and answer the following questions.
+Backstory:Oh no, you just noticed that there are carpenter bees flying in and out of a hole in the siding of your house. There may be an infestation, and you have heard they can do a lot of damage. How can you remove them? - This topic is interesting to me","Please read the backstory carefully and answer the following questions.
+Backstory:Oh no, you just noticed that there are carpenter bees flying in and out of a hole in the siding of your house. There may be an infestation, and you have heard they can do a lot of damage. How can you remove them? - It should be easy to find relevant information for this topic",Write a query that you would use to search for information on this topic.,"Backstory:
+
+Oh no, you just noticed that there are carpenter bees flying in and out of a hole in the siding of your house. There may be an infestation, and you have heard they can do a lot of damage. How can you remove them?
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - carpenter bee removal","Backstory:
+
+Oh no, you just noticed that there are carpenter bees flying in and out of a hole in the siding of your house. There may be an infestation, and you have heard they can do a lot of damage. How can you remove them?
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - how to remove carpenter bee","Backstory:
+
+Oh no, you just noticed that there are carpenter bees flying in and out of a hole in the siding of your house. There may be an infestation, and you have heard they can do a lot of damage. How can you remove them?
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - bee removal","Backstory:
+
+Oh no, you just noticed that there are carpenter bees flying in and out of a hole in the siding of your house. There may be an infestation, and you have heard they can do a lot of damage. How can you remove them?
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - pest control","Backstory:
+
+Oh no, you just noticed that there are carpenter bees flying in and out of a hole in the siding of your house. There may be an infestation, and you have heard they can do a lot of damage. How can you remove them?
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - hotline for bee control","Backstory:
+
+Oh no, you just noticed that there are carpenter bees flying in and out of a hole in the siding of your house. There may be an infestation, and you have heard they can do a lot of damage. How can you remove them?
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - carpet damage","Please read the backstory carefully and answer the following questions.
+Backstory:A friend was recently hospitalized after a heart attack. You think you should be better prepared, for both you and your partner, so you'd like to know the symptoms of a heart attack in both men and women. - I am familiar with this topic","Please read the backstory carefully and answer the following questions.
+Backstory:A friend was recently hospitalized after a heart attack. You think you should be better prepared, for both you and your partner, so you'd like to know the symptoms of a heart attack in both men and women. - This topic is interesting to me","Please read the backstory carefully and answer the following questions.
+Backstory:A friend was recently hospitalized after a heart attack. You think you should be better prepared, for both you and your partner, so you'd like to know the symptoms of a heart attack in both men and women. - It should be easy to find relevant information for this topic",Write a query that you would use to search for information on this topic.,"Backstory:
+
+A friend was recently hospitalized after a heart attack. You think you should be better prepared, for both you and your partner, so you'd like to know the symptoms of a heart attack in both men and women.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - heart attack","Backstory:
+
+A friend was recently hospitalized after a heart attack. You think you should be better prepared, for both you and your partner, so you'd like to know the symptoms of a heart attack in both men and women.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - heart and stroke foundation","Backstory:
+
+A friend was recently hospitalized after a heart attack. You think you should be better prepared, for both you and your partner, so you'd like to know the symptoms of a heart attack in both men and women.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - what to do to prevent a heart attack","Backstory:
+
+A friend was recently hospitalized after a heart attack. You think you should be better prepared, for both you and your partner, so you'd like to know the symptoms of a heart attack in both men and women.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - heart attack first steps","Backstory:
+
+A friend was recently hospitalized after a heart attack. You think you should be better prepared, for both you and your partner, so you'd like to know the symptoms of a heart attack in both men and women.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - heart attack symptom list","Backstory:
+
+A friend was recently hospitalized after a heart attack. You think you should be better prepared, for both you and your partner, so you'd like to know the symptoms of a heart attack in both men and women.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - hospital attack","Please read the backstory carefully and answer the following questions.
+Backstory:You've recently been binging on junk food, and want to live a healthier life. As a starting point, you decide to check information from the USDA. Find a description of their food pyramid. - I am familiar with this topic","Please read the backstory carefully and answer the following questions.
+Backstory:You've recently been binging on junk food, and want to live a healthier life. As a starting point, you decide to check information from the USDA. Find a description of their food pyramid. - This topic is interesting to me","Please read the backstory carefully and answer the following questions.
+Backstory:You've recently been binging on junk food, and want to live a healthier life. As a starting point, you decide to check information from the USDA. Find a description of their food pyramid. - It should be easy to find relevant information for this topic",Write a query that you would use to search for information on this topic.,"Backstory:
+
+You've recently been binging on junk food, and want to live a healthier life. As a starting point, you decide to check information from the USDA. Find a description of their food pyramid.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - usda food pyramid","Backstory:
+
+You've recently been binging on junk food, and want to live a healthier life. As a starting point, you decide to check information from the USDA. Find a description of their food pyramid.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - food pyramid","Backstory:
+
+You've recently been binging on junk food, and want to live a healthier life. As a starting point, you decide to check information from the USDA. Find a description of their food pyramid.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - food pyramid from usda","Backstory:
+
+You've recently been binging on junk food, and want to live a healthier life. As a starting point, you decide to check information from the USDA. Find a description of their food pyramid.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - usda nutrition guidelines","Backstory:
+
+You've recently been binging on junk food, and want to live a healthier life. As a starting point, you decide to check information from the USDA. Find a description of their food pyramid.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - healthy food pyramid diet","Backstory:
+
+You've recently been binging on junk food, and want to live a healthier life. As a starting point, you decide to check information from the USDA. Find a description of their food pyramid.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - egypt pyramid","Please read the backstory carefully and answer the following questions.
+Backstory:Last night you saw an intriguing psycho-thriller on TV, where one of the characters was diagnosed with schizophrenia. This has made you wonder, what drugs are commonly used to treat the different stages of this mental illness? - I am familiar with this topic","Please read the backstory carefully and answer the following questions.
+Backstory:Last night you saw an intriguing psycho-thriller on TV, where one of the characters was diagnosed with schizophrenia. This has made you wonder, what drugs are commonly used to treat the different stages of this mental illness? - This topic is interesting to me","Please read the backstory carefully and answer the following questions.
+Backstory:Last night you saw an intriguing psycho-thriller on TV, where one of the characters was diagnosed with schizophrenia. This has made you wonder, what drugs are commonly used to treat the different stages of this mental illness? - It should be easy to find relevant information for this topic",Write a query that you would use to search for information on this topic.,"Backstory:
+
+Last night you saw an intriguing psycho-thriller on TV, where one of the characters was diagnosed with schizophrenia. This has made you wonder, what drugs are commonly used to treat the different stages of this mental illness? 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - schizophrenia drug treatment","Backstory:
+
+Last night you saw an intriguing psycho-thriller on TV, where one of the characters was diagnosed with schizophrenia. This has made you wonder, what drugs are commonly used to treat the different stages of this mental illness? 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - schizophrenia medication","Backstory:
+
+Last night you saw an intriguing psycho-thriller on TV, where one of the characters was diagnosed with schizophrenia. This has made you wonder, what drugs are commonly used to treat the different stages of this mental illness? 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - schizophrenia","Backstory:
+
+Last night you saw an intriguing psycho-thriller on TV, where one of the characters was diagnosed with schizophrenia. This has made you wonder, what drugs are commonly used to treat the different stages of this mental illness? 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - common drug therapy for schizophrenia","Backstory:
+
+Last night you saw an intriguing psycho-thriller on TV, where one of the characters was diagnosed with schizophrenia. This has made you wonder, what drugs are commonly used to treat the different stages of this mental illness? 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - drug treatment schizophrenia","Backstory:
+
+Last night you saw an intriguing psycho-thriller on TV, where one of the characters was diagnosed with schizophrenia. This has made you wonder, what drugs are commonly used to treat the different stages of this mental illness? 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - psycho killer",Random ID,mistakes
+"{""ImportId"":""startDate"",""timeZone"":""Australia/Canberra""}","{""ImportId"":""endDate"",""timeZone"":""Australia/Canberra""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Australia/Canberra""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""Q_RelevantIDDuplicate""}","{""ImportId"":""Q_RelevantIDDuplicateScore""}","{""ImportId"":""Q_RelevantIDFraudScore""}","{""ImportId"":""Q_RelevantIDLastStartDate"",""timeZone"":""UTC""}","{""ImportId"":""QID27_9""}","{""ImportId"":""QID27_2""}","{""ImportId"":""QID27_3""}","{""ImportId"":""QID28_TEXT""}","{""ImportId"":""QID29_12""}","{""ImportId"":""QID29_13""}","{""ImportId"":""QID29_14""}","{""ImportId"":""QID29_15""}","{""ImportId"":""QID29_16""}","{""ImportId"":""QID29_17""}","{""ImportId"":""QID30_9""}","{""ImportId"":""QID30_2""}","{""ImportId"":""QID30_3""}","{""ImportId"":""QID31_TEXT""}","{""ImportId"":""QID32_1""}","{""ImportId"":""QID32_2""}","{""ImportId"":""QID32_3""}","{""ImportId"":""QID32_4""}","{""ImportId"":""QID32_5""}","{""ImportId"":""QID32_12""}","{""ImportId"":""QID33_9""}","{""ImportId"":""QID33_2""}","{""ImportId"":""QID33_3""}","{""ImportId"":""QID34_TEXT""}","{""ImportId"":""QID35_12""}","{""ImportId"":""QID35_13""}","{""ImportId"":""QID35_14""}","{""ImportId"":""QID35_15""}","{""ImportId"":""QID35_16""}","{""ImportId"":""QID35_17""}","{""ImportId"":""QID36_9""}","{""ImportId"":""QID36_2""}","{""ImportId"":""QID36_3""}","{""ImportId"":""QID37_TEXT""}","{""ImportId"":""QID38_1""}","{""ImportId"":""QID38_2""}","{""ImportId"":""QID38_3""}","{""ImportId"":""QID38_4""}","{""ImportId"":""QID38_5""}","{""ImportId"":""QID38_12""}","{""ImportId"":""Random ID""}","{""ImportId"":""mistakes""}"
+2022-02-09 11:58:20,2022-02-09 12:02:08,0,162.196.176.250,100,227,1,2022-02-09 12:02:08,R_1Hbqanz1MQqDtMP,,,,,34.235992431640625,-118.52349853515625,anonymous,EN,0.89999997615814208984375,,0,0,,2,2,4,Carpenter Bee Removal,4,5,3,2,2,1,4,4,5,Heart Attack Symptoms and Complications,3,3,2,3,5,1,5,5,5,USDA Food Pyramid,5,4,5,3,4,1,4,4,5,schizophrenia drug treatment,5,4,3,5,5,1,174328017933,0
+2022-02-09 12:00:36,2022-02-09 12:02:57,0,98.212.187.205,100,140,1,2022-02-09 12:02:58,R_30iWEJqPr1fAhaf,,,,,42.0753936767578125,-87.82219696044921875,anonymous,EN,0.699999988079071044921875,,,,,1,1,5,remove carpenter bees,5,5,3,2,2,1,1,1,5,heart attack symptoms,3,2,3,4,5,1,1,1,5,USDA food pyramid,5,4,5,4,4,1,1,1,5,schizophrenia drugs,5,5,3,4,5,1,518663151934,0
+2022-02-09 12:45:43,2022-02-09 12:48:36,0,73.247.81.157,100,172,1,2022-02-09 12:48:37,R_1ClLhNum77CB5tG,,,,,41.902496337890625,-87.67259979248046875,anonymous,EN,1,,0,0,,1,3,4,Carpenter bee removal steps,5,5,5,4,3,1,3,4,4,Heart attack symptoms men women,3,2,2,3,5,1,4,3,4,USDA Food Pyramid Levels,5,4,5,4,3,1,2,4,4,Schizophrenia drug treatment,5,4,2,4,5,1,233657101471,0
+2022-02-09 13:25:19,2022-02-09 13:34:13,0,108.161.151.123,100,534,1,2022-02-09 13:34:14,R_2AZOgXPiQYMKyj9,,,,,32.653900146484375,-116.977294921875,anonymous,EN,1,,0,75,,4,4,4,How to remove carpenter bees from home,5,5,5,3,4,1,4,4,4,Signs and symptoms of a heart attack and how to prevent them,5,1,5,5,5,1,4,4,4,USDA food pyramid,5,4,5,4,4,1,4,2,4,Drugs that can be used to treat schizophrenia,5,5,4,5,5,2,359610182209,1
+2022-02-09 13:47:09,2022-02-09 13:53:46,0,72.221.95.3,100,396,1,2022-02-09 13:53:46,R_307ZtiAK5LA59eX,,,,,41.5316925048828125,-72.79489898681640625,anonymous,EN,1,,0,0,,4,4,4,carpenter bee infestation removal,5,5,2,1,2,1,2,3,4,heart attack symptoms in men and women,3,2,1,2,5,1,4,1,4,USDA food pyramid,5,2,5,2,2,1,4,4,3,medications for different stages of schizophrenia,3,2,1,5,3,1,518056674930,0
+2022-02-10 03:59:30,2022-02-10 04:02:20,0,104.169.163.46,100,169,1,2022-02-10 04:02:20,R_1HoFp1JdVieaAKc,,,,,35.042205810546875,-83.78299713134765625,anonymous,EN,1,,0,0,,2,3,4,how to remove carpenter bees,5,5,4,2,2,1,4,5,5,symptoms of heart attack in women,3,2,3,3,4,1,4,5,4,USDA food pyramid,5,3,5,4,3,1,4,4,4,drugs to treat schizoprenia,5,4,2,5,5,1,202855905005,0
+2022-02-10 13:11:44,2022-02-10 13:15:09,0,69.245.176.179,100,204,1,2022-02-10 13:15:09,R_SZUEsGATxvYWutz,,,,,41.9459991455078125,-87.70330047607421875,anonymous,EN,0.89999997615814208984375,,,,,1,3,4,carpenter bees removal,5,4,3,3,3,1,3,4,4,heart attack symptoms men women,4,2,2,2,5,2,4,4,3,usda food pyramid,5,3,4,5,4,1,3,3,4,schizophrenia medicine treatment,5,5,3,4,5,1,944288367126,1
+2022-02-10 23:03:36,2022-02-10 23:06:55,0,74.128.24.2,100,199,1,2022-02-10 23:06:56,R_1QmhLcgsmwlR36U,,,,,40.2738037109375,-81.86620330810546875,anonymous,EN,1,,0,0,,4,5,5,Carpenter bee removal,5,5,4,5,4,1,5,5,5,"Heart attack symptoms ",3,4,5,4,5,1,5,5,5,USDA food pyramid,5,4,5,5,4,1,2,5,5,Schizophrenia treatment medication,5,5,4,5,5,1,663676028372,0
+2022-02-11 14:09:06,2022-02-11 14:11:33,0,76.115.1.182,100,146,1,2022-02-11 14:11:33,R_2COrjbjU3HSUHpe,,,,,45.5471954345703125,-122.64170074462890625,anonymous,EN,1,,0,5,,5,2,5,how to get rid of carpenter bees,5,5,1,1,1,1,1,1,4,heart attack prevention,1,1,5,2,3,1,5,5,5,USDA food pyramid 2022,4,3,4,5,3,1,2,2,4,common drugs to treat mental illness,4,5,2,5,4,1,823035318520,0
+2022-02-14 02:40:56,2022-02-14 02:43:57,0,71.234.226.108,100,181,1,2022-02-14 02:43:58,R_24Iwx7kAh6OqR5D,,,,,42.456695556640625,-71.37470245361328125,anonymous,EN,0.89999997615814208984375,,0,0,,1,2,5,How to remove carpenter bees,4,5,3,2,3,1,1,3,5,"what are the symptoms of a heart attack in both men and women ",1,1,2,1,5,1,4,2,5,"What is the USDA food pyramid ",4,2,5,4,3,1,1,4,4,What medications are used to treat schizophrenia,5,3,2,5,5,1,609051551180,0
+2022-02-14 03:50:37,2022-02-14 03:53:57,0,99.12.77.50,100,200,1,2022-02-14 03:53:57,R_vjAhJ1hWQ40MFUZ,,,,,34.84930419921875,-82.4040985107421875,anonymous,EN,1,,0,0,,3,4,5,how remove carpenter bees from house,5,5,4,2,4,1,4,4,5,heart attack symptoms men vs women,3,3,3,3,4,1,4,3,5,USDA food pyramid description,5,4,5,4,4,1,4,4,5,schizophrenia treatment drugs,5,5,4,5,5,1,332896564784,0
+2022-02-14 04:58:59,2022-02-14 04:59:22,0,73.217.120.74,8,22,0,2022-02-14 05:59:10,R_BCYnI7Xg9Oktvj3,,,,,,,anonymous,EN,1,,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,770295606134,0
+2022-02-14 07:00:12,2022-02-14 07:06:05,0,109.81.209.92,100,353,1,2022-02-14 07:06:05,R_8oZA1EODGp6WHXb,,,,,49.8491058349609375,18.2696075439453125,anonymous,EN,0.89999997615814208984375,,0,0,,2,4,4,how to get rid of carpenter bees in my house,5,5,2,1,4,1,3,5,5,heart attack symptoms differences male vs female,1,1,4,4,5,1,3,5,5,USDA healthy food recommendation pyramid,5,1,5,4,4,1,3,5,5,what drugs are used to treat schizophrenia,5,4,1,5,5,1,102278297045,0
+2022-02-14 10:40:18,2022-02-14 10:47:22,0,72.79.120.187,100,423,1,2022-02-14 10:47:23,R_12m8C6bABvCHkE5,,,,,40.76409912109375,-74.16539764404296875,anonymous,EN,0.800000011920928955078125,,0,0,,1,1,5,how to get rid of carpenter bees,5,5,2,3,3,1,5,5,5,heart attack symptoms,4,1,1,2,5,1,5,3,5,USDA food pyramid guidelines,5,4,5,5,4,1,5,1,4,list of medicines that are used in each stage of schizophrenia.,5,4,1,5,5,1,283533263416,4
+2022-02-14 11:18:10,2022-02-14 11:21:42,0,65.25.90.80,100,212,1,2022-02-14 11:21:43,R_2rUwOnajKqB1GJO,,,,,41.3721923828125,-82.10870361328125,anonymous,EN,1,,0,0,,4,3,4,Carpenter bee removal,5,5,4,3,3,1,4,4,4,What are the symptoms of a heart attack,3,4,2,3,5,1,4,3,5,"USDA food pyramid ",5,4,5,5,4,1,4,5,4,"Drugs that treat schizophrenia ",5,5,3,5,5,1,756140713463,0
+2022-02-14 11:19:01,2022-02-14 11:22:17,0,99.2.65.40,100,196,1,2022-02-14 11:22:17,R_1ffvsvnZXGhJwIp,,,,,30.2754974365234375,-81.5814971923828125,anonymous,EN,1,,0,0,,2,3,4,Carpenter bee eradication from home.,5,5,5,3,5,1,4,3,4,Symptoms of heart attack in both male and females.,5,4,5,5,5,1,4,3,4,Food pyramid chart.,5,5,5,4,5,1,3,3,4,Drugs used to treat schizophrenia?,5,5,4,5,5,1,869416842702,0
+2022-02-14 11:18:12,2022-02-14 11:22:34,0,71.71.214.155,100,262,1,2022-02-14 11:22:35,R_2U96C3yHR3lCuW6,,,,,35.2227020263671875,-80.79380035400390625,anonymous,EN,1,,0,0,,1,1,4,How to get rid of an infestation of carpenter in my house?,5,5,4,2,3,1,4,3,4,What are the symptoms of a heart attack for men and women?,3,1,1,3,5,1,4,4,4,What does the USDA food pyramid look like?,5,2,5,3,3,1,3,2,3,"Which drugs are used to treat different stages of schizophrenia? ",4,4,3,5,4,1,266367976902,0
+2022-02-14 11:20:05,2022-02-14 11:22:40,0,71.199.248.207,100,155,1,2022-02-14 11:22:40,R_WBcRrMd4jpG5wwp,,,,,30.3668060302734375,-81.58730316162109375,anonymous,EN,0.89999997615814208984375,,0,0,,1,1,1,how to remove carpenter bees,5,5,4,3,4,1,4,4,4,symptoms of heart attack,3,2,2,3,5,1,4,4,4,What is the food pyramid?,5,5,5,3,5,1,2,2,2,What medications treat schizophrenia?,5,5,3,5,5,1,779688447504,0
+2022-02-14 11:18:14,2022-02-14 11:23:20,0,173.59.41.233,100,305,1,2022-02-14 11:23:20,R_1dbIo0giFjOqp6i,,,,,39.92059326171875,-75.1826019287109375,anonymous,EN,1,,0,0,,1,4,4,carpenter bee removal DIY,5,5,3,1,3,1,4,4,5,early warning symptoms of heart attacks,1,1,5,3,5,1,5,5,5,US RDA macronutrients and anti-inflammatory foods,4,3,4,4,5,1,4,4,5,schizophrenia drugs and stages,4,4,1,5,4,1,178751845401,0
+2022-02-14 11:18:32,2022-02-14 11:24:11,0,173.47.178.180,100,339,1,2022-02-14 11:24:12,R_2ffaqOmNqtaP1tZ,,,,,35.027496337890625,-99.08489990234375,anonymous,EN,0.89999997615814208984375,,0,20,,5,4,5,How do you remove carpenter ants.,5,5,4,4,2,2,5,4,5,What are the symptoms of a heart attack?,4,5,4,4,4,4,5,5,4,Search for the USDA food pyramid please,5,2,5,3,4,1,5,5,4,What are the symptoms showing you have schizophrenia?,5,4,2,4,5,2,810555105586,3
+2022-02-14 11:20:10,2022-02-14 11:24:12,0,73.63.7.110,100,242,1,2022-02-14 11:24:13,R_XSdXgGWBCMHpHk5,,,,,40.75,-111.9208984375,anonymous,EN,0.89999997615814208984375,,0,5,,4,4,5,carpenter bees in my house,5,4,4,1,3,1,4,2,5,heart attack symptoms men and women,3,1,2,3,5,1,4,2,5,food pyramid diagram,5,4,5,2,4,1,1,4,5,Drugs used to treat schizophrenia,5,4,3,4,5,1,506106997071,0
+2022-02-14 11:19:04,2022-02-14 11:24:12,0,173.80.212.22,100,308,1,2022-02-14 11:24:13,R_2t3uKqmm2bkchPO,,,,,37.847900390625,-81.99610137939453125,anonymous,EN,0.89999997615814208984375,,0,0,,1,3,3,"google how to safetly remove carpenter bees, what kind of damage can carpenter bees do to a home",5,5,5,5,4,1,4,4,4," i would google what are the early symptoms of a heart attack in a man and woman ",5,4,3,5,5,1,4,4,4,i would search google for information on the food pyramid and food guides,5,5,5,5,5,1,1,4,3,"i would go to google and type in schizophrenia treatments or search on webmd ",4,5,3,5,4,1,812543345824,0
+2022-02-14 11:20:29,2022-02-14 11:24:44,0,216.218.112.43,100,254,1,2022-02-14 11:24:44,R_3nPmfkrq3V4jlP3,,,,,45.5496063232421875,-122.8292999267578125,anonymous,EN,1,,0,0,,1,1,4,how to remove carpenter bees,5,5,4,1,2,1,1,3,4,symptoms of heart attack for women and men,3,1,2,3,5,1,1,1,4,USDA food pyramid,5,4,5,3,4,1,1,1,4,drugs used for stages of mental illness,5,4,2,5,5,1,181142545025,0
+2022-02-14 11:20:09,2022-02-14 11:24:46,0,68.11.25.137,100,277,1,2022-02-14 11:24:47,R_3MhyK90o7XuJpUk,,,,,29.93170166015625,-90.10260009765625,anonymous,EN,1,,0,0,,1,3,4,removal of carpenter bee infestation from a house,5,4,4,2,5,1,4,4,5,symptoms of heart attack in men and women,4,2,3,2,5,1,4,4,5,description of USDA food pyramid,5,5,5,4,4,1,5,4,5,medications for schizophrenia,5,5,2,5,5,1,698125761258,0
+2022-02-14 11:19:17,2022-02-14 11:24:54,0,73.134.250.141,100,336,1,2022-02-14 11:24:54,R_1E0WHQzifaCP0Ux,,,,,39.3361053466796875,-76.53890228271484375,anonymous,EN,1,,0,0,,2,4,4,how to remove carpenter bees,5,5,4,2,3,1,2,5,4,symptom for heart attack in both men and women,3,3,4,3,5,1,2,5,4,USDA health pyramid,5,4,5,3,5,1,1,4,4,what drugs are used for schizophrenia,4,4,2,5,5,1,775480585638,0
+2022-02-14 11:21:03,2022-02-14 11:25:24,0,99.106.151.19,100,260,1,2022-02-14 11:25:24,R_Y0o7jb1wXfr2Khr,,,,,36.07110595703125,-86.71959686279296875,anonymous,EN,1,,0,0,,3,3,3,How to kill carpenter bees.,5,5,4,4,1,1,4,4,4,Early signs of a heart attack.,4,3,2,3,5,1,4,4,5,USDA food pyramid.,5,5,5,4,5,1,3,3,5,Drugs used to treat mental illnesses.,5,5,3,5,5,1,613004226423,0
+2022-02-14 11:18:54,2022-02-14 11:25:34,0,98.223.1.30,100,399,1,2022-02-14 11:25:34,R_1dHojVVGQf3jshD,,,,,42.0048065185546875,-87.99539947509765625,anonymous,EN,1,,0,0,,1,2,4,carpenter bees infestation prroblem,5,5,3,2,4,1,1,2,5,heart attack symptoms,3,1,4,4,5,1,2,2,3,food pyramid and healthy diet,5,4,4,4,5,1,1,4,4,"Stages of schizophrenia and drugs used. ",4,4,4,5,5,1,858051583194,0
+2022-02-14 11:20:17,2022-02-14 11:25:40,0,76.216.170.247,100,322,1,2022-02-14 11:25:40,R_3h6E3ILIOZMW9U4,,,,,33.19549560546875,-117.28620147705078125,anonymous,EN,1,,0,0,,2,4,4,"how to remove beehives inside the house ",5,5,5,3,2,1,5,5,5,heart attack signs and symptoms,4,2,5,3,5,1,4,5,5,USDA food pyramid,5,5,5,5,5,1,4,5,4,what are the effective medicine for mental illness?,5,5,4,5,5,1,610691223060,0
+2022-02-14 11:19:02,2022-02-14 11:25:45,0,71.229.95.60,100,403,1,2022-02-14 11:25:45,R_0lzWTx6HEISditH,,,,,31.8480072021484375,-81.60199737548828125,anonymous,EN,1,,0,0,,4,5,5,"bees in house siding ",5,5,5,5,5,1,5,5,5,"symptoms of heart attack men women ",4,4,4,4,5,1,5,5,5,"USDA food pyramid ",5,3,5,5,5,1,5,5,5,schizophrenia meds,5,5,4,5,5,1,649698663782,0
+2022-02-14 11:20:37,2022-02-14 11:26:08,0,67.253.21.12,100,331,1,2022-02-14 11:26:09,R_2So7wP4dCDRSWZn,,,,,44.2115020751953125,-69.0735015869140625,anonymous,EN,0.89999997615814208984375,,0,0,,4,4,5,How to get rid of carpenter bees,5,5,2,1,2,1,5,4,5,heart attack symptoms male female,3,1,1,3,5,1,5,5,5,USDA food pyramid,5,4,5,3,3,1,2,2,5,Treatments for schizophrenia,5,4,3,5,5,1,449587934208,0
+2022-02-14 11:19:36,2022-02-14 11:27:56,0,24.163.27.166,100,500,1,2022-02-14 11:27:57,R_31MBP0rStFIBwb7,,,,,36.0330047607421875,-80.3916015625,anonymous,EN,1,,0,0,,4,3,4,Ways to remove carpenter bees from my house.,4,4,4,3,3,2,4,4,5,Heart attack symptoms for men and women.,2,2,2,3,5,1,4,4,5,USDA food pyramid information,5,3,5,4,4,1,2,4,4,Drug treatment for schizophrenia patients.,3,3,3,4,4,1,996030112938,1
+2022-02-14 11:20:11,2022-02-14 11:28:20,0,173.26.9.118,100,489,1,2022-02-14 11:28:21,R_1jWhVai52XzFly2,,,,,41.3524932861328125,-86.30609893798828125,anonymous,EN,1,,0,0,,1,2,4,carpenter bee exterminator,5,5,3,2,3,1,3,2,4,common heart attack symptoms,2,1,2,1,5,1,3,2,4,usda food pyramid,5,3,5,3,3,1,2,2,4,schizophrenia treatment,5,5,3,5,5,1,110497865802,0
+2022-02-14 11:20:59,2022-02-14 11:28:36,0,76.222.214.144,100,456,1,2022-02-14 11:28:36,R_2Clj0LLvdDRmdIh,,,,,42.175994873046875,-87.80899810791015625,anonymous,EN,0.89999997615814208984375,,0,5,,3,3,5,carpenter bee removal,5,5,2,3,2,1,4,4,5,heart attack symptoms men women,,3,3,2,5,1,4,4,5,usda food pyramid,5,4,5,4,3,1,2,4,4,common drugs for stages of schizophrenia,4,4,3,5,4,1,239914946560,0
+2022-02-14 11:22:39,2022-02-14 11:28:49,0,202.182.64.41,100,369,1,2022-02-14 11:28:50,R_bJkwY12ylNKCgyB,,,,,40.7682952880859375,-73.98020172119140625,anonymous,EN,,,,,,4,4,5,What is the way to get rid of bees in house?,3,5,4,5,3,3,4,3,4,What is the symptoms of heart attack for men and women?,3,4,3,3,3,,4,4,5,What is the food to live as healthy life?,4,4,5,4,4,3,4,3,4,What is the treatment to cure mental illness?,2,3,3,3,3,2,901806097803,4
+2022-02-14 11:25:48,2022-02-14 11:30:03,0,68.248.147.9,100,255,1,2022-02-14 11:30:04,R_248IKrX14BcjhFX,,,,,38.2689971923828125,-85.49340057373046875,anonymous,EN,1,,0,20,,1,4,4,how to get rid of carpenter bees,5,5,4,2,3,1,4,4,4,heart attack symptoms men women,3,3,1,3,4,1,4,4,4,"usda food pyramid ",5,4,5,4,3,1,1,4,5,"drugs for schizophrenia ",5,5,3,5,5,1,224250209098,0
+2022-02-14 11:18:51,2022-02-14 11:30:31,0,71.196.105.158,100,699,1,2022-02-14 11:30:31,R_2VQ6IQGVl3J3htr,,,,,26.0070037841796875,-80.1219024658203125,anonymous,EN,1,,0,0,,5,5,4,remove carpenter bees,5,5,3,3,1,1,5,5,4,Symptoms heart attack,2,3,3,4,5,1,5,4,5,Food pyramid USDA,5,3,5,3,4,1,5,4,5,"Drugs treating Schizophrenia ",5,4,2,5,5,1,660746392281,0
+2022-02-14 11:24:09,2022-02-14 11:30:40,0,104.37.172.151,100,390,1,2022-02-14 11:30:40,R_ePyLf8xzvbDzyvL,,,,,32.776702880859375,-96.80500030517578125,anonymous,EN,1,,0,25,,3,3,5,HOW CAN REMORE THEM?,3,5,4,4,4,4,4,3,4,GOOD,4,4,5,2,3,4,4,4,3,GOOD,5,3,4,4,3,4,5,4,4,GOOD,4,5,3,3,4,4,459334684885,6
+2022-02-14 11:26:48,2022-02-14 11:30:41,0,67.48.187.219,100,232,1,2022-02-14 11:30:41,R_PYUAyMcyQ3ngvyF,,,,,26.181304931640625,-97.74829864501953125,anonymous,EN,0.89999997615814208984375,,0,20,,4,4,5,Carpenter bee removal,5,5,4,5,3,1,4,2,5,"heart attack early symptoms ",4,4,3,4,5,1,5,4,5,food pyramid USDA,5,5,5,3,5,1,5,5,5,medications for schizophrenia,5,5,3,5,5,1,233566896268,0
+2022-02-14 11:20:29,2022-02-14 11:30:46,0,75.41.166.226,100,617,1,2022-02-14 11:30:47,R_3QRdp7GeSsIsXV4,,,,,35.2803955078125,-98.9474029541015625,anonymous,EN,1,,0,0,,2,4,5,carpenter bees get rid of,5,5,3,4,2,1,4,3,5,Symptoms of a heart attack,3,3,2,3,5,1,4,1,5,USDA food pyramid explained,5,4,5,4,3,1,1,3,4,schizophrenia treatment medication,5,5,3,4,5,1,810540791391,0
+2022-02-14 11:21:47,2022-02-14 11:30:48,0,69.117.238.16,100,540,1,2022-02-14 11:30:48,R_3prp3NGQo75kqHl,,,,,40.8108062744140625,-73.36669921875,anonymous,EN,1,,0,5,,4,4,5,"House siding bee damage and removal. ",5,5,4,4,4,1,2,4,5,Heart attack symptoms in both man and woman,3,3,5,4,5,1,3,5,5,USDA food pyramid information,5,3,5,5,4,1,1,4,4,"Common drugs to treat different mental illness. ",4,4,4,4,4,1,722581481724,0
+2022-02-14 11:27:28,2022-02-14 11:30:50,0,174.67.203.139,100,201,1,2022-02-14 11:30:50,R_1Ed1kpdYO45kdec,,,,,33.4600982666015625,-117.6381988525390625,anonymous,EN,1,,0,20,,1,1,4,how to get rid of carpenter bees,5,5,4,4,5,1,4,2,5,heart attack signs symptoms,3,3,3,3,5,1,5,1,5,usda food pyramid,5,5,5,4,5,1,4,3,4,schizophrenia stages treatment drugs,4,4,2,4,4,1,683036117698,0
+2022-02-14 11:27:22,2022-02-14 11:31:30,0,24.1.64.138,100,247,1,2022-02-14 11:31:30,R_PHiOjxA5NJdKKhr,,,,,42.10980224609375,-86.4259033203125,anonymous,EN,1,,0,0,,1,4,5,How to get rid of carpenter bees,4,5,1,1,3,1,1,4,5,Causes of heart attack in men and women,2,2,5,5,5,1,1,5,5,What is the current food pyramid consist of,5,1,5,5,3,1,1,4,4,drugs used for schizophrenia,5,4,1,5,5,1,456120251421,0
+2022-02-14 11:26:32,2022-02-14 11:32:09,0,66.91.211.85,100,337,1,2022-02-14 11:32:10,R_UgXta3FdS6KKTwB,,,,,21.2816925048828125,-157.8249969482421875,anonymous,EN,0.89999997615814208984375,,0,5,,1,1,4,Getting rid of Carpenter bees,5,5,4,3,4,1,1,4,5,"Heart attack symptoms ",4,1,5,5,5,2,4,5,5,"USA food pyramid ",5,4,5,4,4,1,1,1,4,"Drugs for mental illness ",5,5,3,5,5,1,417363560362,4
+2022-02-14 11:30:19,2022-02-14 11:32:37,0,98.235.49.7,100,137,1,2022-02-14 11:32:37,R_1rfatuNFLZaSrhp,,,,,40.2743988037109375,-76.70619964599609375,anonymous,EN,1,,0,0,,4,4,3,carpenter bee removal,5,5,3,2,3,1,4,4,4,heart attack symptoms,3,1,2,3,5,1,4,2,4,food pyramid description,4,4,4,3,4,1,2,3,3,drugs used to treat schizophrenia,5,4,3,5,5,1,158281811256,0
+2022-02-14 11:27:12,2022-02-14 11:32:51,0,173.198.160.217,100,338,1,2022-02-14 11:32:52,R_2SudfaTiEe0kdNd,,,,,43.9600982666015625,-111.69750213623046875,anonymous,EN,1,,0,5,,4,4,5,How to get rid of carpenter bees under house siding,5,5,3,4,3,1,5,5,5,Symptoms of a heart attack,2,2,2,4,5,1,5,4,5,Food pyramid,5,4,5,4,3,1,4,4,5,schizophrenia drug treatments,5,4,3,5,5,1,388600173243,0
+2022-02-14 11:30:25,2022-02-14 11:34:02,0,73.243.197.166,100,216,1,2022-02-14 11:34:02,R_2s6Y5mhN9Qu9uZS,,,,,39.62530517578125,-104.7863006591796875,anonymous,EN,1,,0,0,,2,4,4,get rid of carpenter bees,5,5,3,2,1,1,4,4,4,heart attack symptoms,3,1,5,4,5,1,4,4,4,USDA food pyramid,5,2,5,3,3,1,3,4,4,drugs for treatment of different stages mental illness,3,2,1,3,3,1,815105249173,0
+2022-02-14 11:26:55,2022-02-14 11:34:04,0,24.113.30.48,100,428,1,2022-02-14 11:34:04,R_3PgBZNgO7YY16sW,,,,,48.1009979248046875,-123.43280029296875,anonymous,EN,0.89999997615814208984375,,0,20,,2,5,4,Remove Carpenter bees from house siding,5,5,3,3,3,1,2,5,5,Heart Attack Symptoms Male and Female,2,2,3,2,5,1,4,5,5,USDA Food Pyramid,5,4,5,5,5,1,1,2,3,What medications treat the different stages of schizophrenia,5,4,3,5,5,1,214532659086,0
+2022-02-14 11:28:11,2022-02-14 11:34:27,0,108.73.95.238,100,375,1,2022-02-14 11:34:29,R_2V4ntiARZ6NJ3C9,,,,,32.963592529296875,-96.74680328369140625,anonymous,EN,1,,0,0,,4,4,5,How do I get rid of carpenter bees?,5,5,3,1,4,0,4,5,5,What are the most likely symptoms that you are about to have a heart attack?,4,2,4,5,5,0,4,3,4,What is the food pyramid for the USDA?,4,4,5,5,4,0,2,4,5,What drugs are used to treat the different stages of schizophrenia?,5,4,3,5,5,0,805005429056,4
+2022-02-14 11:32:05,2022-02-14 11:35:09,0,73.123.179.39,100,184,1,2022-02-14 11:35:10,R_3IumQiBV1hxCIy5,,,,,42.460906982421875,-71.0074005126953125,anonymous,EN,1,,0,0,,1,3,4,carpenter bee infestation removal tips,4,4,2,2,2,1,2,3,5,symptoms of a heart attack for men and women,2,1,4,3,4,1,3,2,4,usda healthy food guidelines,3,2,3,3,4,1,1,4,4,schizophrenia drugs used for treatment,5,4,2,4,4,1,242694471986,0
+2022-02-14 11:21:31,2022-02-14 11:37:56,0,94.103.189.39,100,984,1,2022-02-14 11:37:56,R_12LMjzQs8DfsgY1,,,,,39.046905517578125,-77.49030303955078125,anonymous,EN,1,,0,85,,4,5,5,What is the life span of carpenter bees?,5,5,5,4,5,3,4,3,5,How to prevent from heart attack?,3,4,5,5,5,4,5,5,5,"What is the opinion on fast food on public? ",4,4,5,5,5,5,3,5,4,What is base and high levels of schizophrenia?,5,5,4,5,5,2,492348004737,4
+2022-02-14 11:37:27,2022-02-14 11:41:46,0,73.173.103.253,100,258,1,2022-02-14 11:41:46,R_BFAQkZxH1x8dfix,,,,,39.21240234375,-76.87760162353515625,anonymous,EN,1,,0,0,,1,1,4,Carpenter bee removal methods,5,5,3,1,2,1,3,1,5,Heart attack symptoms in men and women,2,1,1,1,5,1,5,4,5,USDA Food Pyramid,5,2,5,3,2,1,1,3,4,Drugs used to treat schizophrenia,5,5,2,5,5,1,836191022535,0
+2022-02-14 11:41:27,2022-02-14 11:44:18,0,67.189.76.92,100,170,1,2022-02-14 11:44:18,R_3pcfBZjhGB5nZg4,,,,,45.411102294921875,-122.687103271484375,anonymous,EN,1,,0,0,,2,4,4,Removing carpenter bees,5,5,3,1,1,1,4,4,4,Heart attack symptoms in men and women,4,4,1,4,5,1,2,4,4,USDA Food Pyramid,5,4,5,4,4,1,1,4,4,what drugs are used to treat schizophrenia,5,5,3,5,5,1,893638237006,0
+2022-02-14 11:49:22,2022-02-14 11:51:43,0,70.171.9.199,100,141,1,2022-02-14 11:51:44,R_1EicSDcoGxwdT5N,,,,,29.613800048828125,-82.3860015869140625,anonymous,EN,1,,0,0,,3,5,5,carpenter bee removal,5,5,5,2,5,1,5,5,5,heart attack symptoms,2,1,1,1,5,1,5,5,5,food pyramid USDA,5,3,5,5,5,1,3,5,5,treatments for schizophrenia,5,5,2,5,5,1,977617362863,0
+2022-02-14 11:50:29,2022-02-14 11:51:44,0,172.82.147.190,100,74,1,2022-02-14 11:51:44,R_3HTatHWe8Qq8KD0,,,,,37.751007080078125,-97.82199859619140625,anonymous,EN,0.89999997615814208984375,,0,35,,4,4,4,GOOD,5,5,5,5,4,5,4,4,4,GOOD,5,5,5,5,5,5,4,4,4,GOOD,5,5,5,5,5,5,4,4,4,GOOD,5,5,5,5,5,5,443836179631,4
+2022-02-14 11:48:39,2022-02-14 11:52:34,0,73.134.250.141,100,235,1,2022-02-14 11:52:34,R_Oy6vhB4eOiIm4RX,,,,,39.3361053466796875,-76.53890228271484375,anonymous,EN,1,true,90,0,2022-02-14 00:19:25,1,1,4,carpenter bees infestation home,5,4,4,4,4,1,2,3,4,symptoms of a heart attack,3,3,5,4,5,1,4,4,4,USDA healthy food pyramid,4,4,5,5,5,1,1,3,4,mental illness prescriptions,4,4,3,4,4,1,752618331392,0
+2022-02-14 11:45:39,2022-02-14 11:53:27,0,172.115.116.106,100,467,1,2022-02-14 11:53:27,R_2Ya0flYSXN14ibs,,,,,34.21929931640625,-118.98419952392578125,anonymous,EN,1,,0,5,,2,3,2,How to remove carpenter bees from home siding.,5,5,3,2,2,1,5,5,5,What are the symptoms of a heart attack in both men and women.,3,2,3,3,5,1,4,4,5,Show me the USDA's Food Pyramid for healthier food choices.,5,2,5,4,3,1,4,4,5,What are the medications used for all levels of schizophrenia?,5,4,2,5,4,1,328982927626,0
+2022-02-14 11:51:40,2022-02-14 11:54:19,0,104.175.211.38,100,159,1,2022-02-14 11:54:20,R_vqXg0BW6adiHYsh,,,,,34.0290069580078125,-118.4004974365234375,anonymous,EN,1,,0,0,,2,4,5,carpenter bees infestation and removal,5,5,4,5,4,2,3,5,5,heart attack symptoms,4,3,5,5,5,2,4,4,5,USDA food pyramid,5,4,5,5,5,1,3,5,5,schizophrenia medication,5,5,3,5,5,1,255804220959,2
+2022-02-14 11:50:30,2022-02-14 11:54:34,0,63.131.212.20,100,244,1,2022-02-14 11:54:34,R_2ALIa4I9FjWpKvA,,,,,38.2281036376953125,-84.86969757080078125,anonymous,EN,0.89999997615814208984375,,0,0,,2,2,5,DIY carpenter bees removal,5,5,4,2,1,1,4,4,5,Symptoms of heart attack in men vs women,5,4,1,3,5,1,5,4,5,"USDA Food pyramid ",5,4,5,4,4,1,4,4,5,"Medications used to treat schizophrenia stages ",5,5,3,5,5,1,882370213023,4
+2022-02-14 11:50:18,2022-02-14 11:55:30,0,75.136.141.155,100,312,1,2022-02-14 11:55:30,R_2y4rL3D6ZzvEcF9,,,,,34.5251007080078125,-82.63069915771484375,anonymous,EN,1,,0,50,,1,3,2,How to get rid of carpenter bees,5,5,4,4,3,1,2,3,4,General Heart Attack Symptoms,4,3,1,1,5,1,4,4,5,USDA Food Pyramid,5,5,5,4,4,1,1,3,3,Common Drug Treatment for Mental Illnesses,5,5,4,5,5,1,770874689193,0
+2022-02-14 11:49:17,2022-02-14 11:56:05,0,45.144.80.95,100,408,1,2022-02-14 11:56:05,R_3TPjdGPqYYE69TH,,,,,34.0543975830078125,-118.2440032958984375,anonymous,EN,0.89999997615814208984375,,0,75,,1,4,3,How to remove carpenter bee infestation from siding,5,5,3,1,2,1,3,4,4,Symptoms of a heart attack men and women first signs,3,2,2,3,5,1,3,3,5,Food pyramid USDA eating healthy,5,3,5,4,4,1,1,5,4,Schizophrenia drugs treatment during stages of disease,5,3,2,4,5,1,396926426654,0
+2022-02-14 11:54:58,2022-02-14 11:56:58,0,107.77.229.92,100,119,1,2022-02-14 11:56:59,R_3dWzfLmfFDZG4QH,,,,,33.948394775390625,-118.249298095703125,anonymous,EN,1,,0,0,,1,2,5,how to remove carpenter bees house,5,5,4,4,4,1,2,2,5,heart attack symptoms men and women,4,3,5,5,5,1,5,4,5,usda food pyramid,5,4,5,4,5,1,4,2,5,schizophrenia drug treatment,5,5,3,5,5,1,121250664885,0
+2022-02-14 11:52:39,2022-02-14 11:57:25,0,174.48.158.33,100,286,1,2022-02-14 11:57:26,R_23UVSWMsGcJv57O,,,,,26.0702972412109375,-80.22480010986328125,anonymous,EN,0.89999997615814208984375,,0,0,,3,4,4,Carpenter bee removal tips and tricks,4,5,3,2,3,1,4,5,5,List of heart attack symptoms for men and women,1,4,4,3,5,2,5,5,5,USDA nutrition and food pyramid,5,2,4,5,3,1,2,1,3,Schizophrenic drug treatments and drugs list,2,2,1,3,5,1,757400260586,1
+2022-02-14 11:53:20,2022-02-14 11:58:26,0,71.63.47.189,100,306,1,2022-02-14 11:58:26,R_3KZOtAkZk73We03,,,,,37.339202880859375,-77.41750335693359375,anonymous,EN,1,,0,0,,1,1,3,carpenter bees,5,5,4,3,1,0,2,3,4,heart attack symptoms,3,2,3,4,5,1,4,4,5,food pyramid,5,5,5,5,4,1,1,3,4,schizophrenia treatment,5,4,3,5,5,1,808127491641,1
+2022-02-14 11:51:01,2022-02-14 11:59:03,0,98.216.194.248,100,481,1,2022-02-14 11:59:03,R_D75EYY9wZOsjw7n,,,,,43.0583953857421875,-71.45780181884765625,anonymous,EN,0.89999997615814208984375,,0,0,,1,4,4,How to remove carpenter bee infestation?,5,5,3,2,2,2,3,4,5,What are the symptoms of a heart attack?,4,1,5,5,5,2,4,2,3,USDA food pyramid,5,3,5,4,3,1,1,3,5,what drugs are used to treat schizophrenia,5,5,3,5,5,1,200589011958,2
+2022-02-14 11:55:21,2022-02-14 11:59:07,0,108.31.82.249,100,225,1,2022-02-14 11:59:07,R_bxPSSV1NGPw6NOx,,,,,39.1360931396484375,-77.28240203857421875,anonymous,EN,1,,0,0,,2,1,4,Bees flying from hole in my house,5,5,5,3,4,1,4,4,5,heart attack symptoms,3,2,4,4,5,1,4,4,4,usda food pyramid,5,4,5,4,4,1,4,4,4,schizophrenia medications,5,5,3,5,5,1,908844146155,0
+2022-02-14 11:57:20,2022-02-14 12:00:13,0,47.215.140.94,100,172,1,2022-02-14 12:00:13,R_SPgv2MSoV1rBvCp,,,,,35.18719482421875,-111.65959930419921875,anonymous,EN,1,,0,0,,1,3,4,How to remove carpenter bees,5,5,4,2,4,1,2,2,5,heart attack symptoms,5,3,5,5,5,1,4,3,5,USDA guidelines,4,3,5,5,5,1,1,3,4,drugs for schizophrenia,5,5,3,5,5,1,976657927897,0
+2022-02-14 11:55:59,2022-02-14 12:01:40,0,72.181.143.114,100,341,1,2022-02-14 12:01:40,R_3hoQD85u2ChAIcZ,,,,,32.8242034912109375,-96.750701904296875,anonymous,EN,1,,0,5,,2,2,2,"How do you remove a carpenter bee infestation. ",5,5,5,4,5,1,2,4,4,What are the different heart attack symptoms in men and women?,2,1,2,5,5,1,4,4,4,"What is the USDA food pyramid? ",5,5,5,4,3,1,4,5,4,"What prescriptions are given to people with schizophrenia? ",5,4,3,5,5,1,680626801867,0
+2022-02-14 11:54:52,2022-02-14 12:01:49,0,68.84.193.232,100,416,1,2022-02-14 12:01:49,R_3kdFw7JW9G3uBEy,,,,,32.4062957763671875,-111.06330108642578125,anonymous,EN,0.89999997615814208984375,,0,0,,4,5,4,"They fly in, but they can't fly out. You can place them near where you have a carpenter bee problem",4,5,4,3,4,4,4,5,4,"Check out a Ballet Performance of 'The Nutcracker' ",3,3,4,4,3,5,4,5,4,Comparative degree of health is healthier. Superlative degree of healthy is healthiest.,5,5,4,4,4,3,4,4,5,Rinse your mouth with warm salt water.,3,5,4,5,3,4,744771175412,4
+2022-02-14 12:00:14,2022-02-14 12:03:47,0,72.201.122.93,100,213,1,2022-02-14 12:03:47,R_6ytep5xtEMRIN0Z,,,,,33.700103759765625,-111.88770294189453125,anonymous,EN,1,,0,0,,1,1,4,removal of carpenter bees,5,5,3,2,1,1,4,4,5,signs of a heart attack,4,2,3,1,5,1,5,5,5,usda food pyramid,5,3,4,2,1,1,1,3,4,drugs to treat schizophrenia,5,4,4,5,5,1,265416315943,0
+2022-02-14 12:00:17,2022-02-14 12:04:03,0,45.35.97.203,100,225,1,2022-02-14 12:04:04,R_ABhfqRZk8I7DdDj,,,,,34.0493927001953125,-118.2660980224609375,anonymous,EN,1,,0,25,,4,5,4,CARPENTER BEENS,4,5,4,4,4,3,4,5,4,HEART ATTACK,4,5,4,5,4,3,4,5,5,JUNK FOOD,4,4,3,4,4,5,4,4,5,MENTAL ILLNESS,5,3,5,4,4,4,178900727489,4
+2022-02-14 12:00:42,2022-02-14 12:04:08,0,73.57.140.53,100,206,1,2022-02-14 12:04:09,R_1Nfu8BKkrN4qrVH,,,,,25.8153076171875,-80.357696533203125,anonymous,EN,1,,0,0,,5,4,4,Remove Damage hole of house,5,5,4,5,4,4,5,4,4,Heart attack of  men and women,5,4,4,5,4,2,4,5,5,Healthier life of food pyramid,3,4,4,3,5,4,5,4,5,Mental Illness schizophrenia,5,4,5,3,4,4,851472281012,4
+2022-02-14 11:59:42,2022-02-14 12:06:11,0,75.141.194.130,100,389,1,2022-02-14 12:06:12,R_3NwjdPb3BVlHlmR,,,,,39.52490234375,-119.8130950927734375,anonymous,EN,,,,,,5,5,5,How to get rid of carpenter bees,5,5,3,3,3,1,5,5,5,common symptoms in men and women of heart attack,3,4,1,1,5,1,5,5,5,USDA food pyramid,5,4,5,4,5,1,5,5,5,drugs for schitzophenia,5,5,3,5,5,1,500220879749,0
+2022-02-14 12:02:45,2022-02-14 12:07:23,0,204.191.189.222,100,277,1,2022-02-14 12:07:23,R_3F5u8qjGSpU5Mgt,,,,,53.54840087890625,-113.43779754638671875,anonymous,EN,1,,0,0,,2,4,4,getting ride of carpenter bees,5,5,3,1,1,1,2,4,4,"Symptoms of a heart attack in both men and women. ",2,1,2,1,4,1,2,4,4,Food pyramid advised by USDA,5,1,5,5,2,1,1,2,4,"Drugs for schizophrenia ",5,5,2,4,5,1,812122191861,0
+2022-02-14 12:02:24,2022-02-14 12:07:26,0,23.81.194.65,100,302,1,2022-02-14 12:07:26,R_cx9stFigW0W6dKF,,,,,33.4474945068359375,-112.08660125732421875,anonymous,EN,1,,0,25,,5,5,5,Carpenter,2,1,2,2,3,5,5,5,5,Hospitalized after heart attack,2,5,3,1,2,2,5,5,5,Junk food,2,2,3,2,3,5,5,5,5,Intriguing psycho-thriller on TV,4,3,2,2,3,5,396384870843,4
+2022-02-14 12:04:32,2022-02-14 12:10:02,0,67.163.230.27,100,330,1,2022-02-14 12:10:03,R_1o0am9J9eiWtUxU,,,,,40.1587982177734375,-79.81220245361328125,anonymous,EN,1,,0,0,,1,2,5,get rid of carpenter bees,5,5,4,2,3,1,4,4,5,heart attack symptoms,3,2,2,2,5,1,4,3,5,food pyramid usda,5,4,5,2,4,1,1,3,5,schizophrenia drug treatments,5,5,2,5,5,1,134995775739,0
+2022-02-14 12:09:55,2022-02-14 12:11:41,0,64.121.102.112,100,106,1,2022-02-14 12:11:42,R_2pSM1AR119fntxi,,,,,40.5995025634765625,-75.3762969970703125,anonymous,EN,0.89999997615814208984375,,0,0,,1,2,4,how to remove carpenter bees,5,5,4,3,2,1,4,4,5,heart attack symptoms,5,2,2,5,4,1,3,2,5,the food pyramid,5,5,3,4,5,1,2,3,5,drugs used to treat schizophrenia,5,3,4,5,4,1,896935498970,0
+2022-02-14 12:08:48,2022-02-14 12:12:21,0,172.98.161.138,100,213,1,2022-02-14 12:12:22,R_1Lv5PrlAVg2sGEF,,,,,40.00250244140625,-75.1134033203125,anonymous,EN,0.89999997615814208984375,,0,25,,5,5,5,Bees flying,1,3,2,2,5,5,5,5,5,Heart Attack,5,5,2,2,2,3,5,5,5,Food pyramid,2,5,2,2,3,2,5,5,5,schizophrenia,4,3,5,3,5,3,215246390085,4
+2022-02-14 12:09:24,2022-02-14 12:13:00,0,216.106.30.98,100,216,1,2022-02-14 12:13:00,R_ZIsxgXrSbZo4N0J,,,,,38.577301025390625,-92.24430084228515625,anonymous,EN,1,,0,0,,2,3,3,How to remove a carpenter bee nest.,4,4,3,2,3,1,4,4,5,Heart attack symptoms,2,1,1,2,5,1,4,4,4,USDA food pyramid 2022,4,2,4,3,3,1,4,5,5,Drugs used to treat schizophrenia,4,4,2,5,4,1,319896297506,0
+2022-02-14 11:17:58,2022-02-14 11:18:04,0,67.232.180.134,8,5,0,2022-02-14 12:18:08,R_2BwXuQ5nKwD5VRN,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,223207172402,0
+2022-02-14 11:18:33,2022-02-14 11:21:12,0,68.41.155.141,54,159,0,2022-02-14 12:18:40,R_2yru5d8ajAP1lZA,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,4,5,4,HEART ATTACK,3,3,4,4,5,3,4,5,4,"FOOD ",3,4,5,4,3,4,,,,,,,,,,,417546278517,2
+2022-02-14 11:19:03,2022-02-14 11:20:58,0,68.32.41.142,23,115,0,2022-02-14 12:19:08,R_2VOVE6Nr2TQVhF6,,,,,,,anonymous,EN,1,,0,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,5,drugs used to treat schizophrenia,,,,,,,188969029556,0
+2022-02-14 11:20:19,2022-02-14 11:20:34,0,76.250.217.35,8,14,0,2022-02-14 12:20:21,R_1OjBdh4fLmtILgY,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,581675190501,0
+2022-02-14 11:21:17,2022-02-14 11:21:56,0,97.71.158.163,8,38,0,2022-02-14 12:21:18,R_1kN4P02Zm0gaHE6,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,367931018816,0
+2022-02-14 12:14:18,2022-02-14 12:21:25,0,74.71.225.26,100,426,1,2022-02-14 12:21:25,R_1pYFCmTbeNTloDk,,,,,40.8000030517578125,-73.9763031005859375,anonymous,EN,1,,0,0,,4,4,5,REMOVE INFESTAION,4,4,5,4,3,2,1,4,1,HEART ATTACK,3,4,5,4,4,2,4,5,2,FOOD PHYRAMID,5,5,4,3,4,3,4,5,4,MENTAL ILLNESS,4,3,2,3,4,5,231713636312,4
+2022-02-14 12:13:10,2022-02-14 12:22:39,0,72.221.20.19,100,569,1,2022-02-14 12:22:40,R_2e2SL6PwS6cvsYT,,,,,33.272705078125,-111.82779693603515625,anonymous,EN,0.89999997615814208984375,,0,0,,5,5,4,"carpenter bees hole ",5,5,4,3,4,5,5,4,4,"Symptoms Heart attack ",5,4,,4,5,4,5,4,4,Healthy food,4,5,4,4,5,5,5,4,5,Psycho thriller schizophrenia,4,4,4,5,5,5,629562925919,4
+2022-02-14 12:22:06,2022-02-14 12:23:45,0,97.91.84.46,100,99,1,2022-02-14 12:23:46,R_2PujDtuaBr9oISX,,,,,44.1551971435546875,-93.99610137939453125,anonymous,EN,0.89999997615814208984375,,0,0,,2,4,4,remove carpenter bees,5,5,4,2,3,1,2,3,5,heart attack symptoms men women,4,1,3,4,5,1,5,2,5,FDA food pyramid,5,4,4,4,2,1,1,4,5,schizophrenia medications,4,5,2,3,5,1,276822911016,0
+2022-02-14 12:09:50,2022-02-14 12:24:32,0,154.16.89.169,100,881,1,2022-02-14 12:24:33,R_9skkZVbkovLNO8N,,,,,35.514404296875,-97.5865020751953125,anonymous,EN,1,,0,25,,5,4,5,How to remove carpenter bees,5,5,3,3,2,4,4,5,5,symptoms of heart attack,1,2,5,4,5,1,4,5,5,food pyramid in usda,5,3,4,4,5,1,2,4,5,schizophrenia mental illness treatment,5,3,2,4,5,1,458786582178,1
+2022-02-14 12:17:41,2022-02-14 12:25:49,0,72.107.74.22,100,487,1,2022-02-14 12:25:49,R_27DOqlxjH7O0XHr,,,,,29.3910064697265625,-81.8551025390625,anonymous,EN,1,,0,0,,3,3,3,Ways to remove carpenter bees?,5,5,3,2,2,1,3,3,3,Symptoms of a heart attack,4,1,3,1,5,1,4,3,4,USDA information on food pyramid,4,4,4,5,5,1,3,3,3,What medicine is used to treat schizophrenia?,4,5,3,4,5,1,483717767358,0
+2022-02-14 12:20:05,2022-02-14 12:26:58,0,198.14.30.105,100,412,1,2022-02-14 12:26:58,R_1C7NYSgGEQawawP,,,,,40.7487945556640625,-73.9882965087890625,anonymous,EN,0.89999997615814208984375,,0,25,,4,4,5,HOW CAN REMOVE,4,4,5,3,4,4,4,4,5,WHAT SYMPTOMS OF HEART ATTACK,5,3,5,4,4,4,4,3,4,WHAT IS THE JUCK FOOD,4,5,5,4,4,4,4,5,4,GOOGLE,4,4,5,4,4,4,132907091802,4
+2022-02-14 12:19:15,2022-02-14 12:28:27,0,70.176.79.62,100,552,1,2022-02-14 12:28:28,R_1LAP8OvDh2IGjrH,,,,,32.2129974365234375,-110.82790374755859375,anonymous,EN,1,,0,0,,1,4,5,how to remove carpenter bees from your home's siding,5,5,4,2,2,1,4,5,5,heart attack symptoms in men and women,4,1,1,2,5,1,4,5,5,food pyramid description USDA,5,4,5,3,4,1,4,5,5,drugs to treat stages of schizophrenia,5,5,3,5,5,1,760530774854,0
+2022-02-14 12:27:29,2022-02-14 12:30:07,0,45.42.190.76,100,157,1,2022-02-14 12:30:07,R_Qd2t7wv88fR1d7z,,,,,38.886505126953125,-77.09110260009765625,anonymous,EN,1,,0,75,,4,3,4,WHAT IS CAT,3,4,4,4,3,4,4,3,4,WHY HEART ATTACT COME?,4,4,3,4,4,3,4,5,4,JUNK FOOD IS HEALTHY?,3,4,4,4,3,4,5,4,4,WHAT IS MENTAL ILLNESS,2,4,4,3,3,3,700246120407,4
+2022-02-14 12:28:36,2022-02-14 12:30:32,0,108.35.27.17,100,116,1,2022-02-14 12:30:33,R_1eRY7RTi2BUVmLY,,,,,40.9734954833984375,-73.96070098876953125,anonymous,EN,1,,0,0,,2,2,5,carpenter bee removal,5,4,4,2,3,1,4,4,5,heart attack symptoms,4,2,3,3,5,1,4,4,5,usda food pyramid,5,4,4,3,3,1,4,4,4,schizophrenia medication treatment,5,5,3,5,5,1,890607387130,0
+2022-02-14 11:31:36,2022-02-14 11:31:42,0,69.117.238.16,8,6,0,2022-02-14 12:31:39,R_da1XXuiAiuEjPkB,,,,,,,anonymous,EN,1,true,100,5,2022-02-14 00:21:59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,949100831383,0
+2022-02-14 12:29:12,2022-02-14 12:31:48,0,99.103.122.86,100,156,1,2022-02-14 12:31:49,R_3G0weoQRliZwAuM,,,,,29.542205810546875,-95.321197509765625,anonymous,EN,1,,0,0,,2,4,2,How to remove carpenter bees,5,4,4,4,5,1,1,4,4,Symptoms of a heart attack,3,2,4,2,4,1,4,4,4,USDA food pyramid,5,4,5,5,2,1,2,5,3,What drugs are used for people with schizophrenia,5,3,2,5,4,1,434398979134,0
+2022-02-14 12:25:19,2022-02-14 12:32:29,0,98.208.235.102,100,430,1,2022-02-14 12:32:30,R_ClDFuqPrBgcT4n7,,,,,26.266204833984375,-81.716400146484375,anonymous,EN,1,,0,5,,2,2,5,How to remove carpenter bees in a wall?,5,5,3,2,2,1,3,3,5,Symptoms of a heart attack in men and women,3,1,1,2,3,1,4,2,5,What is included in the food pyramid?,5,4,5,4,4,1,4,4,5,What medication is used to treat schizophrenia?,5,5,2,5,5,1,166887680138,0
+2022-02-14 12:28:05,2022-02-14 12:32:31,0,24.144.191.224,100,266,1,2022-02-14 12:32:31,R_2e4MPKi1qGfDg6n,,,,,38.3838043212890625,-82.49919891357421875,anonymous,EN,1,,0,0,,5,5,5,carpenter bee house infestation,5,5,4,3,1,1,5,5,5,heart attack symptoms in men + women,3,1,1,1,5,1,5,5,5,USDA food pyramid,5,3,5,4,4,1,5,5,5,drugs used to treat schizophrenia,5,4,2,5,4,1,163440798688,0
+2022-02-14 12:28:09,2022-02-14 12:33:40,0,24.90.215.58,100,330,1,2022-02-14 12:33:40,R_R8oL3JlZXKvAQKJ,,,,,40.7465057373046875,-73.90899658203125,anonymous,EN,1,,0,0,,2,3,3,remove carpenter bees infestation,5,5,4,2,4,1,4,3,5,What are symptoms of heart attack for men and women?,3,1,3,4,5,1,4,3,5,USDA food pyramid,5,3,5,4,4,1,2,4,4,"drugs to treat schizophrenia ",5,5,3,5,5,1,424018892273,0
+2022-02-14 12:31:30,2022-02-14 12:34:54,0,99.23.146.214,100,204,1,2022-02-14 12:34:55,R_3CNMdCvaJMiAkKs,,,,,29.646697998046875,-82.328399658203125,anonymous,EN,1,,0,0,,2,2,4,remove carpenter bees,5,5,3,1,1,1,3,4,5,heart attack symptoms by gender,4,2,2,3,5,1,4,4,4,USDA food pyramid,5,4,5,3,4,1,2,2,5,schizophrenia drugs,5,5,2,4,5,1,276042300602,0
+2022-02-14 12:30:04,2022-02-14 12:35:32,0,104.5.21.103,100,328,1,2022-02-14 12:35:33,R_1NF8tHS0gea6y7n,,,,,41.6226959228515625,-86.24520111083984375,anonymous,EN,1,,0,0,,1,2,3,carpenter bee infestation,4,5,3,2,1,1,3,2,4,heart attack symptoms in men and women,3,3,4,3,5,1,4,3,4,USDA food pyramid,5,4,5,4,4,1,2,4,4,schizophrenia treatment drugs,5,5,3,5,5,1,712806324986,0
+2022-02-14 12:27:24,2022-02-14 12:35:46,0,147.124.217.100,100,501,1,2022-02-14 12:35:47,R_2bQn7HHG933fse1,,,,,32.776702880859375,-96.80500030517578125,anonymous,EN,0.89999997615814208984375,,0,25,,4,4,4,how can remove the honeybee from the hole?.,2,5,5,4,3,4,4,4,5,symptoms of heart attack,4,3,5,1,5,2,4,4,4,ingredients in the food,4,3,5,5,4,1,4,3,4,what is schizophrenia?,5,5,4,4,3,2,764150771312,3
+2022-02-14 12:34:13,2022-02-14 12:37:46,0,73.153.191.15,100,213,1,2022-02-14 12:37:47,R_3QFNuPb8wM6OEIY,,,,,39.743499755859375,-105.06189727783203125,anonymous,EN,0.89999997615814208984375,,0,0,,1,2,5,carpenter bee infestation,4,4,3,2,1,1,4,1,5,heart attack symptoms,4,1,1,1,5,1,4,1,5,USDA food pyramid,5,4,5,3,2,1,2,1,4,schizophrenia stages drugs,3,3,1,3,3,1,121918189176,0
+2022-02-14 11:38:01,2022-02-14 11:38:46,0,198.14.27.119,8,44,0,2022-02-14 12:38:01,R_A7p5Qdz1bTMOVrP,,,,,,,anonymous,EN,0.89999997615814208984375,,0,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,747060819040,0
+2022-02-14 12:35:40,2022-02-14 12:39:33,0,172.220.244.5,100,233,1,2022-02-14 12:39:34,R_1daGMv5LkxdSuXH,,,,,35.583099365234375,-78.7881011962890625,anonymous,EN,1,,0,0,,3,3,4,How to get rid of carpenter bees,5,5,1,3,1,1,4,5,5,symptoms of heart attacks in men and women,3,2,1,1,5,1,5,5,5,What is the food pyramid?,5,5,5,1,3,1,3,4,4,What meds for schizophrenia,5,5,3,5,5,1,459173615719,0
+2022-02-14 11:45:30,2022-02-14 11:47:54,0,24.243.102.169,31,144,0,2022-02-14 12:45:36,R_2ZCadefpaHeX0T7,,,,,,,anonymous,EN,1,,0,0,,1,4,5,How to remove carpenter bees from in between house walls,5,4,5,5,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,689830688945,0
+2022-02-14 12:42:26,2022-02-14 12:45:55,0,174.45.168.171,100,209,1,2022-02-14 12:45:56,R_290LJY32J7RBaWc,,,,,39.0760955810546875,-108.54509735107421875,anonymous,EN,0.89999997615814208984375,,0,5,,4,4,5,removing carpenter bees from house,5,5,3,3,2,1,4,4,4,heart attack symptoms,3,3,3,2,5,1,4,4,5,food pyramid,5,5,5,3,5,1,2,3,4,drugs for schizophrenia,4,5,3,5,5,1,435654415981,0
+2022-02-14 11:46:05,2022-02-14 11:46:40,0,107.4.246.32,8,34,0,2022-02-14 12:46:06,R_9MGUNJUEOlEcMMh,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,842505659628,0
+2022-02-14 12:40:18,2022-02-14 12:50:46,0,65.33.104.140,100,627,1,2022-02-14 12:50:46,R_1DGqO5SNTAWh4UC,,,,,28.020599365234375,-82.4573974609375,anonymous,EN,0.89999997615814208984375,,0,0,,1,4,2,How to remove carpenter bees from siding,3,4,4,4,2,1,2,5,5,"Heart attack symptoms ",2,1,4,2,5,1,4,5,4,USDA good pyramid,5,3,5,4,3,1,2,4,2,"Mental illness drugs ",5,5,2,5,4,1,808217158936,4
+2022-02-14 11:51:54,2022-02-14 11:57:04,0,70.106.251.139,8,309,0,2022-02-14 12:51:58,R_30kGM1Ie6vGJ5u3,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,636317643313,0
+2022-02-14 12:49:39,2022-02-14 12:53:11,0,24.151.250.162,100,212,1,2022-02-14 12:53:11,R_1ptiEVbI8jX2buM,,,,,36.2239990234375,-83.317901611328125,anonymous,EN,1,,0,0,,2,2,4,carpenter bee infestation removal,5,4,2,1,1,0,2,3,5,heart attacks symptoms men and women,3,0,1,0,5,0,4,3,5,USDA food pyramid,5,3,4,3,3,0,3,4,5,stages of schizophrenia treatments,4,3,3,4,4,0,527687112870,4
+2022-02-14 12:51:13,2022-02-14 12:54:47,0,71.59.79.119,100,214,1,2022-02-14 12:54:47,R_2QGvoSGvMvLcKC6,,,,,40.2660064697265625,-74.521697998046875,anonymous,EN,1,,0,0,,5,5,5,control  carpenter bee,5,5,1,5,1,1,1,1,1,heart attack symptoms,5,1,5,5,5,1,5,5,5,Junk food and USDA,2,1,2,5,3,1,1,1,1,drug to treat mental illness,5,5,5,5,5,3,761379426415,1
+2022-02-14 12:54:13,2022-02-14 12:57:34,0,24.240.71.71,100,201,1,2022-02-14 12:57:35,R_2ZHRpKwVOmargre,,,,,44.04840087890625,-92.4947967529296875,anonymous,EN,1,,0,10,,2,3,3,remove carpenter bees inside house,4,4,2,0,2,0,2,4,3,heart attack syndrome in men and women,3,2,1,2,5,0,2,4,3,food pyramid from usda,5,3,5,4,4,0,2,3,3,treatment for schizophrenia,5,5,2,4,5,2,405230749864,4
+2022-02-14 11:57:52,2022-02-14 12:06:14,0,196.17.66.170,8,502,0,2022-02-14 12:57:54,R_1jZMMLwKKWERocK,,,,,,,anonymous,EN,1,,0,75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,497475443943,0
+2022-02-14 12:59:38,2022-02-14 13:05:09,0,71.204.231.161,100,331,1,2022-02-14 13:05:09,R_ZtclN5SP4hTLI5P,,,,,32.7147064208984375,-79.95259857177734375,anonymous,EN,1,,0,0,,2,2,4,remove carpenter bees from siding,4,4,1,1,2,1,2,4,5,symptoms of heart attack for men and women,3,1,3,4,5,2,4,4,5,USDA food pyramid,5,4,5,3,4,1,4,4,4,schizophrenia drug treatments,5,4,2,5,4,1,795217277854,1
+2022-02-14 12:58:46,2022-02-14 13:05:36,0,45.42.190.75,100,410,1,2022-02-14 13:05:36,R_3fDdhbeJWAzfxm2,,,,,38.886505126953125,-77.09110260009765625,anonymous,EN,1,,0,75,,4,3,3,how to remove carpenter bees?,4,4,4,3,5,3,3,3,4,what is the symptoms of heart attact both men and women?,4,4,4,4,3,4,4,3,4,Is junk food is healthier or not?,4,4,4,4,3,3,4,3,3,what are the treatments  there in schizopherenia mental illness?,3,4,4,4,3,4,334402739349,4
+2022-02-14 12:08:40,2022-02-14 12:09:02,0,89.45.90.91,8,21,0,2022-02-14 13:08:42,R_2dFIFRksfySvYpA,,,,,,,anonymous,EN,1,,0,75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,956641795393,0
+2022-02-14 13:25:05,2022-02-14 13:30:03,0,99.97.27.108,100,298,1,2022-02-14 13:30:05,R_2uEe3p1cNTGp78F,,,,,33.1909027099609375,-96.6197967529296875,anonymous,EN,1,,0,30,,2,3,4,how to get rid from carpenter bees,4,5,4,1,2,1,4,5,5,Heart attack symptom of men and women,4,3,4,4,5,4,4,5,5,Healthier food list from USDA,4,4,5,5,5,3,1,3,4,drugs used to treat schizophrenia,5,3,4,4,5,1,513920639269,2

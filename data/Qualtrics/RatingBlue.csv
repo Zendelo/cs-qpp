@@ -1,0 +1,422 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q_RelevantIDDuplicate,Q_RelevantIDDuplicateScore,Q_RelevantIDFraudScore,Q_RelevantIDLastStartDate,261 - personal_1,261 - personal_2,261 - personal_3,261 - user query,261 - rating_12,261 - rating_13,261 - rating_14,261 - rating_15,261 - rating_16,261 - rating_17,297 - personal_1,297 - personal_2,297 - personal_3,297 - user query,297 - rating_1,297 - rating_2,297 - rating_3,297 - rating_4,297 - rating_5,297 - rating_12,244 - personal_1,244 - personal_2,244 - personal_3,244 - user query,244 - rating_12,244 - rating_13,244 - rating_14,244 - rating_15,244 - rating_16,244 - rating_17,238 - personal_1,238 - personal_2,238 - personal_3,238 - user query,238 - rating_1,238 - rating_2,238 - rating_3,238 - rating_4,238 - rating_5,238 - rating_12,Random ID,mistakes
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,Q_RelevantIDDuplicate,Q_RelevantIDDuplicateScore,Q_RelevantIDFraudScore,Q_RelevantIDLastStartDate,"Please read the backstory carefully and answer the following questions.
+Backstory:It is late, but you can't get to sleep because a sore throat has taken hold and it is hard to swallow. You have run out of cough drops, and wonder if there are any folk remedies that might help you out until the morning. - I am familiar with this topic","Please read the backstory carefully and answer the following questions.
+Backstory:It is late, but you can't get to sleep because a sore throat has taken hold and it is hard to swallow. You have run out of cough drops, and wonder if there are any folk remedies that might help you out until the morning. - This topic is interesting to me","Please read the backstory carefully and answer the following questions.
+Backstory:It is late, but you can't get to sleep because a sore throat has taken hold and it is hard to swallow. You have run out of cough drops, and wonder if there are any folk remedies that might help you out until the morning. - It should be easy to find relevant information for this topic",Write a query that you would use to search for information on this topic.,"Backstory:
+
+It is late, but you can't get to sleep because a sore throat has taken hold and it is hard to swallow. You have run out of cough drops, and wonder if there are any folk remedies that might help you out until the morning.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - sore throat home remedy","Backstory:
+
+It is late, but you can't get to sleep because a sore throat has taken hold and it is hard to swallow. You have run out of cough drops, and wonder if there are any folk remedies that might help you out until the morning.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - sore throat","Backstory:
+
+It is late, but you can't get to sleep because a sore throat has taken hold and it is hard to swallow. You have run out of cough drops, and wonder if there are any folk remedies that might help you out until the morning.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - home care cough remedy","Backstory:
+
+It is late, but you can't get to sleep because a sore throat has taken hold and it is hard to swallow. You have run out of cough drops, and wonder if there are any folk remedies that might help you out until the morning.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - what can i use to cure a sore throat","Backstory:
+
+It is late, but you can't get to sleep because a sore throat has taken hold and it is hard to swallow. You have run out of cough drops, and wonder if there are any folk remedies that might help you out until the morning.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - what are some homemade remedy for a sore throat","Backstory:
+
+It is late, but you can't get to sleep because a sore throat has taken hold and it is hard to swallow. You have run out of cough drops, and wonder if there are any folk remedies that might help you out until the morning.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - nausea remedy","Please read the backstory carefully and answer the following questions.
+Backstory:You are scheduled to make a business trip to Mexico City, one of the highest cities in the world, and are concerned that you might suffer from altitude sickness. You would like to find out if there are techniques or treatments that can be used to prevent such problems. - I am familiar with this topic","Please read the backstory carefully and answer the following questions.
+Backstory:You are scheduled to make a business trip to Mexico City, one of the highest cities in the world, and are concerned that you might suffer from altitude sickness. You would like to find out if there are techniques or treatments that can be used to prevent such problems. - This topic is interesting to me","Please read the backstory carefully and answer the following questions.
+Backstory:You are scheduled to make a business trip to Mexico City, one of the highest cities in the world, and are concerned that you might suffer from altitude sickness. You would like to find out if there are techniques or treatments that can be used to prevent such problems. - It should be easy to find relevant information for this topic",Write a query that you would use to search for information on this topic.,"Backstory:
+
+You are scheduled to make a business trip to Mexico City, one of the highest cities in the world, and are concerned that you might suffer from altitude sickness. You would like to find out if there are techniques or treatments that can be used to prevent such problems.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - altitude sickness prevention","Backstory:
+
+You are scheduled to make a business trip to Mexico City, one of the highest cities in the world, and are concerned that you might suffer from altitude sickness. You would like to find out if there are techniques or treatments that can be used to prevent such problems.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - altitude sickness","Backstory:
+
+You are scheduled to make a business trip to Mexico City, one of the highest cities in the world, and are concerned that you might suffer from altitude sickness. You would like to find out if there are techniques or treatments that can be used to prevent such problems.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - treatment for altitude sickness","Backstory:
+
+You are scheduled to make a business trip to Mexico City, one of the highest cities in the world, and are concerned that you might suffer from altitude sickness. You would like to find out if there are techniques or treatments that can be used to prevent such problems.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - how to overcome altitude sickness","Backstory:
+
+You are scheduled to make a business trip to Mexico City, one of the highest cities in the world, and are concerned that you might suffer from altitude sickness. You would like to find out if there are techniques or treatments that can be used to prevent such problems.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - mexico city altitude sickness prevention","Backstory:
+
+You are scheduled to make a business trip to Mexico City, one of the highest cities in the world, and are concerned that you might suffer from altitude sickness. You would like to find out if there are techniques or treatments that can be used to prevent such problems.
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - new mexico altitude","Please read the backstory carefully and answer the following questions.
+Backstory:Driving north along highway 17 in Arizona, you pass a sign to Old Town Scottsdale. You wonder what kind of history the town had, before it was swallowed up by Phoenix. - I am familiar with this topic","Please read the backstory carefully and answer the following questions.
+Backstory:Driving north along highway 17 in Arizona, you pass a sign to Old Town Scottsdale. You wonder what kind of history the town had, before it was swallowed up by Phoenix. - This topic is interesting to me","Please read the backstory carefully and answer the following questions.
+Backstory:Driving north along highway 17 in Arizona, you pass a sign to Old Town Scottsdale. You wonder what kind of history the town had, before it was swallowed up by Phoenix. - It should be easy to find relevant information for this topic",Write a query that you would use to search for information on this topic.,"Backstory:
+
+Driving north along highway 17 in Arizona, you pass a sign to Old Town Scottsdale. You wonder what kind of history the town had, before it was swallowed up by Phoenix.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - old town scottsdale history","Backstory:
+
+Driving north along highway 17 in Arizona, you pass a sign to Old Town Scottsdale. You wonder what kind of history the town had, before it was swallowed up by Phoenix.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - old town scottsdale","Backstory:
+
+Driving north along highway 17 in Arizona, you pass a sign to Old Town Scottsdale. You wonder what kind of history the town had, before it was swallowed up by Phoenix.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - history of old town scottsdale arizona","Backstory:
+
+Driving north along highway 17 in Arizona, you pass a sign to Old Town Scottsdale. You wonder what kind of history the town had, before it was swallowed up by Phoenix.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - old town scottsdale phoenix","Backstory:
+
+Driving north along highway 17 in Arizona, you pass a sign to Old Town Scottsdale. You wonder what kind of history the town had, before it was swallowed up by Phoenix.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - info on old town scottsdale","Backstory:
+
+Driving north along highway 17 in Arizona, you pass a sign to Old Town Scottsdale. You wonder what kind of history the town had, before it was swallowed up by Phoenix.
+
+ 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - order of the phoenix","Please read the backstory carefully and answer the following questions.
+Backstory:Talking with your children at the weekend, you realize you remember almost nothing about US President George H. W. Bush. You'd like to read some biographies of him. - I am familiar with this topic","Please read the backstory carefully and answer the following questions.
+Backstory:Talking with your children at the weekend, you realize you remember almost nothing about US President George H. W. Bush. You'd like to read some biographies of him. - This topic is interesting to me","Please read the backstory carefully and answer the following questions.
+Backstory:Talking with your children at the weekend, you realize you remember almost nothing about US President George H. W. Bush. You'd like to read some biographies of him. - It should be easy to find relevant information for this topic",Write a query that you would use to search for information on this topic.,"Backstory:
+
+Talking with your children at the weekend, you realize you remember almost nothing about US President George H. W. Bush. You'd like to read some biographies of him. 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - george h w bush","Backstory:
+
+Talking with your children at the weekend, you realize you remember almost nothing about US President George H. W. Bush. You'd like to read some biographies of him. 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - george hw bush biography","Backstory:
+
+Talking with your children at the weekend, you realize you remember almost nothing about US President George H. W. Bush. You'd like to read some biographies of him. 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - george bush","Backstory:
+
+Talking with your children at the weekend, you realize you remember almost nothing about US President George H. W. Bush. You'd like to read some biographies of him. 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - president george h w bush biography","Backstory:
+
+Talking with your children at the weekend, you realize you remember almost nothing about US President George H. W. Bush. You'd like to read some biographies of him. 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - what is a good biography on george h w bush","Backstory:
+
+Talking with your children at the weekend, you realize you remember almost nothing about US President George H. W. Bush. You'd like to read some biographies of him. 
+
+Reminder: A good query is one that is likely to generate useful results. 
+
+
+
+ 
+  
+   1 star: very bad query 
+   5 stars: very good query - bosch in usa",Random ID,mistakes
+"{""ImportId"":""startDate"",""timeZone"":""Australia/Canberra""}","{""ImportId"":""endDate"",""timeZone"":""Australia/Canberra""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Australia/Canberra""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""Q_RelevantIDDuplicate""}","{""ImportId"":""Q_RelevantIDDuplicateScore""}","{""ImportId"":""Q_RelevantIDFraudScore""}","{""ImportId"":""Q_RelevantIDLastStartDate"",""timeZone"":""UTC""}","{""ImportId"":""QID27_9""}","{""ImportId"":""QID27_2""}","{""ImportId"":""QID27_3""}","{""ImportId"":""QID28_TEXT""}","{""ImportId"":""QID29_12""}","{""ImportId"":""QID29_13""}","{""ImportId"":""QID29_14""}","{""ImportId"":""QID29_15""}","{""ImportId"":""QID29_16""}","{""ImportId"":""QID29_17""}","{""ImportId"":""QID30_9""}","{""ImportId"":""QID30_2""}","{""ImportId"":""QID30_3""}","{""ImportId"":""QID31_TEXT""}","{""ImportId"":""QID32_1""}","{""ImportId"":""QID32_2""}","{""ImportId"":""QID32_3""}","{""ImportId"":""QID32_4""}","{""ImportId"":""QID32_5""}","{""ImportId"":""QID32_12""}","{""ImportId"":""QID33_9""}","{""ImportId"":""QID33_2""}","{""ImportId"":""QID33_3""}","{""ImportId"":""QID34_TEXT""}","{""ImportId"":""QID35_12""}","{""ImportId"":""QID35_13""}","{""ImportId"":""QID35_14""}","{""ImportId"":""QID35_15""}","{""ImportId"":""QID35_16""}","{""ImportId"":""QID35_17""}","{""ImportId"":""QID36_9""}","{""ImportId"":""QID36_2""}","{""ImportId"":""QID36_3""}","{""ImportId"":""QID37_TEXT""}","{""ImportId"":""QID38_1""}","{""ImportId"":""QID38_2""}","{""ImportId"":""QID38_3""}","{""ImportId"":""QID38_4""}","{""ImportId"":""QID38_5""}","{""ImportId"":""QID38_12""}","{""ImportId"":""Random ID""}","{""ImportId"":""mistakes""}"
+2022-02-09 12:03:08,2022-02-09 12:04:52,0,98.212.187.205,100,104,1,2022-02-09 12:04:53,R_1rvKhenX6jnnQ6z,,,,,42.0753936767578125,-87.82219696044921875,anonymous,EN,0.100000001490116119384765625,,,,,1,1,1,cough folk remedies,4,2,4,4,4,1,1,1,5,"prevent altitude sickness ",5,3,3,3,4,1,1,1,5,Old Town Scottsdale,5,5,5,5,5,1,1,1,5,"George H. W. Bush biography ",3,4,2,5,4,1,351041054562,0
+2022-02-09 12:02:28,2022-02-09 12:05:44,0,162.196.176.250,100,195,1,2022-02-09 12:05:44,R_1LFmU3qaBAwdIcG,,,,,34.235992431640625,-118.52349853515625,anonymous,EN,0.89999997615814208984375,,0,0,,3,3,4,Sore Throat Fold Remedies,5,2,3,4,5,1,4,4,5,altitude sickness prevention and treatment,5,3,5,5,4,1,2,2,4,Old Town Scottsdale History,5,4,5,4,4,1,4,4,5,George H.W. Bush Biography,3,4,3,4,5,1,488004806148,0
+2022-02-09 12:49:00,2022-02-09 12:51:22,0,73.247.81.157,100,142,1,2022-02-09 12:51:23,R_27pNVpbKBFdoMow,,,,,41.902496337890625,-87.67259979248046875,anonymous,EN,1,,0,0,,4,4,4,Sore throat home remedies,5,3,5,4,4,1,2,4,4,Altitude sickness treatment,5,3,5,5,5,1,1,3,4,Old Town Scottsdale,5,5,5,4,5,1,3,4,4,George H.W. Bush Biography,3,5,2,5,4,1,167620356334,0
+2022-02-10 04:02:58,2022-02-10 04:05:19,0,104.169.163.46,100,140,1,2022-02-10 04:05:24,R_Zl8mwons8TsxfCF,,,,,35.042205810546875,-83.78299713134765625,anonymous,EN,1,,0,0,,3,4,4,sore throat folk remedies,5,3,4,4,5,1,2,4,4,altitude sickness treatment,5,3,5,5,5,1,1,2,4,history of old town scottsdale,5,4,5,4,4,1,3,2,4,George W Bush biography,2,5,2,5,5,1,605751604493,0
+2022-02-10 07:32:05,2022-02-10 07:35:52,0,72.221.95.3,100,226,1,2022-02-10 07:35:52,R_3M0bTYPsGlsPzmp,,,,,41.5316925048828125,-72.79489898681640625,anonymous,EN,1,,0,0,,2,4,3,easy at-home sore throat remedies without cough drops,5,2,3,4,5,1,2,3,4,preventing and treating altitude sickness,5,3,5,3,5,1,1,4,4,Old Town Scottsdale history,5,4,5,3,4,1,4,2,4,best George H W Bush biography,3,5,2,5,5,1,555055950372,0
+2022-02-10 13:08:54,2022-02-10 13:11:24,0,69.245.176.179,100,149,1,2022-02-10 13:11:24,R_1KxQ8vxC9bYrF2p,,,,,41.9459991455078125,-87.70330047607421875,anonymous,EN,0.89999997615814208984375,,,,,4,4,2,natural sore throat remedy,5,2,5,2,2,1,4,4,3,altitude sickness mexico city,5,4,5,3,5,1,1,3,4,old town scottsdale history,5,4,4,4,3,1,4,3,4,george hw bush,3,5,2,3,2,1,153747584274,0
+2022-02-10 21:49:31,2022-02-10 22:04:29,0,68.102.182.181,100,897,1,2022-02-10 22:04:29,R_2PBCneB66qQFUTI,,,,,38.374603271484375,-97.67299652099609375,anonymous,EN,1,,0,0,,5,4,5,sore throat home remedies,5,2,4,5,4,1,1,3,3,treatment for altitude sickness,5,1,4,3,2,1,2,2,4,history of Old Town Scottsdale,4,4,5,3,4,1,4,2,4,History of president H. W. Bush,4,4,3,5,4,1,456111818179,0
+2022-02-10 22:59:33,2022-02-10 23:03:08,0,74.128.24.2,100,214,1,2022-02-10 23:03:08,R_2Sv0JI9hjzAVwAm,,,,,40.2738037109375,-81.86620330810546875,anonymous,EN,1,,0,0,,4,5,5,"Home remedy sore throat ",5,3,2,5,5,1,2,4,5,Home treatments altitude sickness,4,2,5,5,5,3,2,5,4,Old Town Scottsdale history,5,5,5,5,5,1,4,3,5,George H W Bush wiki,5,5,5,5,5,1,853913585119,1
+2022-02-10 23:47:08,2022-02-10 23:56:06,0,198.14.29.44,100,538,1,2022-02-10 23:56:07,R_3Li5nJbtThRtquM,,,,,40.7487945556640625,-73.9882965087890625,anonymous,EN,,,,,,5,5,5,folk remedies for cough,4,4,4,4,5,2,2,3,2,treatments for altitude sickness,4,4,5,5,4,3,4,4,4,old town Scottsdale,4,4,5,4,4,4,4,5,4,Biographies of George H. W. Bush,4,4,4,5,4,1,234220821550,3
+2022-02-11 13:20:28,2022-02-11 14:08:45,0,76.115.1.182,100,2896,1,2022-02-11 14:08:47,R_11WMN70SSnOmsEI,,,,,45.5471954345703125,-122.64170074462890625,anonymous,EN,1,,0,5,,5,5,5,natural sore throat remedies,5,1,3,5,5,1,2,2,2," altitude sickness prevention",5,3,4,5,5,1,5,2,4,Old town Scottsdale history,5,3,5,4,4,1,4,1,5,George HW Bush biographies,3,5,2,5,5,1,171215504431,0
+2022-02-11 13:31:11,2022-02-11 13:34:35,0,67.249.189.129,31,204,0,2022-02-11 14:31:14,R_22KNcEn53FNwHFv,,,,,,,anonymous,EN,1,,0,0,,2,1,4,folk remedies/sore throat,5,4,4,4,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,789699504943,0
+2022-02-14 00:41:44,2022-02-14 00:44:18,0,208.195.31.91,100,153,1,2022-02-14 00:44:18,R_3JzuHSx34Lbo02D,,,,,35.332000732421875,-78.92120361328125,anonymous,EN,0.89999997615814208984375,,0,0,,2,3,2,GOOD,1,3,4,5,3,2,1,2,3,GOOD,2,5,4,2,3,4,1,2,3,GOOD,2,2,3,2,3,4,1,2,3,GOOD,4,2,4,3,4,2,932507664454,4
+2022-02-14 02:37:12,2022-02-14 02:40:38,0,71.234.226.108,100,206,1,2022-02-14 02:40:39,R_3npXkVMPtBwFHlK,,,,,42.456695556640625,-71.37470245361328125,anonymous,EN,0.89999997615814208984375,,0,0,,1,3,4,What are folk remedies for a sore throat,5,2,1,5,5,1,1,3,4,"What are techniques for preventing altitude sickness ",5,2,5,4,4,1,1,2,4,What is the history of Old Town Scottsdale AZ,4,2,5,4,4,1,1,2,5,what are biographies on George H W Bush,3,5,1,5,5,1,836869887751,0
+2022-02-14 02:37:20,2022-02-14 02:55:03,0,70.120.139.160,100,1063,1,2022-02-14 02:55:05,R_DpjWJWox61WtRND,,,,,32.925994873046875,-96.9665985107421875,anonymous,EN,0.89999997615814208984375,,0,0,,5,5,5,home remedies for sore and swollen throat,5,3,1,3,4,1,5,5,5,how to prevent high altitude sickness in Mexico City,5,3,3,4,5,1,4,5,5,history of Old Town Scottsdale Arizona,5,3,5,4,4,1,5,5,5,Biography of US President George H. W. Bush,3,5,2,5,5,1,736645325343,0
+2022-02-14 03:45:06,2022-02-14 03:48:20,0,99.12.77.50,100,194,1,2022-02-14 03:48:20,R_2CCcWfpwOjpFi0w,,,,,34.84930419921875,-82.4040985107421875,anonymous,EN,1,,0,0,,4,4,4,how to fix sore throat,5,3,3,4,5,1,4,4,5,prevent altitude sickness,5,4,5,4,4,1,4,4,5,history of scottsdale az,5,4,5,4,4,1,4,3,5,George H. W. Bush biographies,3,5,2,5,4,1,924377032299,0
+2022-02-14 06:51:31,2022-02-14 06:57:31,0,109.81.209.92,100,360,1,2022-02-14 06:57:33,R_3Du89q1tqnAJrEL,,,,,49.8491058349609375,18.2696075439453125,anonymous,EN,0.89999997615814208984375,,0,0,,4,5,5,sore throat home remedies can't swallow,5,1,5,4,4,1,1,3,3,how to deal with altitude sickness while travelling,4,3,4,5,5,3,1,4,3,Old Town Scottsdale Arizona Highway 17 History,5,1,5,4,4,1,3,4,5,Top ten recommended biographies on George H.W. Bush,2,4,1,5,5,1,400690681324,1
+2022-02-14 10:48:15,2022-02-14 10:55:08,0,72.79.120.187,100,412,1,2022-02-14 10:55:08,R_3NWXC0WPApEkGXO,,,,,40.76409912109375,-74.16539764404296875,anonymous,EN,0.800000011920928955078125,,0,0,,5,5,5,home remedies for a sore throat,5,1,1,5,5,1,4,2,4,how to prevent and treat altitude sickness,5,2,5,5,5,1,5,4,5,"the history of old town Scottsdale, AZ",5,4,5,1,4,1,5,1,5,President George H. W. Bush biographies,1,5,1,5,5,1,684575667325,4
+2022-02-14 11:21:08,2022-02-14 11:25:07,0,70.171.9.199,100,238,1,2022-02-14 11:25:07,R_1Cm9yOdjxx6B0SC,,,,,29.613800048828125,-82.3860015869140625,anonymous,EN,1,,0,0,,5,5,5,sore throat relief,5,5,2,5,5,1,5,5,5,altitude sickness relief,5,5,5,5,5,1,3,5,5,old town scottsdale history,5,5,5,5,5,1,5,3,5,us president george h. w. bush facts,5,5,2,5,5,1,356693205516,0
+2022-02-14 11:19:43,2022-02-14 11:25:20,0,45.144.80.95,100,336,1,2022-02-14 11:25:20,R_21gfhTdHttA713Q,,,,,34.0543975830078125,-118.2440032958984375,anonymous,EN,0.89999997615814208984375,,0,75,,2,4,4,home remedy diy cough drops sore throat cure,5,2,4,5,5,1,4,3,5,Prevent altitude sickness with medication.,5,1,4,2,5,1,2,4,3,Old Town Scottsdale history AZ,5,2,5,2,3,1,4,2,4,George H W Bush biographies wikipedia,3,5,2,5,5,1,905644340161,0
+2022-02-14 11:23:04,2022-02-14 11:25:35,0,71.199.248.207,100,151,1,2022-02-14 11:25:36,R_2snlkY65EInigud,,,,,30.3668060302734375,-81.58730316162109375,anonymous,EN,0.89999997615814208984375,,0,0,,4,4,4,how to treat a sore throat,5,3,2,4,5,1,1,1,1,how to prevent altitude sickness,5,4,3,3,5,2,1,1,1,history of Old Town Scottsdale,5,4,5,4,4,1,4,4,4,biography about George H.W. Bush,4,5,3,5,5,1,777030117902,1
+2022-02-14 11:21:59,2022-02-14 11:25:57,0,65.25.90.80,100,238,1,2022-02-14 11:25:58,R_2bQ6D8swhdinI6w,,,,,41.3721923828125,-82.10870361328125,anonymous,EN,1,,0,0,,5,3,4,"Home remedies for sore throat ",5,4,5,4,5,1,3,4,4,Altitude sickness remedies,5,5,5,5,5,2,3,5,5,Scottsdale Old Town history,5,3,5,4,5,1,3,3,5,"George W Bush biography ",5,5,3,5,4,1,918689734977,1
+2022-02-14 11:21:03,2022-02-14 11:27:04,0,66.190.98.245,100,360,1,2022-02-14 11:27:04,R_2yqm0MhQZ2ikg2o,,,,,32.782196044921875,-97.4969024658203125,anonymous,EN,1,,0,0,,2,3,5,homeopathic remedies for sore throat,5,2,4,4,5,1,1,3,4,medicine to combat altitude sickness,5,2,5,5,5,1,1,4,4,"history of scottsdale, arizona",4,4,5,5,4,1,4,4,4,Latest biographies on George Herbert Walker Bush available on Amazon,5,5,2,5,4,1,902602500561,0
+2022-02-14 11:23:20,2022-02-14 11:27:18,0,174.67.203.139,100,237,1,2022-02-14 11:27:18,R_1d67zEvFMWBm9V6,,,,,33.4600982666015625,-117.6381988525390625,anonymous,EN,1,,0,20,,5,3,5,sore throat home remedy,5,3,5,4,5,1,4,2,5,altitude sickness prevention,5,4,5,5,5,1,1,1,4,old town scottsdale history,5,4,5,3,5,1,4,1,5,George HW Bush biography,4,5,3,5,5,1,525818829401,0
+2022-02-14 11:24:47,2022-02-14 11:27:19,0,173.80.212.22,100,152,1,2022-02-14 11:27:20,R_eFppTBNHOWtImkh,,,,,37.847900390625,-81.99610137939453125,anonymous,EN,1,,0,0,,2,3,3,home remedy for sore throat,5,5,5,5,5,1,4,3,4,what to do to prevent altitude sickness on long flight,5,5,5,5,4,1,1,4,4,history on old town scottsdale arizona,5,5,5,5,5,1,2,2,2,"facts about former president george bush ",5,5,5,5,5,1,397327328054,0
+2022-02-14 11:25:07,2022-02-14 11:28:30,0,216.218.112.43,100,203,1,2022-02-14 11:28:31,R_uyoBrPWqPo3jSWR,,,,,45.5496063232421875,-122.8292999267578125,anonymous,EN,1,,0,0,,4,4,4,folk remedies for sore throat,5,3,4,4,5,1,1,1,4,treatments for altitude sickness,5,3,5,5,5,2,1,1,4,Old Town Scottsdale town history,5,4,5,3,5,1,2,1,4,George H. W. Bush biographies,3,5,3,5,4,1,762325464794,1
+2022-02-14 11:26:03,2022-02-14 11:29:11,0,76.216.170.247,100,187,1,2022-02-14 11:29:11,R_1C74XgNP3XWWko0,,,,,33.19549560546875,-117.28620147705078125,anonymous,EN,1,,0,0,,5,5,5,home remedy for sore throat,5,2,5,4,5,1,2,4,4,high altitude sickness remedy,5,4,5,5,5,1,1,4,4,old town scottsdale history,5,5,5,4,5,1,5,5,5,George bush biography,4,5,5,5,5,1,825565621885,0
+2022-02-14 11:22:07,2022-02-14 11:29:27,0,67.161.152.14,100,439,1,2022-02-14 11:29:27,R_1Ks6n5iU37AIqkq,,,,,40.1305999755859375,-104.95040130615234375,anonymous,EN,1,,0,5,,4,4,5,Natural Home Remedies Sore Throat,5,3,4,4,5,1,2,4,4,Mexico City Altitude Sickness,4,3,4,4,5,4,1,3,4,Old Town Scottsdale History,5,3,5,3,4,1,2,4,5,"George HW Bush Biographies ",3,5,2,5,5,1,187501453235,1
+2022-02-14 11:19:47,2022-02-14 11:29:51,0,208.203.219.233,100,604,1,2022-02-14 11:29:52,R_2roQXJL9KVvfJSY,,,,,41.8314971923828125,-72.7198028564453125,anonymous,EN,1,,0,0,,5,5,2,SLEEP,4,3,4,5,3,3,3,4,4,MECICO CITY,4,4,5,4,2,4,5,2,4,DRIVNG,4,3,5,4,4,4,4,3,4,GOOGLE,4,4,3,5,4,4,121220712992,4
+2022-02-14 11:26:12,2022-02-14 11:30:38,0,98.223.1.30,100,266,1,2022-02-14 11:30:38,R_OfbvIMGfXfKXmYF,,,,,42.0048065185546875,-87.99539947509765625,anonymous,EN,0.89999997615814208984375,,0,0,,4,1,5,sore throat home remedies,5,4,4,4,5,1,1,2,5,how to avoid altitude sickness,5,3,3,5,4,2,1,4,4,Scottsdale Az history,5,2,5,3,4,1,4,5,5,George H. W. Bush,5,5,3,4,2,1,617989357467,1
+2022-02-14 11:25:27,2022-02-14 11:31:28,0,68.11.25.137,100,361,1,2022-02-14 11:31:29,R_PIq6LcAFkqwMdTH,,,,,29.93170166015625,-90.10260009765625,anonymous,EN,1,,0,0,,4,4,5,folk or home remedies for sore throat,5,3,3,5,5,1,4,4,4,treatments for altitude sickness,5,4,4,4,5,3,1,3,5,history of Old Town Scottsdale,5,4,5,4,4,1,4,2,5,biographies of George H. W. Bush,3,5,2,5,5,1,234340892313,1
+2022-02-14 11:23:47,2022-02-14 11:32:45,0,99.23.146.214,100,537,1,2022-02-14 11:32:45,R_1dGnRtpMUwStJRN,,,,,29.646697998046875,-82.328399658203125,anonymous,EN,1,,0,0,,1,4,4,sore throat remedies,5,3,3,5,5,1,1,4,4,altitude sickness prevention,5,4,4,5,5,1,1,1,1,Old Town Scottsdale history,5,4,5,5,5,1,4,2,5,President George H.W. Bush biography,3,5,2,5,4,1,589771178574,0
+2022-02-14 11:29:26,2022-02-14 11:34:01,0,173.47.178.180,100,275,1,2022-02-14 11:34:02,R_3KAEj9xgofYjrgH,,,,,35.027496337890625,-99.08489990234375,anonymous,EN,1,,0,20,,5,5,5,What is the best remedy for a sore throat?,5,5,4,4,4,2,5,5,5,Will the altitude cause any problems when traveling to Mexico city,4,5,4,4,4,5,5,4,5,History information on Scottsdale Arizona.,4,4,4,4,5,4,5,5,5,I would like to know about George w. Bush biography.,4,5,3,4,5,2,594546549557,4
+2022-02-14 11:30:27,2022-02-14 11:34:07,0,68.248.147.9,100,219,1,2022-02-14 11:34:07,R_2fHTZMzTKWASter,,,,,38.2689971923828125,-85.49340057373046875,anonymous,EN,1,,0,20,,2,5,5,sore throat folk remedy,5,3,4,4,4,1,2,4,4,altitude sickness prevention,5,4,3,3,5,2,1,4,4,old town scottsdale history,5,4,5,3,4,1,2,2,4,george h w bush biography,4,5,2,5,5,1,108954327646,1
+2022-02-14 11:32:49,2022-02-14 11:34:21,0,104.37.172.151,100,92,1,2022-02-14 11:34:22,R_24Rqkggj48wuOWd,,,,,32.776702880859375,-96.80500030517578125,anonymous,EN,1,,0,25,,4,3,4,GOOD,3,4,4,4,3,5,4,4,3,GOOD,4,4,3,5,4,3,4,4,3,17 IN ARIZONA,3,5,4,3,2,4,4,3,5,GOOD,3,5,4,4,4,5,257707282830,4
+2022-02-14 11:31:45,2022-02-14 11:34:40,0,99.2.65.40,100,174,1,2022-02-14 11:34:40,R_3IPLKCRmgMxg7Uw,,,,,30.2754974365234375,-81.5814971923828125,anonymous,EN,1,,0,0,,3,3,4,Home remedies for sore throat that makes it hard to swallow?,5,3,3,5,5,1,3,3,4,What can you do to prevent altitude sickness in high elevation cities?,5,4,5,5,5,1,3,3,4,History of Old Town Scottsdale?,5,4,5,4,5,1,3,3,4,George H. W. Bush biography.,4,5,3,5,5,1,843887168262,0
+2022-02-14 11:26:06,2022-02-14 11:35:53,0,172.115.116.106,100,587,1,2022-02-14 11:35:53,R_10NQlFRW8giVVW4,,,,,34.21929931640625,-118.98419952392578125,anonymous,EN,1,,0,5,,4,4,5,What are some alternative at-home remedies for a sore throat?,5,2,5,4,5,1,4,3,4,I would like potential treatments or remedies to try for altitude sickness.,4,3,4,5,4,1,2,2,4,"What is the history of Old Town Scottsdale, Arizona?",4,3,5,4,4,1,4,3,5,What are the best biographies about US President George H.W. Bush?,3,4,2,4,5,1,877752216882,0
+2022-02-14 11:30:52,2022-02-14 11:36:20,0,67.48.187.219,100,327,1,2022-02-14 11:36:20,R_2qwu6pzpDEF4hFv,,,,,26.181304931640625,-97.74829864501953125,anonymous,EN,0.800000011920928955078125,,0,20,,5,5,5,sore throat home remedies,5,2,4,5,5,1,1,5,4,altitude sickness relief,5,5,5,5,3,1,2,4,3,old town scottsdale history,5,5,5,2,5,1,4,5,5,George W. Busch life and biography,5,5,3,5,5,1,258408043044,0
+2022-02-14 11:34:58,2022-02-14 11:38:00,0,172.58.159.249,100,182,1,2022-02-14 11:38:00,R_AgkEjCxiu9IUjnP,,,,,35.231597900390625,-80.84279632568359375,anonymous,EN,0.89999997615814208984375,,0,0,,4,4,4,Folk remedies for a sore throat,5,3,3,5,4,1,3,4,3,How to treat altitude sickness?,5,3,4,5,1,3,3,4,3,History of Scottsdale in Arizona,5,5,5,3,4,1,4,3,3,president George H.W. Bush biography,5,5,3,5,5,1,882637110841,1
+2022-02-14 11:29:24,2022-02-14 11:38:07,0,71.175.57.223,100,522,1,2022-02-14 11:38:07,R_3R7UctIK1tMCJ8e,,,,,39.9040069580078125,-75.50890350341796875,anonymous,EN,0.89999997615814208984375,,0,5,,3,4,4,Quick remedies for a sore throat,4,3,3,4,5,1,2,2,3,Treatments to prevent altitude sickness,5,3,4,5,1,1,2,3,4,"Old Town Scottsdale history ",4,2,5,3,3,1,2,2,4,Biographies of George H.W. Bush,3,4,2,4,5,1,421933276113,0
+2022-02-14 11:30:59,2022-02-14 11:38:38,0,75.133.29.59,100,458,1,2022-02-14 11:38:38,R_2UYDXZBdPEChmCr,,,,,44.44549560546875,-83.35810089111328125,anonymous,EN,1,,0,0,,4,5,5,home remedies for sore throat,5,3,3,5,5,0,1,3,4,how to prevent altitude sickness,5,3,3,3,5,1,1,2,4,"Old Town Scottsdale, Arizona",5,5,5,5,5,2,2,3,4,George H.W. Bush facts,5,5,5,5,5,1,833989926171,2
+2022-02-14 11:29:15,2022-02-14 11:38:38,0,63.75.240.37,100,563,1,2022-02-14 11:38:39,R_DxaXCCNVoYGWxBD,,,,,40.7156982421875,-74,anonymous,EN,1,,0,0,,4,4,4,how to cure throat infection,4,2,4,5,4,2,4,5,4,how to prevent sickness in mexico,4,2,3,4,4,3,4,5,4,about scottsdale history,4,2,4,4,4,3,4,5,4,information about us president bush,4,4,3,4,4,3,902964497357,4
+2022-02-14 11:34:25,2022-02-14 11:39:10,0,71.196.105.158,100,284,1,2022-02-14 11:39:10,R_22RekaKlKjsIWlA,,,,,26.0070037841796875,-80.1219024658203125,anonymous,EN,0.89999997615814208984375,,0,0,,5,4,5,folk remedies for sore throat,5,3,4,4,5,1,5,4,5,altitude sickness treatments,5,3,5,4,4,1,4,5,5,Old Town Scottsdale history,5,3,5,3,5,1,5,5,4,George H. W. Bush biographies,3,5,2,5,5,1,171985391038,0
+2022-02-14 11:35:50,2022-02-14 11:41:47,0,24.163.27.166,100,356,1,2022-02-14 11:41:48,R_2w0HfepzB09Zw9J,,,,,36.0330047607421875,-80.3916015625,anonymous,EN,0.89999997615814208984375,,0,0,,4,4,4,Folk remedies for sore throat,4,2,1,4,5,1,2,2,4,Altitude sickness treatments,4,3,4,4,4,1,1,2,4,Old Town Scottsdale History,5,3,5,4,4,1,4,2,4,Biography of George H. W. Bush,3,4,2,4,4,1,927005468471,0
+2022-02-14 11:33:52,2022-02-14 11:41:50,0,173.198.160.217,100,477,1,2022-02-14 11:41:50,R_1pLPkEgvM0Ufq1C,,,,,43.9600982666015625,-111.69750213623046875,anonymous,EN,1,,0,5,,5,5,5,Natural sore throat remedies,4,2,1,3,5,1,4,4,5,How to prevent or treat altitude sickness,4,3,4,4,5,1,2,4,4,"History of Old Town Scottsdale, AZ",4,3,5,3,4,1,4,1,5,US President George H.W. Bush Bio,3,5,2,5,5,1,368422328261,0
+2022-02-14 11:39:01,2022-02-14 11:44:16,0,172.0.73.38,100,315,1,2022-02-14 11:44:17,R_2tbQ0qqDENFH0VE,,,,,37.9759979248046875,-122.33589935302734375,anonymous,EN,1,,0,0,,5,4,5,Sore Throat folk remedies,5,1,3,2,5,1,4,5,5,Altitude Sickness treatments,4,3,5,4,4,2,1,5,4,Old Town Scottsdale History,5,2,5,3,4,1,5,5,5,George H. W. Bush biography,2,5,2,4,3,1,808769721444,1
+2022-02-14 11:39:46,2022-02-14 11:44:28,0,73.187.219.99,100,282,1,2022-02-14 11:44:29,R_1cSLKf0Sdt2Knbv,,,,,40.7957000732421875,-77.8618011474609375,anonymous,EN,0.89999997615814208984375,,0,10,,4,4,3,folk remedies to sore and sleep wel,5,2,3,4,4,2,2,2,1,treatment of altitude sickness of Mexico city,3,2,4,4,5,2,2,3,3,history of Old Town Scottsdale,5,4,5,4,4,2,3,3,2,life history about George Bush,4,5,3,3,3,1,750076787476,3
+2022-02-14 11:31:43,2022-02-14 11:47:09,0,173.225.145.75,100,926,1,2022-02-14 11:47:10,R_2QJuNorXWja1Xam,,,,,45.7364044189453125,-94.165802001953125,anonymous,EN,0.89999997615814208984375,,0,0,,5,5,4,"sore throat treatment alternatives folk remedies old ",5,2,1,4,5,1,2,4,2,altitude sickness techniques or treatments to reduce,5,3,5,5,4,1,1,4,2,"Scottsdale, AZ Old Town history before Phoenix",4,2,5,3,4,1,5,2,5,President George H. W. Bush biography information accomplishments,4,5,2,5,5,1,770831056358,0
+2022-02-14 11:44:27,2022-02-14 11:47:36,0,68.103.246.15,100,188,1,2022-02-14 11:47:36,R_2copVnikYoAN3Qp,,,,,37.668701171875,-97.22170257568359375,anonymous,EN,1,,0,0,,4,4,5,Sore throat remedies,5,3,5,5,5,1,4,4,5,altitude sickness treatments,5,4,5,5,4,1,1,3,4,Oldtown Scottsdale AZ local history,5,1,5,2,4,0,4,1,5,George H.W. Bush biographies,4,5,2,5,5,0,284862642269,2
+2022-02-14 11:44:32,2022-02-14 11:48:02,0,67.189.76.92,100,210,1,2022-02-14 11:48:02,R_2ZTw1LLKLnQXxFT,,,,,45.411102294921875,-122.687103271484375,anonymous,EN,1,,0,0,,3,4,4,folk remedies for a sore throat,5,2,4,2,5,1,1,4,4,Prevention and treatment for altitude sickness,5,4,5,5,5,2,1,4,4,Old Town Scottsdale AZ history,5,3,5,4,5,1,2,4,4,George H. W. Bush biography,2,5,2,5,5,1,313827473972,1
+2022-02-14 11:48:10,2022-02-14 11:50:08,0,172.82.147.190,100,118,1,2022-02-14 11:50:10,R_1kZYk2PrVJEJE6N,,,,,37.751007080078125,-97.82199859619140625,anonymous,EN,0.89999997615814208984375,,0,35,,4,4,4,GOOD,5,5,5,5,5,5,4,4,4,GOOD,5,5,5,5,5,5,4,4,4,GOOD,5,5,5,5,5,5,4,4,4,GOOD,5,5,5,5,5,5,586593958246,4
+2022-02-14 11:39:05,2022-02-14 11:50:20,0,70.176.79.62,100,674,1,2022-02-14 11:50:21,R_3LbAAvBXjv9Msds,,,,,32.2129974365234375,-110.82790374755859375,anonymous,EN,1,,0,0,,2,5,5,folk remedies for sore throat,5,2,2,4,5,1,1,5,5,how to prevent altitude sickness,5,2,4,4,4,1,1,5,5,history of Old Town Scottsdale,5,2,5,3,4,1,1,4,5,Biographies of George H. W. Bush,3,5,1,5,5,1,679426052118,0
+2022-02-14 11:45:08,2022-02-14 11:50:36,0,67.253.21.12,100,328,1,2022-02-14 11:50:36,R_3Gjs30uOrSMjzJ6,,,,,44.2115020751953125,-69.0735015869140625,anonymous,EN,1,,0,0,,5,5,5,home remedies sore throat,5,2,4,3,4,1,2,5,5,Mexico City altitude sickness prevention,3,3,4,4,5,3,1,4,5,Old Town Scottsdale history,5,4,5,3,3,2,5,4,5,George HW Bush biographies,4,5,2,5,4,1,976386207551,2
+2022-02-14 11:50:41,2022-02-14 11:51:32,0,47.187.199.165,100,51,1,2022-02-14 11:51:33,R_XTH7HCsagmeqX97,,,,,33.080902099609375,-96.72409820556640625,anonymous,EN,0.89999997615814208984375,,0,0,,1,1,1,remedies,3,3,4,3,3,2,1,2,2,Mexico,3,3,3,2,2,3,1,1,2,Arizona,1,3,4,2,3,2,1,1,1,Bush,2,3,3,3,4,2,543064001738,4
+2022-02-14 11:50:26,2022-02-14 11:53:58,0,47.160.166.249,100,211,1,2022-02-14 11:53:58,R_21gs4SZsUd8nXoS,,,,,29.5182952880859375,-95.0977020263671875,anonymous,EN,0.89999997615814208984375,,0,0,,4,4,5,emergency homemade sore throat remedies,4,2,4,4,5,1,1,2,4,altitude sickness remedies,5,4,5,5,3,2,1,4,5,Old town Scottsdale Phoenix,4,4,4,5,4,1,4,4,5,George W Bush biography,3,5,2,5,5,1,948095247335,1
+2022-02-14 11:51:56,2022-02-14 11:54:33,0,107.77.229.92,100,156,1,2022-02-14 11:54:34,R_2dfLR6cZyJR7lwH,,,,,33.948394775390625,-118.249298095703125,anonymous,EN,0.89999997615814208984375,,0,0,,5,4,5,sore throat home remedies,5,2,3,5,5,1,1,2,5,altitude sickness treatment,5,5,5,5,5,2,1,1,5,arizona old town scottsdale history before phoenix,5,4,5,5,5,1,2,1,5,george h. w. bush biography,3,5,1,5,5,1,284179094713,1
+2022-02-14 11:50:21,2022-02-14 11:54:41,0,98.148.98.120,100,259,1,2022-02-14 11:54:41,R_UGu4orr0453jmFP,,,,,33.8838043212890625,-118.1260986328125,anonymous,EN,1,,0,0,,5,4,5,Ways to threat a sore throat at home.,5,2,4,4,5,1,5,5,5,How can I avoid altitude sickness when traveling to Mexico City,4,3,4,4,5,1,1,4,4,History of Old Town Scottsdale,4,3,5,4,4,1,5,3,5,"Biography on former US president, George H.W. Bush",3,4,2,5,5,1,806396902515,0
+2022-02-14 11:48:59,2022-02-14 11:55:30,0,71.71.214.155,100,390,1,2022-02-14 11:55:30,R_1gBmM9NfXYek5yt,,,,,35.2227020263671875,-80.79380035400390625,anonymous,EN,1,,0,0,,4,4,4,What are some homemade remedies that help with a sore throat?,5,2,1,4,5,1,4,1,4,What are ways to prevent altitude sickness?,5,3,5,4,3,1,1,1,2,"History and events that happened in Old Town Scottsdale, Arizona before being taken over by Phoenix?",5,3,5,2,5,1,3,3,5,Biographies written about President George H.W.Bush?,1,4,1,4,5,1,165256510861,0
+2022-02-14 11:50:58,2022-02-14 11:56:23,0,76.105.14.4,100,324,1,2022-02-14 11:56:23,R_3oTIodV7tnnr1ft,,,,,38.6840972900390625,-121.067596435546875,anonymous,EN,1,,0,0,,4,2,5,sore throat folk remedy,4,3,3,3,4,1,2,3,4,altitude sickness remedies,5,3,4,4,4,2,2,4,4,History of Scottsdale Arizona,4,4,5,4,3,1,2,2,4,President Bush 41 biography,3,5,2,5,4,1,765958483167,1
+2022-02-14 11:53:46,2022-02-14 11:56:24,0,67.164.96.205,100,157,1,2022-02-14 11:56:24,R_tYgNeyuN1zI1i4p,,,,,37.347900390625,-122.03509521484375,anonymous,EN,0.89999997615814208984375,,0,0,,3,4,4,remedies for sore throat,4,3,3,4,5,2,2,3,4,how to fight off altitude sickness,4,3,4,4,2,1,1,5,3,Old Town Scottsdale history arizona,4,3,5,3,3,1,1,4,5,Biographies of George W Bush,2,4,2,5,5,1,680244454229,1
+2022-02-14 11:53:37,2022-02-14 11:57:00,0,198.14.16.143,100,203,1,2022-02-14 11:57:01,R_41jNoyGCrl6Hn7X,,,,,40.7487945556640625,-73.9882965087890625,anonymous,EN,0.89999997615814208984375,,0,25,,4,5,4,wonder of the topic,4,4,5,4,4,4,4,5,4,very nice,4,5,5,4,3,4,4,5,4,very useful,5,4,5,4,4,4,4,5,4,nice story,5,5,4,4,5,4,972696929215,4
+2022-02-14 11:54:09,2022-02-14 11:57:12,0,71.230.120.244,100,183,1,2022-02-14 11:57:13,R_3sBRlEs0Np635mx,,,,,39.91949462890625,-75.15650177001953125,anonymous,EN,1,,0,0,,4,4,5,how to prevent sore throat,5,2,4,4,4,2,4,4,5,how to prevent altitude sickness,4,4,5,5,4,3,2,3,2,Old Town ScottsDale,4,4,4,4,4,1,4,4,4,George Bush,4,4,5,4,5,1,182316364347,2
+2022-02-14 11:51:38,2022-02-14 11:57:25,0,75.183.142.55,100,346,1,2022-02-14 11:57:25,R_1CxWorvnyVZiNJD,,,,,33.6988067626953125,-78.9160003662109375,anonymous,EN,1,,0,0,,4,4,5,folk remedies for a sore throat,4,1,3,3,4,1,4,4,5,treatments for altitude sickness,4,4,4,4,3,2,2,3,5,Old Town Scottsdale history,4,3,4,3,3,1,4,3,5,George H.W. Bush biographies,3,4,2,4,3,1,178307341132,1
+2022-02-14 11:52:15,2022-02-14 11:57:25,0,173.59.41.233,100,310,1,2022-02-14 11:57:25,R_1erevDscEv4jMrp,,,,,39.92059326171875,-75.1826019287109375,anonymous,EN,1,,0,0,,4,4,5,sore throat home remedy natural,5,2,4,3,5,1,1,4,5,altitude sickness prevention and treatment,5,3,5,4,5,1,1,2,5,"Scottsdale, AZ Hwy 17 wiki",3,2,5,3,1,1,1,1,5,President George H W Bush bio,4,5,2,5,4,1,816533928643,0
+2022-02-14 11:53:06,2022-02-14 11:57:28,0,23.120.78.114,100,262,1,2022-02-14 11:57:29,R_1mwachbe9wVdtM9,,,,,31.86810302734375,-90.40290069580078125,anonymous,EN,1,,0,0,,5,4,5,DIY folk remedy sore throat,4,1,3,5,5,1,2,2,5,DIY treatments and techniques for altitude sickness,5,4,5,4,4,1,1,3,4,"history of Old Town Scottsdale, AZ",4,2,4,3,4,1,4,3,5,Bio of George H W Bush,3,4,1,4,5,1,185937756183,0
+2022-02-14 11:50:29,2022-02-14 11:57:58,0,24.121.151.118,100,448,1,2022-02-14 11:57:58,R_1f27q3L8OrrISi2,,,,,37.50140380859375,-118.4048004150390625,anonymous,EN,1,,0,0,,4,4,2,Home remedies for sore throat,5,3,4,4,5,2,1,3,3,Altitude sickness in mexico city.,5,3,5,4,5,4,1,2,2,What happened to Scottsdale?,5,4,5,4,4,1,2,2,5,George washington's bio,3,4,2,5,5,1,635175562696,2
+2022-02-14 11:53:39,2022-02-14 11:58:53,0,68.54.214.71,100,313,1,2022-02-14 11:58:54,R_3e5qkkJHDC5OHAj,,,,,39.2050933837890625,-85.932403564453125,anonymous,EN,1,,0,0,,5,5,5,Sore throat folk remedies,5,3,4,3,5,1,3,4,4,Mexico City Altitude sickness treatments,5,3,5,5,5,1,2,4,2,Old Town Scottsdale near Phoenix - History,3,2,5,4,3,1,5,5,5,George H W Bush biographies,2,5,2,5,3,1,349463741318,0
+2022-02-14 11:56:03,2022-02-14 11:59:29,0,96.28.19.65,100,206,1,2022-02-14 11:59:29,R_USfa0vpanImwDWF,,,,,39.029998779296875,-84.55899810791015625,anonymous,EN,1,,0,0,,5,3,5,how to help a sore throat at home,5,2,3,5,4,1,1,2,4,how to prevent altitude sickness,5,3,5,5,5,1,1,2,4,old town scottsdale history,5,3,5,4,5,1,3,1,5,best george h.w. bush biographies,3,5,1,5,5,1,976189905893,0
+2022-02-14 11:52:45,2022-02-14 12:00:55,0,5.181.234.86,100,490,1,2022-02-14 12:00:55,R_2zbWX1lcjgHfztJ,,,,,40.7156982421875,-74,anonymous,EN,0.89999997615814208984375,,0,75,,4,4,4,sore throat quick remedy,4,3,5,4,5,3,4,4,4,"techniques to prevent altitude sickness ",4,3,4,5,4,3,4,4,4,History of Arizona,3,4,5,3,3,2,5,5,5,Former President George H.W Bush,3,3,4,5,4,2,504787833453,4
+2022-02-14 11:55:27,2022-02-14 12:01:08,0,63.131.212.20,100,341,1,2022-02-14 12:01:09,R_3mgIE009P3EI9DO,,,,,38.2281036376953125,-84.86969757080078125,anonymous,EN,0.89999997615814208984375,,0,0,,4,4,5,"Sore throat home remedies ",5,3,1,4,4,1,4,4,4,"Prevention altitude sickness traveling ",5,4,4,4,5,1,4,4,5,History Old Town Scottsdale AZ,4,4,5,2,4,1,4,4,5,"Biography George H.W. Bush ",3,5,2,5,3,1,268036707583,4
+2022-02-14 11:54:46,2022-02-14 12:01:13,0,204.191.189.222,100,386,1,2022-02-14 12:01:13,R_Q4clGM1VJid5Pep,,,,,53.54840087890625,-113.43779754638671875,anonymous,EN,1,,0,0,,4,3,4,"Home remedies for a sore throat ",5,3,4,4,5,2,2,4,4,Techniques or treatments for altitude sickness,4,3,5,4,5,1,2,4,4,History of Old Town Scottsdale before Phoenix,4,2,4,3,4,1,4,4,4,Biography of US President George H.W.Bush,2,3,2,5,4,1,571066588442,1
+2022-02-14 11:55:24,2022-02-14 12:01:32,0,74.79.209.255,100,368,1,2022-02-14 12:01:32,R_2BsNU1DRXPk2Rvv,,,,,42.928497314453125,-76.5590972900390625,anonymous,EN,1,,0,0,,4,4,3,sore throat remedies,5,3,3,5,4,1,1,4,4,how to prevent altitude sickness,5,3,5,5,5,2,1,3,4,history of Old Town Scottsdale,5,4,5,3,5,1,4,2,5,Former president George HW Bush,4,5,2,5,4,1,932014057110,1
+2022-02-14 11:58:19,2022-02-14 12:02:22,0,165.225.220.245,100,242,1,2022-02-14 12:02:22,R_3m4bU3WUo76dVlg,,,,,40.7427978515625,-73.97119903564453125,anonymous,EN,0.89999997615814208984375,,0,50,,4,4,4,home remedies for a sore throat,5,3,4,5,5,1,1,4,4,ways to prevent altitude sickness,5,4,5,5,5,1,1,4,4,Old Town Scottsdale history,5,4,5,3,5,1,2,3,4,biography of george h.w. bush,3,5,3,5,5,1,510288039990,0
+2022-02-14 12:00:48,2022-02-14 12:04:26,0,104.7.224.89,100,218,1,2022-02-14 12:04:27,R_31YGa43cPQJLSjV,,,,,28.57269287109375,-80.8206024169921875,anonymous,EN,0.89999997615814208984375,,0,0,,1,5,4,sore throat remedies,5,2,4,3,4,1,1,5,4,altitude sickness treatments,5,2,5,4,4,2,1,5,4,Scottsdale Arizona history,4,2,5,3,3,1,1,5,5,George H.W. Bush biography,3,5,2,4,3,1,337219668808,1
+2022-02-14 12:01:15,2022-02-14 12:04:31,0,71.63.47.189,100,195,1,2022-02-14 12:04:31,R_XzE9xD3ujhHiOsx,,,,,37.339202880859375,-77.41750335693359375,anonymous,EN,1,,0,0,,4,4,4,sore throat remedy,5,3,2,4,5,1,1,2,3,altitude sickness,5,4,5,5,2,2,1,1,3,Old Town Scottsdale,5,4,5,5,4,1,1,3,4,George H.W. Bush,4,5,3,5,3,1,897562647424,1
+2022-02-14 11:59:52,2022-02-14 12:04:54,0,104.5.21.103,100,302,1,2022-02-14 12:04:56,R_1q7DNzU0XTXgdQ4,,,,,41.6226959228515625,-86.24520111083984375,anonymous,EN,1,,0,0,,4,3,4,folk remedies for sore thoats,5,3,3,4,4,1,5,4,5,how to prevent altitude sickness,5,3,5,5,5,2,2,4,4,old town scottsdale history,5,4,5,3,3,1,4,3,4,george w. bush biographies,4,5,4,5,4,1,764593960251,1
+2022-02-14 12:04:23,2022-02-14 12:06:27,0,97.91.84.46,100,124,1,2022-02-14 12:06:27,R_2S1hdpw0HjiqskP,,,,,44.1551971435546875,-93.99610137939453125,anonymous,EN,1,,0,0,,2,2,4,sore throat folk remedies,5,2,3,3,2,1,1,2,4,altitude sickness treatments,5,4,5,4,3,1,1,3,4,Old Town Scottsdale history,5,4,4,2,3,1,2,1,5,"George HW Bush ",5,5,1,4,2,1,281286385934,0
+2022-02-14 11:57:30,2022-02-14 12:07:12,0,71.238.89.92,100,581,1,2022-02-14 12:07:12,R_332nwQsYHnAAxrk,,,,,45.480499267578125,-122.63629913330078125,anonymous,EN,1,,0,5,,2,5,5,sore throat home remedies,5,3,5,5,5,3,2,2,5,"Ways to prevent altitude sickness. ",5,4,5,5,4,4,1,2,4,Old Town Scottsdale history,5,4,5,4,5,1,2,2,5,George H.W. Bush facts,4,5,3,5,5,1,716253124922,2
+2022-02-14 11:52:26,2022-02-14 12:07:16,0,135.148.75.23,100,889,1,2022-02-14 12:07:16,R_2EhN36kmRkeFDZT,,,,,37.751007080078125,-97.82199859619140625,anonymous,EN,,,,,,5,4,5,remedies for sore throat?,4,1,2,5,5,1,1,5,3,What are the techniques and treatment for preventing altitude sickness?,5,1,5,4,1,1,1,3,2,old town scottsdale histories before swallowed up by phoenix,4,3,3,5,1,1,5,5,5,biographies of president George H.W Bush,2,5,2,5,2,1,908557928050,0
+2022-02-14 12:01:49,2022-02-14 12:07:36,0,24.113.30.48,100,346,1,2022-02-14 12:07:36,R_2SkjSoHc72bPFiU,,,,,48.1009979248046875,-123.43280029296875,anonymous,EN,0.89999997615814208984375,,0,20,,2,5,5,Home remedies for soar throat,5,1,1,2,5,1,2,5,4,Tips and treatments to prevent altitude sickness,5,2,5,5,3,1,1,4,3,History of Old Town Scottsdale Arizona,5,4,5,4,5,1,2,3,5,U.S. President George H. W. Bush Biography,3,4,1,5,4,1,561891576391,0
+2022-02-14 11:59:18,2022-02-14 12:08:36,0,68.12.250.235,100,557,1,2022-02-14 12:08:37,R_2uEDcUPgEICqEmu,,,,,35.53759765625,-97.96379852294921875,anonymous,EN,0.800000011920928955078125,,0,0,,5,5,4,Suck on throat lozenges.,3,3,3,2,1,2,4,5,5,"Treat nausea with sea-sickness or car-sickness medications, like promethazine.",1,4,1,3,2,3,5,4,4,Yunus understood that this was an indication,2,3,3,4,2,4,4,5,5,Treat yourself to something special so you have something to look forward to. ...,3,3,2,2,1,3,836777723697,4
+2022-02-14 12:03:28,2022-02-14 12:10:50,0,68.84.193.232,100,442,1,2022-02-14 12:10:52,R_1jNCAknqXF2JYRl,,,,,32.4062957763671875,-111.06330108642578125,anonymous,EN,0.89999997615814208984375,,0,0,,4,5,4,Gargle with warm salt water before bed.,5,2,5,5,4,5,4,5,4,"Stop and rest frequently, especially as shortness of breath or fatigue come on.",4,5,4,4,3,5,4,5,4,"You would want a suit that's resistant to hydrochloric acid, so that you could survive in the whale's stomachs.",5,4,4,5,3,4,4,5,5,"Treat yourself to something special so you have something to look forward to. ",5,3,4,4,5,2,769552282406,4
+2022-02-14 12:04:59,2022-02-14 12:11:52,0,45.35.97.203,100,412,1,2022-02-14 12:11:52,R_2EyQLkxAnwqEwM3,,,,,34.0493927001953125,-118.2660980224609375,anonymous,EN,1,,0,25,,4,5,4,sore throat,4,4,4,4,5,5,4,5,4,business trip,5,4,4,5,4,4,4,5,4,history of old town,4,5,4,4,4,5,4,5,4,US Presitent George,4,4,4,5,5,5,767862060107,4
+2022-02-14 12:11:07,2022-02-14 12:12:44,0,198.14.22.227,100,96,1,2022-02-14 12:12:44,R_0VBMxPmthJqKwM1,,,,,40.7487945556640625,-73.9882965087890625,anonymous,EN,1,,0,35,,3,4,4,GOOGLE,5,3,4,5,4,4,3,4,4,GOOGLE,3,4,4,4,5,5,3,4,4,GOOGLE,4,4,5,5,4,4,3,4,4,GOOGLE,5,4,4,4,4,4,370381661830,4
+2022-02-14 12:09:52,2022-02-14 12:13:36,0,74.71.225.26,100,224,1,2022-02-14 12:13:37,R_24OQFvB8nImM5I4,,,,,40.8000030517578125,-73.9763031005859375,anonymous,EN,1,,0,0,,4,5,4,LATE SLEEP AND HEALTHY CHANGES,5,4,3,5,5,5,4,5,5,SICKNESS ATITUDE AND MEXICO CITY DETAILED INTRUCTION ABOUT A HEALTH CHANGES,4,4,5,5,4,3,4,4,3,DRIVING NORTH IS BEATIFULL TO LIKE A RIDE WITH ALL,5,5,4,4,5,4,4,5,4,YE S I ALWAYS LIKE TO  READ SOME BIOS,4,4,5,5,4,5,985499979951,4
+2022-02-14 12:03:50,2022-02-14 12:13:45,0,198.14.22.231,100,594,1,2022-02-14 12:13:46,R_3rSpuupdjOzvB97,,,,,40.7487945556640625,-73.9882965087890625,anonymous,EN,1,,0,25,,4,4,3,folk remedies of cough and easy sleep,4,5,4,3,4,4,4,3,4,treatments are high suffer sickness,4,4,4,5,5,5,4,3,4,old town Scottsdale history,4,3,3,4,4,2,4,3,3,U.S President George H.W. Bush Life History,4,3,4,4,4,5,969223527633,4
+2022-02-14 12:12:49,2022-02-14 12:14:21,0,98.235.49.7,100,91,1,2022-02-14 12:14:21,R_ZKNOD4W7Astwc5X,,,,,40.2743988037109375,-76.70619964599609375,anonymous,EN,1,,0,0,,4,3,4,sore throat remedy,4,3,5,5,4,1,1,2,2,altitude sickness,4,4,4,5,3,1,1,2,2,Scottsdale town 17 highway,4,4,4,4,5,1,4,1,4,George H W Bush history,5,4,1,5,5,1,925662286928,0
+2022-02-14 12:08:53,2022-02-14 12:14:33,0,74.96.0.4,100,339,1,2022-02-14 12:14:33,R_3UEz3mZb29N9VVn,,,,,38.9033966064453125,-76.98819732666015625,anonymous,EN,1,,0,0,,4,5,5,homemade remedies for sore throats,5,3,4,5,5,1,2,2,4,helpful ways to treat/prevent altitude sickness,5,3,4,5,3,1,3,5,5,history of old town scottsdale Airzona,4,2,5,4,3,1,3,5,5,best biographies of president George H.W. Bush,3,4,2,4,5,1,752186844218,0
+2022-02-14 12:10:54,2022-02-14 12:16:18,0,67.163.230.27,100,323,1,2022-02-14 12:16:18,R_2uC0uwc2w7bktWE,,,,,40.1587982177734375,-79.81220245361328125,anonymous,EN,1,,0,0,,4,4,5,sore throat home remedies,5,2,5,5,5,1,1,4,4,prevent altitude sickness,5,3,4,5,5,1,1,2,4,history old town scottsdale,5,4,5,4,5,1,4,2,5,George HW Bush biographies,4,5,1,5,5,1,286768834991,0
+2022-02-14 12:13:34,2022-02-14 12:17:19,0,24.144.191.224,100,224,1,2022-02-14 12:17:19,R_1flc0Wgbn7seIDL,,,,,38.3838043212890625,-82.49919891357421875,anonymous,EN,1,,0,0,,5,5,5,sore throat remedies,5,3,3,4,5,1,4,3,5,altitude sickness treatment,5,4,5,5,4,1,5,5,5,history of Old Town Scottsdale AZ,5,4,5,3,4,1,5,5,5,George H.W. Bush biography,4,5,2,5,4,1,947212223056,0
+2022-02-14 11:19:40,2022-02-14 11:19:49,0,24.88.146.255,8,9,0,2022-02-14 12:19:46,R_1pyEiDlU80jrIyg,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,364657209627,0
+2022-02-14 12:16:32,2022-02-14 12:20:49,0,73.153.191.15,100,256,1,2022-02-14 12:20:49,R_1ginbSmKhO6mZrl,,,,,39.743499755859375,-105.06189727783203125,anonymous,EN,0.89999997615814208984375,,0,0,,4,1,2,"""home remedy"" ""sore throat""",5,1,1,2,3,1,4,1,5,prevent altitude sickness,5,3,5,4,3,1,1,3,5,"""old town"" ""scottsdale""",5,4,5,4,4,1,1,1,5,"""biography"" ""president george h w bush""",3,4,1,5,1,1,902837276831,0
+2022-02-14 11:20:54,2022-02-14 11:45:45,0,161.35.139.87,8,1490,0,2022-02-14 12:20:58,R_bBksq6UC8kAh1G9,,,,,,,anonymous,EN,1,,0,75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,457091552228,0
+2022-02-14 11:21:25,2022-02-14 11:21:59,0,73.175.0.76,8,33,0,2022-02-14 12:21:29,R_1Fewy4VJ0rxcmez,,,,,,,anonymous,EN,0.89999997615814208984375,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,149254107801,0
+2022-02-14 11:21:28,2022-02-14 11:41:08,0,24.208.204.197,54,1180,0,2022-02-14 12:21:33,R_2bO6RzH2wNBgSTv,,,,,,,anonymous,EN,0.89999997615814208984375,,0,0,,2,2,4,sore throat home remedy,5,3,5,5,5,0,2,2,4,altitude sickness remedies,5,5,5,5,5,3,,,,,,,,,,,,,,,,,,,,,277514781593,2
+2022-02-14 12:20:02,2022-02-14 12:21:38,0,64.121.102.112,100,96,1,2022-02-14 12:21:39,R_3kiGQwUNZm1wkkA,,,,,40.5995025634765625,-75.3762969970703125,anonymous,EN,0.89999997615814208984375,,0,0,,4,5,5,remedies for sore throat,5,2,3,2,5,1,5,5,4,preventing altitude sickness,5,4,5,4,4,1,1,1,3,old town scottsdale,5,4,5,4,5,1,2,1,5,George H.W Bush,5,5,3,5,4,1,768131666118,0
+2022-02-14 11:21:44,2022-02-14 11:27:14,0,66.118.5.29,54,330,0,2022-02-14 12:21:46,R_1P1AufhJ5tt5AKP,,,,,,,anonymous,EN,0.89999997615814208984375,,0,75,,,,,,,,,,,,4,5,4,business trip,5,4,3,5,4,5,4,4,5,IT WAS SWALLOWED UP BY PHONXEIX,4,5,4,5,4,4,,,,,,,,,,,251516530057,2
+2022-02-14 11:21:50,2022-02-14 11:22:19,0,174.194.142.102,8,29,0,2022-02-14 12:21:51,R_2xQUWVmcICAsO7O,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,954054767708,0
+2022-02-14 11:22:13,2022-02-14 11:22:16,0,65.25.90.80,8,3,0,2022-02-14 12:22:15,R_8cP3pMFvSYmmLXX,,,,,,,anonymous,EN,0.89999997615814208984375,true,90,5,2022-02-14 00:22:01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,520677092764,0
+2022-02-14 11:22:46,2022-02-14 11:22:58,0,208.203.219.69,8,11,0,2022-02-14 12:22:47,R_1OpJ9nR8pxpDwPz,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,711947029037,0
+2022-02-14 11:24:54,2022-02-14 11:25:42,0,73.6.20.90,8,47,0,2022-02-14 12:25:02,R_0GlVjFGsAbgbGiB,,,,,,,anonymous,EN,0.89999997615814208984375,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,599266243330,0
+2022-02-14 12:21:22,2022-02-14 12:25:18,0,71.223.34.121,100,235,1,2022-02-14 12:25:18,R_3hxXcsNtJ3nB39n,,,,,33.3428955078125,-111.63469696044921875,anonymous,EN,1,,0,0,,2,2,5,"Natural sore throat reliever ",5,4,4,5,5,1,1,1,5,How to prevent altitude sickness,5,4,3,5,3,1,1,4,5,Old Town Scottsdale history,5,4,5,4,4,1,2,1,5,George H.W. Bush biography  books,4,5,3,5,5,1,525537035055,0
+2022-02-14 12:21:31,2022-02-14 12:25:33,0,24.240.71.71,100,241,1,2022-02-14 12:25:33,R_3GeP4HClSJDxUWI,,,,,44.04840087890625,-92.4947967529296875,anonymous,EN,1,,0,10,,2,4,3,"sore throat in sleep, therapy, ",4,1,3,3,4,0,2,3,3,treatments for altitude sickness in Mexico City,3,3,4,3,4,0,1,4,2,"Scottsdale, history",4,4,5,2,4,1,3,4,4,Biography of George H. W. Bush,3,4,2,5,5,0,956482484331,3
+2022-02-14 12:22:19,2022-02-14 12:25:40,0,174.106.38.152,100,201,1,2022-02-14 12:25:40,R_2zvFsNyAQEftEMZ,,,,,34.228302001953125,-77.95189666748046875,anonymous,EN,1,,0,0,,5,4,5,natural sore throat remedies,5,2,1,4,4,1,2,4,5,altitude sickness treatments,5,3,5,5,5,3,1,5,5,old town scottsdale az history,5,4,5,4,4,1,3,2,5,george hw bush history,4,5,2,5,4,1,438597324816,1
+2022-02-14 12:26:12,2022-02-14 12:28:25,0,108.35.27.17,100,132,1,2022-02-14 12:28:25,R_3KOCyQw0BanfXcB,,,,,40.9734954833984375,-73.96070098876953125,anonymous,EN,1,,0,0,,4,5,5,sore throat treatment,5,4,5,4,4,1,4,4,5,altitude sickness treatment,5,5,5,4,3,2,1,1,4,old town scottsdale arizona,4,4,5,5,4,1,4,4,5,george hw bush,5,5,2,5,3,1,873374090692,1
+2022-02-14 12:22:25,2022-02-14 12:28:40,0,68.103.170.223,100,374,1,2022-02-14 12:28:41,R_2yr1gtnK3qzUcPA,,,,,37.068695068359375,-97.03099822998046875,anonymous,EN,1,true,90,5,2022-02-14 01:14:52,4,4,4,"homeopathic sore throat remedies ",5,2,1,4,5,1,4,4,4,help with altitude sickness in Mexico City,4,3,4,4,5,2,4,4,4,Info about Old Town Scottsdale AZ,5,4,5,4,5,1,4,4,4,historical information about George H. W. Bush,4,5,3,5,5,1,150148628698,1
+2022-02-14 12:31:40,2022-02-14 12:38:37,0,208.195.25.75,100,417,1,2022-02-14 12:38:38,R_1Ih3j482bA37HhV,,,,,35.332000732421875,-78.92120361328125,anonymous,EN,1,,0,0,,4,5,4,REMEDY FOR CURING SORE THROAT,3,4,5,4,4,3,3,4,4,TECHNIQUE TO HOW TO BE A NORMAL HEALTH PERSON INSTEAD OF ALTITUDE SICKNESS,3,3,4,4,5,4,2,4,4,WHAT ABOUT OLD TOWN SCOTTSDALE,4,2,4,4,3,4,3,4,5,BIOGRAPHY OF US PRESIDENT GEORGE H.W.BUSH,4,5,3,3,4,1,634974426566,3
+2022-02-14 11:39:10,2022-02-14 11:40:31,0,208.203.222.62,8,80,0,2022-02-14 12:39:17,R_3F2LDovebZHDkzb,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,669105796120,0
+2022-02-14 12:39:37,2022-02-14 12:44:32,0,147.124.217.100,100,294,1,2022-02-14 12:44:33,R_2WMeabt0iqEzRpk,,,,,32.776702880859375,-96.80500030517578125,anonymous,EN,1,,0,25,,4,4,4,remedie's of sore throat,3,1,5,4,5,2,4,4,4,prevention of altitude sickness,5,2,5,4,3,1,4,3,4,hsisory of town scottsdale,4,1,5,2,4,2,4,4,4,biography of H.W.Bush,3,5,4,4,5,3,129871592693,3
+2022-02-14 12:42:07,2022-02-14 12:45:12,0,72.201.122.93,100,184,1,2022-02-14 12:45:12,R_3O0aVwpAvmJpuKI,,,,,33.700103759765625,-111.88770294189453125,anonymous,EN,1,,0,0,,5,1,5,sore throat relief,5,2,1,5,5,1,1,1,4,Altitude sickness,5,5,5,5,5,1,5,5,5,History of old town scottsdale,5,1,5,1,1,1,4,4,5,George h w bush,5,5,3,5,1,1,870998947462,0
+2022-02-14 12:39:04,2022-02-14 12:45:43,0,24.243.102.169,100,399,1,2022-02-14 12:45:43,R_BxhqguV8l5B9Mt3,,,,,26.2823028564453125,-98.18250274658203125,anonymous,EN,1,,0,0,,5,3,5,folk remedies for sore throat,5,3,5,5,5,1,2,3,5,how to prevent altitude sickness,5,3,5,5,5,1,1,3,5,what was old town scottsdale like before Phoenix took over,5,5,5,4,5,1,4,1,5,President George H.W. Bush biography,4,5,2,5,5,1,846031926502,0
+2022-02-14 11:51:44,2022-02-14 11:56:10,0,196.16.109.5,8,266,0,2022-02-14 12:51:51,R_9n6deUpfwnwa0O5,,,,,,,anonymous,EN,1,,0,75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,615328113269,0
+2022-02-14 12:49:50,2022-02-14 12:52:10,0,174.45.168.171,100,139,1,2022-02-14 12:52:11,R_2zZJHRAZmr8n3cO,,,,,39.0760955810546875,-108.54509735107421875,anonymous,EN,0.89999997615814208984375,,0,5,,5,3,4,folk remedies for sore throat,5,3,1,4,5,1,4,4,5,altitude sickness remedies,5,4,5,5,5,1,2,3,4,scottsdale az history,5,4,5,5,4,1,3,3,5,biographies of gw bush,4,5,3,5,5,1,177418083650,0
+2022-02-14 12:47:39,2022-02-14 12:53:22,0,45.42.190.75,100,342,1,2022-02-14 12:53:22,R_2qfKb9PXzYAbwKF,,,,,38.886505126953125,-77.09110260009765625,anonymous,EN,1,,0,75,,4,3,3,what are the remedies of cold?,5,5,4,4,4,4,4,5,4,what are the solutions of altitude sickness?,4,4,3,5,5,4,3,3,4,what is the history of arizona?,5,4,3,4,3,3,4,3,4,about us president George  H.W. Push,3,4,5,4,4,5,640452170860,4
+2022-02-14 11:53:48,2022-02-14 11:54:40,0,185.209.179.204,8,51,0,2022-02-14 12:53:57,R_2zZr28ucqlggGNI,,,,,,,anonymous,EN,1,,0,105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,555940747633,0
+2022-02-14 11:55:50,2022-02-14 11:55:59,0,71.71.214.155,8,8,0,2022-02-14 12:55:58,R_2Yslt5bUGffbbmg,,,,,,,anonymous,EN,1,true,100,0,2022-02-14 00:49:03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,209299515699,0
+2022-02-14 11:58:42,2022-02-14 11:59:45,8,70.106.251.139,8,62,0,2022-02-14 12:58:44,R_1ffR8It1WCU5WyZ,,,,,,,anonymous,EN,1,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,684383528959,0
+2022-02-14 13:01:22,2022-02-14 13:04:45,0,47.203.92.56,100,203,1,2022-02-14 13:04:46,R_1dp4AKyJ1CI55M8,,,,,28.35260009765625,-82.630096435546875,anonymous,EN,1,,0,20,,1,4,4,sore throat folk treatment,5,3,3,4,4,1,1,4,4,altitude sickness prevention,5,3,5,4,5,2,1,4,4,History of Old Town Scottsdale Arizona,4,3,5,3,4,1,4,3,4,George H.W. Bush biographies,3,5,2,5,4,1,661207913281,1
+2022-02-14 12:14:34,2022-02-14 12:22:20,0,68.103.170.223,92,466,0,2022-02-14 13:14:36,R_Z2ac6emDrNNu5O1,,,,,,,anonymous,EN,1,,0,0,,4,4,4,"herbal cough remedies ",5,2,4,5,5,1,4,4,4,"Fight altitude sickness naturally ",5,4,5,5,5,2,4,4,4,historical info about Old Town Scottsdale Arizona,5,4,5,4,5,1,4,4,4,Biographical info about former President George W. Bush,,,,,,,189268278586,1
+2022-02-14 12:40:32,2022-02-14 12:41:25,0,47.212.78.22,8,53,0,2022-02-14 13:40:37,R_1LtBdB6S4XLubu2,,,,,,,anonymous,EN,1,,0,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,678772216103,0
